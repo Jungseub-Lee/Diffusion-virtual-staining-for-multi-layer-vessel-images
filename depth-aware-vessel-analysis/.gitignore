@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.eggs/
+results/
+batch_results/
+*.png
+*.jpg
+!examples/*.png
+.DS_Store

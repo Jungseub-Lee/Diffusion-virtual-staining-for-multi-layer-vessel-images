@@ -1,0 +1,116 @@
+# === Raw dataset (store externally on Zenodo/Figshare) ===
+# Brackets must be escaped — git treats [1] as a character class otherwise
+\[1\] Data/
+
+# === Dependencies & caches ===
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# === Python env ===
+.env
+.venv/
+venv/
+
+# === Editor / OS ===
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Local Claude Code config ===
+.claude/
+
+# === Intermediate debug output ===
+analysis_output/debug_pipeline/
+
+# === Root-level schematic PPTX — keep only v9 (latest) ===
+depth_schematic_v1.pptx
+depth_schematic_v2.pptx
+depth_schematic_v3.pptx
+depth_schematic_v4.pptx
+depth_schematic_v5.pptx
+depth_schematic_v6.pptx
+depth_schematic_v7.pptx
+depth_schematic_v8.pptx
+depth_aware_schematic.pptx
+
+# === Old figure versions in analysis_output — keep only final/latest ===
+# Fig 1E Pipeline: keep v3b
+analysis_output/Figure_1E_Pipeline.pptx
+analysis_output/Figure_1E_Pipeline_v2.pptx
+analysis_output/Figure_1E_Pipeline_v3.pptx
+
+# Depth Pipeline: keep v5
+analysis_output/Figure_Depth_Pipeline.pptx
+analysis_output/Figure_Depth_Pipeline_v2.pptx
+analysis_output/Figure_Depth_Pipeline_v3.pptx
+analysis_output/Figure_Depth_Pipeline_v4.pptx
+analysis_output/Figure_Depth_Pipeline_v4.1.pptx
+
+# DepthAware: keep v2
+analysis_output/Figure_DepthAware_Analysis.pptx
+
+# Dataset DepthEncoding: keep v2
+analysis_output/Figure_Dataset_DepthEncoding.pptx
+
+# A4: keep final
+analysis_output/Figure_A4_portrait.pptx
+
+# Complete: keep v3
+analysis_output/Figure_Complete.pptx
+
+# Perlayer Concordance: keep v12 + RGB variant
+analysis_output/Figure_Perlayer_Concordance.pptx
+analysis_output/Figure_Perlayer_Concordance_v2.pptx
+analysis_output/Figure_Perlayer_Concordance_v3.pptx
+analysis_output/Figure_Perlayer_Concordance_v4.pptx
+analysis_output/Figure_Perlayer_Concordance_v5.pptx
+analysis_output/Figure_Perlayer_Concordance_v6.pptx
+analysis_output/Figure_Perlayer_Concordance_v7.pptx
+analysis_output/Figure_Perlayer_Concordance_v8.pptx
+analysis_output/Figure_Perlayer_Concordance_v9.pptx
+analysis_output/Figure_Perlayer_Concordance_v10.pptx
+analysis_output/Figure_Perlayer_Concordance_v11.pptx
+
+# Per-sample: keep final
+analysis_output/Figure_PerSample_Comparison.pptx
+
+# S2 Bridging: keep v2
+analysis_output/Figure_S2_Bridging.pptx
+
+# === Intermediate debug PNGs in analysis_output (keep only final figures) ===
+analysis_output/rgb_*.png
+analysis_output/skel_*.png
+analysis_output/smart_*.png
+analysis_output/heatmap_*.png
+analysis_output/hybrid_*.png
+analysis_output/network_*.png
+analysis_output/gradient_*.png
+analysis_output/contour_curvature_*.png
+analysis_output/baseline_*.png
+analysis_output/endpoint_*.png
+analysis_output/debug_*.png
+analysis_output/plan_b_*.png
+analysis_output/regenerate_*.png
+analysis_output/gen_*.png
+analysis_output/find_*.png
+analysis_output/depth_layer_*.png
+analysis_output/dataset_depth_overlap.png
+analysis_output/dataset_hue_histogram.png
+analysis_output/dataset_layer_intensity.png
+analysis_output/selected_v2_*.png
+analysis_output/single_vs_multi_comparison.png
+analysis_output/final_bars_no_crop.png
+
+# Intermediate JSON results (keep only final_results.json + holefilled)
+analysis_output/final_results_clean_crop10.json
+analysis_output/final_results_crop10.json
+
+# === Git ===
+*.orig
+*.rej

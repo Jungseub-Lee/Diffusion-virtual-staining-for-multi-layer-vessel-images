@@ -1,0 +1,9050 @@
+{
+  "GT": {
+    "single": [
+      {
+        "sid": "1-0-512",
+        "junctions": 14,
+        "endpoints": 6,
+        "length": 445,
+        "area": 4476
+      },
+      {
+        "sid": "1-0-716",
+        "junctions": 37,
+        "endpoints": 12,
+        "length": 496,
+        "area": 3889
+      },
+      {
+        "sid": "1-1-512",
+        "junctions": 52,
+        "endpoints": 13,
+        "length": 1027,
+        "area": 10391
+      },
+      {
+        "sid": "1-1-716",
+        "junctions": 51,
+        "endpoints": 17,
+        "length": 822,
+        "area": 6402
+      },
+      {
+        "sid": "1-10-512",
+        "junctions": 53,
+        "endpoints": 26,
+        "length": 948,
+        "area": 7709
+      },
+      {
+        "sid": "1-10-716",
+        "junctions": 50,
+        "endpoints": 16,
+        "length": 687,
+        "area": 4774
+      },
+      {
+        "sid": "1-11-512",
+        "junctions": 118,
+        "endpoints": 19,
+        "length": 1400,
+        "area": 14392
+      },
+      {
+        "sid": "1-11-716",
+        "junctions": 89,
+        "endpoints": 21,
+        "length": 993,
+        "area": 7987
+      },
+      {
+        "sid": "1-12-512",
+        "junctions": 113,
+        "endpoints": 25,
+        "length": 1435,
+        "area": 14589
+      },
+      {
+        "sid": "1-12-716",
+        "junctions": 85,
+        "endpoints": 23,
+        "length": 1062,
+        "area": 8655
+      },
+      {
+        "sid": "1-13-512",
+        "junctions": 100,
+        "endpoints": 25,
+        "length": 1431,
+        "area": 14572
+      },
+      {
+        "sid": "1-13-716",
+        "junctions": 119,
+        "endpoints": 33,
+        "length": 1341,
+        "area": 11713
+      },
+      {
+        "sid": "1-14-512",
+        "junctions": 131,
+        "endpoints": 21,
+        "length": 1883,
+        "area": 23235
+      },
+      {
+        "sid": "1-14-716",
+        "junctions": 114,
+        "endpoints": 22,
+        "length": 1487,
+        "area": 14310
+      },
+      {
+        "sid": "1-15-512",
+        "junctions": 125,
+        "endpoints": 18,
+        "length": 1776,
+        "area": 20843
+      },
+      {
+        "sid": "1-15-716",
+        "junctions": 132,
+        "endpoints": 21,
+        "length": 1595,
+        "area": 15071
+      },
+      {
+        "sid": "1-16-512",
+        "junctions": 82,
+        "endpoints": 18,
+        "length": 1451,
+        "area": 15355
+      },
+      {
+        "sid": "1-16-716",
+        "junctions": 106,
+        "endpoints": 20,
+        "length": 1339,
+        "area": 12379
+      },
+      {
+        "sid": "1-17-512",
+        "junctions": 121,
+        "endpoints": 18,
+        "length": 1521,
+        "area": 17068
+      },
+      {
+        "sid": "1-17-716",
+        "junctions": 101,
+        "endpoints": 21,
+        "length": 1162,
+        "area": 10453
+      },
+      {
+        "sid": "1-18-512",
+        "junctions": 114,
+        "endpoints": 17,
+        "length": 1429,
+        "area": 14614
+      },
+      {
+        "sid": "1-18-716",
+        "junctions": 115,
+        "endpoints": 20,
+        "length": 1085,
+        "area": 9043
+      },
+      {
+        "sid": "1-19-512",
+        "junctions": 72,
+        "endpoints": 10,
+        "length": 947,
+        "area": 8796
+      },
+      {
+        "sid": "1-19-716",
+        "junctions": 85,
+        "endpoints": 18,
+        "length": 857,
+        "area": 6458
+      },
+      {
+        "sid": "1-2-512",
+        "junctions": 76,
+        "endpoints": 17,
+        "length": 1124,
+        "area": 11636
+      },
+      {
+        "sid": "1-2-716",
+        "junctions": 53,
+        "endpoints": 16,
+        "length": 816,
+        "area": 6485
+      },
+      {
+        "sid": "1-3-512",
+        "junctions": 51,
+        "endpoints": 7,
+        "length": 789,
+        "area": 8145
+      },
+      {
+        "sid": "1-3-716",
+        "junctions": 41,
+        "endpoints": 13,
+        "length": 699,
+        "area": 4978
+      },
+      {
+        "sid": "1-4-512",
+        "junctions": 30,
+        "endpoints": 12,
+        "length": 727,
+        "area": 6073
+      },
+      {
+        "sid": "1-4-716",
+        "junctions": 47,
+        "endpoints": 14,
+        "length": 818,
+        "area": 5721
+      },
+      {
+        "sid": "1-5-512",
+        "junctions": 67,
+        "endpoints": 18,
+        "length": 1152,
+        "area": 11286
+      },
+      {
+        "sid": "1-5-716",
+        "junctions": 66,
+        "endpoints": 23,
+        "length": 866,
+        "area": 6333
+      },
+      {
+        "sid": "1-6-512",
+        "junctions": 74,
+        "endpoints": 19,
+        "length": 1101,
+        "area": 13385
+      },
+      {
+        "sid": "1-6-716",
+        "junctions": 65,
+        "endpoints": 19,
+        "length": 912,
+        "area": 8394
+      },
+      {
+        "sid": "1-7-512",
+        "junctions": 45,
+        "endpoints": 18,
+        "length": 941,
+        "area": 11485
+      },
+      {
+        "sid": "1-7-716",
+        "junctions": 45,
+        "endpoints": 21,
+        "length": 779,
+        "area": 6812
+      },
+      {
+        "sid": "1-8-512",
+        "junctions": 63,
+        "endpoints": 24,
+        "length": 833,
+        "area": 7406
+      },
+      {
+        "sid": "1-8-716",
+        "junctions": 38,
+        "endpoints": 16,
+        "length": 733,
+        "area": 5644
+      },
+      {
+        "sid": "1-9-512",
+        "junctions": 68,
+        "endpoints": 29,
+        "length": 829,
+        "area": 7549
+      },
+      {
+        "sid": "1-9-716",
+        "junctions": 59,
+        "endpoints": 21,
+        "length": 654,
+        "area": 4425
+      },
+      {
+        "sid": "14-0-512",
+        "junctions": 56,
+        "endpoints": 20,
+        "length": 1007,
+        "area": 7491
+      },
+      {
+        "sid": "14-0-716",
+        "junctions": 49,
+        "endpoints": 24,
+        "length": 712,
+        "area": 3729
+      },
+      {
+        "sid": "14-1-512",
+        "junctions": 82,
+        "endpoints": 24,
+        "length": 1050,
+        "area": 8674
+      },
+      {
+        "sid": "14-1-716",
+        "junctions": 41,
+        "endpoints": 24,
+        "length": 760,
+        "area": 4643
+      },
+      {
+        "sid": "14-12-512",
+        "junctions": 100,
+        "endpoints": 14,
+        "length": 1430,
+        "area": 19318
+      },
+      {
+        "sid": "14-12-716",
+        "junctions": 117,
+        "endpoints": 16,
+        "length": 1258,
+        "area": 12805
+      },
+      {
+        "sid": "14-13-512",
+        "junctions": 110,
+        "endpoints": 14,
+        "length": 1602,
+        "area": 24107
+      },
+      {
+        "sid": "14-13-716",
+        "junctions": 116,
+        "endpoints": 19,
+        "length": 1508,
+        "area": 16479
+      },
+      {
+        "sid": "14-14-512",
+        "junctions": 156,
+        "endpoints": 15,
+        "length": 2141,
+        "area": 32652
+      },
+      {
+        "sid": "14-14-716",
+        "junctions": 189,
+        "endpoints": 22,
+        "length": 2041,
+        "area": 23127
+      },
+      {
+        "sid": "14-15-512",
+        "junctions": 192,
+        "endpoints": 17,
+        "length": 2552,
+        "area": 37551
+      },
+      {
+        "sid": "14-15-716",
+        "junctions": 239,
+        "endpoints": 29,
+        "length": 2476,
+        "area": 25721
+      },
+      {
+        "sid": "14-16-512",
+        "junctions": 177,
+        "endpoints": 21,
+        "length": 2337,
+        "area": 26307
+      },
+      {
+        "sid": "14-16-716",
+        "junctions": 233,
+        "endpoints": 31,
+        "length": 2364,
+        "area": 21765
+      },
+      {
+        "sid": "14-2-512",
+        "junctions": 67,
+        "endpoints": 19,
+        "length": 1019,
+        "area": 9009
+      },
+      {
+        "sid": "14-2-716",
+        "junctions": 54,
+        "endpoints": 21,
+        "length": 799,
+        "area": 5228
+      },
+      {
+        "sid": "14-3-512",
+        "junctions": 82,
+        "endpoints": 22,
+        "length": 1037,
+        "area": 9243
+      },
+      {
+        "sid": "14-3-716",
+        "junctions": 92,
+        "endpoints": 27,
+        "length": 1043,
+        "area": 6868
+      },
+      {
+        "sid": "14-4-512",
+        "junctions": 102,
+        "endpoints": 20,
+        "length": 1372,
+        "area": 12706
+      },
+      {
+        "sid": "14-4-716",
+        "junctions": 117,
+        "endpoints": 28,
+        "length": 1252,
+        "area": 8573
+      },
+      {
+        "sid": "14-5-512",
+        "junctions": 78,
+        "endpoints": 11,
+        "length": 1319,
+        "area": 14353
+      },
+      {
+        "sid": "14-5-716",
+        "junctions": 93,
+        "endpoints": 18,
+        "length": 1172,
+        "area": 9444
+      },
+      {
+        "sid": "14-6-512",
+        "junctions": 56,
+        "endpoints": 12,
+        "length": 1287,
+        "area": 14298
+      },
+      {
+        "sid": "14-6-716",
+        "junctions": 95,
+        "endpoints": 23,
+        "length": 1284,
+        "area": 10197
+      },
+      {
+        "sid": "14-7-512",
+        "junctions": 120,
+        "endpoints": 20,
+        "length": 1750,
+        "area": 18270
+      },
+      {
+        "sid": "14-7-716",
+        "junctions": 115,
+        "endpoints": 29,
+        "length": 1363,
+        "area": 10814
+      },
+      {
+        "sid": "14-8-512",
+        "junctions": 139,
+        "endpoints": 31,
+        "length": 1840,
+        "area": 16050
+      },
+      {
+        "sid": "14-8-716",
+        "junctions": 148,
+        "endpoints": 34,
+        "length": 1436,
+        "area": 9370
+      },
+      {
+        "sid": "16-18-512",
+        "junctions": 72,
+        "endpoints": 20,
+        "length": 1075,
+        "area": 10312
+      },
+      {
+        "sid": "16-19-512",
+        "junctions": 62,
+        "endpoints": 16,
+        "length": 813,
+        "area": 6877
+      },
+      {
+        "sid": "16-19-716",
+        "junctions": 51,
+        "endpoints": 17,
+        "length": 626,
+        "area": 4206
+      },
+      {
+        "sid": "18-0-512",
+        "junctions": 80,
+        "endpoints": 20,
+        "length": 983,
+        "area": 10955
+      },
+      {
+        "sid": "18-0-716",
+        "junctions": 85,
+        "endpoints": 18,
+        "length": 822,
+        "area": 6965
+      },
+      {
+        "sid": "18-1-512",
+        "junctions": 112,
+        "endpoints": 27,
+        "length": 1298,
+        "area": 13269
+      },
+      {
+        "sid": "18-1-716",
+        "junctions": 95,
+        "endpoints": 28,
+        "length": 936,
+        "area": 7085
+      },
+      {
+        "sid": "18-10-512",
+        "junctions": 54,
+        "endpoints": 18,
+        "length": 819,
+        "area": 9412
+      },
+      {
+        "sid": "18-10-716",
+        "junctions": 54,
+        "endpoints": 16,
+        "length": 644,
+        "area": 6187
+      },
+      {
+        "sid": "18-11-512",
+        "junctions": 59,
+        "endpoints": 13,
+        "length": 864,
+        "area": 15180
+      },
+      {
+        "sid": "18-11-716",
+        "junctions": 47,
+        "endpoints": 12,
+        "length": 669,
+        "area": 9318
+      },
+      {
+        "sid": "18-12-512",
+        "junctions": 113,
+        "endpoints": 13,
+        "length": 1413,
+        "area": 22325
+      },
+      {
+        "sid": "18-12-716",
+        "junctions": 78,
+        "endpoints": 11,
+        "length": 933,
+        "area": 13006
+      },
+      {
+        "sid": "18-13-512",
+        "junctions": 156,
+        "endpoints": 18,
+        "length": 1742,
+        "area": 24660
+      },
+      {
+        "sid": "18-13-716",
+        "junctions": 140,
+        "endpoints": 10,
+        "length": 1335,
+        "area": 14360
+      },
+      {
+        "sid": "18-14-512",
+        "junctions": 135,
+        "endpoints": 23,
+        "length": 1524,
+        "area": 19270
+      },
+      {
+        "sid": "18-14-716",
+        "junctions": 141,
+        "endpoints": 23,
+        "length": 1257,
+        "area": 12716
+      },
+      {
+        "sid": "18-15-512",
+        "junctions": 144,
+        "endpoints": 29,
+        "length": 1426,
+        "area": 15149
+      },
+      {
+        "sid": "18-15-716",
+        "junctions": 125,
+        "endpoints": 25,
+        "length": 1178,
+        "area": 10125
+      },
+      {
+        "sid": "18-16-512",
+        "junctions": 122,
+        "endpoints": 23,
+        "length": 1641,
+        "area": 20070
+      },
+      {
+        "sid": "18-16-716",
+        "junctions": 116,
+        "endpoints": 21,
+        "length": 1200,
+        "area": 11495
+      },
+      {
+        "sid": "18-17-512",
+        "junctions": 90,
+        "endpoints": 14,
+        "length": 1293,
+        "area": 17182
+      },
+      {
+        "sid": "18-17-716",
+        "junctions": 100,
+        "endpoints": 27,
+        "length": 1108,
+        "area": 11110
+      },
+      {
+        "sid": "18-18-512",
+        "junctions": 62,
+        "endpoints": 12,
+        "length": 965,
+        "area": 10122
+      },
+      {
+        "sid": "18-18-716",
+        "junctions": 78,
+        "endpoints": 14,
+        "length": 935,
+        "area": 9590
+      },
+      {
+        "sid": "18-19-512",
+        "junctions": 95,
+        "endpoints": 14,
+        "length": 1357,
+        "area": 11891
+      },
+      {
+        "sid": "18-19-716",
+        "junctions": 78,
+        "endpoints": 18,
+        "length": 1055,
+        "area": 7340
+      },
+      {
+        "sid": "18-2-512",
+        "junctions": 89,
+        "endpoints": 31,
+        "length": 1028,
+        "area": 10604
+      },
+      {
+        "sid": "18-2-716",
+        "junctions": 65,
+        "endpoints": 25,
+        "length": 695,
+        "area": 5195
+      },
+      {
+        "sid": "18-3-512",
+        "junctions": 42,
+        "endpoints": 17,
+        "length": 759,
+        "area": 9196
+      },
+      {
+        "sid": "18-3-716",
+        "junctions": 43,
+        "endpoints": 13,
+        "length": 591,
+        "area": 5731
+      },
+      {
+        "sid": "18-4-512",
+        "junctions": 51,
+        "endpoints": 12,
+        "length": 877,
+        "area": 11707
+      },
+      {
+        "sid": "18-5-512",
+        "junctions": 47,
+        "endpoints": 9,
+        "length": 760,
+        "area": 10620
+      },
+      {
+        "sid": "18-5-716",
+        "junctions": 65,
+        "endpoints": 19,
+        "length": 707,
+        "area": 6834
+      },
+      {
+        "sid": "18-6-512",
+        "junctions": 70,
+        "endpoints": 25,
+        "length": 938,
+        "area": 10937
+      },
+      {
+        "sid": "18-6-716",
+        "junctions": 86,
+        "endpoints": 17,
+        "length": 754,
+        "area": 6645
+      },
+      {
+        "sid": "18-7-512",
+        "junctions": 96,
+        "endpoints": 16,
+        "length": 1057,
+        "area": 12762
+      },
+      {
+        "sid": "18-7-716",
+        "junctions": 96,
+        "endpoints": 17,
+        "length": 780,
+        "area": 6788
+      },
+      {
+        "sid": "18-8-512",
+        "junctions": 54,
+        "endpoints": 12,
+        "length": 769,
+        "area": 9666
+      },
+      {
+        "sid": "18-9-512",
+        "junctions": 61,
+        "endpoints": 18,
+        "length": 801,
+        "area": 8707
+      },
+      {
+        "sid": "18-9-716",
+        "junctions": 60,
+        "endpoints": 25,
+        "length": 713,
+        "area": 5392
+      },
+      {
+        "sid": "23-11-716",
+        "junctions": 49,
+        "endpoints": 11,
+        "length": 577,
+        "area": 8748
+      },
+      {
+        "sid": "23-12-512",
+        "junctions": 109,
+        "endpoints": 21,
+        "length": 1310,
+        "area": 18013
+      },
+      {
+        "sid": "23-12-716",
+        "junctions": 77,
+        "endpoints": 13,
+        "length": 790,
+        "area": 10527
+      },
+      {
+        "sid": "23-13-512",
+        "junctions": 111,
+        "endpoints": 24,
+        "length": 1195,
+        "area": 14650
+      },
+      {
+        "sid": "23-13-716",
+        "junctions": 94,
+        "endpoints": 19,
+        "length": 922,
+        "area": 12576
+      },
+      {
+        "sid": "23-14-512",
+        "junctions": 77,
+        "endpoints": 22,
+        "length": 1051,
+        "area": 19987
+      },
+      {
+        "sid": "23-14-716",
+        "junctions": 80,
+        "endpoints": 16,
+        "length": 852,
+        "area": 12184
+      },
+      {
+        "sid": "23-15-512",
+        "junctions": 73,
+        "endpoints": 13,
+        "length": 1007,
+        "area": 19471
+      },
+      {
+        "sid": "23-15-716",
+        "junctions": 73,
+        "endpoints": 14,
+        "length": 775,
+        "area": 12233
+      },
+      {
+        "sid": "23-16-512",
+        "junctions": 67,
+        "endpoints": 18,
+        "length": 994,
+        "area": 15404
+      },
+      {
+        "sid": "23-16-716",
+        "junctions": 70,
+        "endpoints": 16,
+        "length": 742,
+        "area": 8912
+      },
+      {
+        "sid": "23-17-512",
+        "junctions": 64,
+        "endpoints": 25,
+        "length": 1048,
+        "area": 14231
+      },
+      {
+        "sid": "23-17-716",
+        "junctions": 81,
+        "endpoints": 24,
+        "length": 818,
+        "area": 8671
+      },
+      {
+        "sid": "23-18-512",
+        "junctions": 66,
+        "endpoints": 18,
+        "length": 958,
+        "area": 13685
+      },
+      {
+        "sid": "23-18-716",
+        "junctions": 86,
+        "endpoints": 26,
+        "length": 826,
+        "area": 8290
+      },
+      {
+        "sid": "23-19-512",
+        "junctions": 70,
+        "endpoints": 16,
+        "length": 999,
+        "area": 10418
+      },
+      {
+        "sid": "23-19-716",
+        "junctions": 72,
+        "endpoints": 17,
+        "length": 786,
+        "area": 6892
+      },
+      {
+        "sid": "23-4-512",
+        "junctions": 0,
+        "endpoints": 1,
+        "length": 84,
+        "area": 535
+      },
+      {
+        "sid": "23-4-716",
+        "junctions": 0,
+        "endpoints": 4,
+        "length": 73,
+        "area": 309
+      },
+      {
+        "sid": "23-5-512",
+        "junctions": 0,
+        "endpoints": 1,
+        "length": 60,
+        "area": 258
+      },
+      {
+        "sid": "23-5-716",
+        "junctions": 0,
+        "endpoints": 3,
+        "length": 20,
+        "area": 63
+      },
+      {
+        "sid": "23-6-512",
+        "junctions": 0,
+        "endpoints": 1,
+        "length": 60,
+        "area": 261
+      },
+      {
+        "sid": "23-6-716",
+        "junctions": 0,
+        "endpoints": 2,
+        "length": 5,
+        "area": 11
+      },
+      {
+        "sid": "36-0-512",
+        "junctions": 3,
+        "endpoints": 4,
+        "length": 123,
+        "area": 784
+      },
+      {
+        "sid": "36-0-716",
+        "junctions": 4,
+        "endpoints": 2,
+        "length": 91,
+        "area": 545
+      },
+      {
+        "sid": "36-1-716",
+        "junctions": 7,
+        "endpoints": 8,
+        "length": 111,
+        "area": 681
+      },
+      {
+        "sid": "36-10-512",
+        "junctions": 58,
+        "endpoints": 12,
+        "length": 839,
+        "area": 13041
+      },
+      {
+        "sid": "36-10-716",
+        "junctions": 58,
+        "endpoints": 12,
+        "length": 536,
+        "area": 6618
+      },
+      {
+        "sid": "36-11-512",
+        "junctions": 69,
+        "endpoints": 12,
+        "length": 697,
+        "area": 11801
+      },
+      {
+        "sid": "36-11-716",
+        "junctions": 31,
+        "endpoints": 9,
+        "length": 475,
+        "area": 6084
+      },
+      {
+        "sid": "36-12-512",
+        "junctions": 59,
+        "endpoints": 13,
+        "length": 699,
+        "area": 8528
+      },
+      {
+        "sid": "36-12-716",
+        "junctions": 36,
+        "endpoints": 18,
+        "length": 499,
+        "area": 5237
+      },
+      {
+        "sid": "36-13-512",
+        "junctions": 90,
+        "endpoints": 18,
+        "length": 873,
+        "area": 11040
+      },
+      {
+        "sid": "36-13-716",
+        "junctions": 45,
+        "endpoints": 21,
+        "length": 564,
+        "area": 6059
+      },
+      {
+        "sid": "36-14-512",
+        "junctions": 102,
+        "endpoints": 28,
+        "length": 1025,
+        "area": 12985
+      },
+      {
+        "sid": "36-15-512",
+        "junctions": 86,
+        "endpoints": 26,
+        "length": 946,
+        "area": 10578
+      },
+      {
+        "sid": "36-15-716",
+        "junctions": 40,
+        "endpoints": 20,
+        "length": 540,
+        "area": 5536
+      },
+      {
+        "sid": "36-2-512",
+        "junctions": 14,
+        "endpoints": 12,
+        "length": 250,
+        "area": 1897
+      },
+      {
+        "sid": "36-2-716",
+        "junctions": 8,
+        "endpoints": 9,
+        "length": 142,
+        "area": 838
+      },
+      {
+        "sid": "36-3-512",
+        "junctions": 9,
+        "endpoints": 8,
+        "length": 225,
+        "area": 2205
+      },
+      {
+        "sid": "36-3-716",
+        "junctions": 5,
+        "endpoints": 8,
+        "length": 140,
+        "area": 927
+      },
+      {
+        "sid": "36-4-512",
+        "junctions": 19,
+        "endpoints": 9,
+        "length": 215,
+        "area": 2179
+      },
+      {
+        "sid": "36-4-716",
+        "junctions": 5,
+        "endpoints": 6,
+        "length": 117,
+        "area": 859
+      },
+      {
+        "sid": "36-5-512",
+        "junctions": 8,
+        "endpoints": 15,
+        "length": 236,
+        "area": 1481
+      },
+      {
+        "sid": "36-5-716",
+        "junctions": 8,
+        "endpoints": 12,
+        "length": 179,
+        "area": 1255
+      },
+      {
+        "sid": "36-6-512",
+        "junctions": 11,
+        "endpoints": 15,
+        "length": 317,
+        "area": 3642
+      },
+      {
+        "sid": "36-6-716",
+        "junctions": 4,
+        "endpoints": 10,
+        "length": 144,
+        "area": 1263
+      },
+      {
+        "sid": "36-7-512",
+        "junctions": 6,
+        "endpoints": 8,
+        "length": 223,
+        "area": 4755
+      },
+      {
+        "sid": "36-7-716",
+        "junctions": 2,
+        "endpoints": 10,
+        "length": 134,
+        "area": 1770
+      },
+      {
+        "sid": "36-8-512",
+        "junctions": 11,
+        "endpoints": 6,
+        "length": 193,
+        "area": 5879
+      },
+      {
+        "sid": "36-8-716",
+        "junctions": 18,
+        "endpoints": 5,
+        "length": 237,
+        "area": 2775
+      },
+      {
+        "sid": "36-9-512",
+        "junctions": 40,
+        "endpoints": 11,
+        "length": 598,
+        "area": 9756
+      },
+      {
+        "sid": "36-9-716",
+        "junctions": 34,
+        "endpoints": 11,
+        "length": 417,
+        "area": 5432
+      },
+      {
+        "sid": "37-1-512",
+        "junctions": 11,
+        "endpoints": 7,
+        "length": 456,
+        "area": 4378
+      },
+      {
+        "sid": "37-1-716",
+        "junctions": 6,
+        "endpoints": 5,
+        "length": 286,
+        "area": 1932
+      },
+      {
+        "sid": "37-10-512",
+        "junctions": 19,
+        "endpoints": 10,
+        "length": 372,
+        "area": 4424
+      },
+      {
+        "sid": "37-10-716",
+        "junctions": 14,
+        "endpoints": 7,
+        "length": 220,
+        "area": 2008
+      },
+      {
+        "sid": "37-11-512",
+        "junctions": 43,
+        "endpoints": 17,
+        "length": 474,
+        "area": 5479
+      },
+      {
+        "sid": "37-11-716",
+        "junctions": 20,
+        "endpoints": 10,
+        "length": 210,
+        "area": 1957
+      },
+      {
+        "sid": "37-12-512",
+        "junctions": 26,
+        "endpoints": 12,
+        "length": 313,
+        "area": 3529
+      },
+      {
+        "sid": "37-12-716",
+        "junctions": 16,
+        "endpoints": 10,
+        "length": 186,
+        "area": 1813
+      },
+      {
+        "sid": "37-13-512",
+        "junctions": 63,
+        "endpoints": 18,
+        "length": 798,
+        "area": 10875
+      },
+      {
+        "sid": "37-13-716",
+        "junctions": 36,
+        "endpoints": 12,
+        "length": 438,
+        "area": 4853
+      },
+      {
+        "sid": "37-14-512",
+        "junctions": 82,
+        "endpoints": 25,
+        "length": 1248,
+        "area": 16047
+      },
+      {
+        "sid": "37-14-716",
+        "junctions": 57,
+        "endpoints": 15,
+        "length": 705,
+        "area": 7564
+      },
+      {
+        "sid": "37-15-512",
+        "junctions": 36,
+        "endpoints": 11,
+        "length": 711,
+        "area": 10140
+      },
+      {
+        "sid": "37-15-716",
+        "junctions": 53,
+        "endpoints": 15,
+        "length": 712,
+        "area": 7720
+      },
+      {
+        "sid": "37-16-512",
+        "junctions": 25,
+        "endpoints": 11,
+        "length": 464,
+        "area": 5033
+      },
+      {
+        "sid": "37-16-716",
+        "junctions": 42,
+        "endpoints": 9,
+        "length": 449,
+        "area": 4269
+      },
+      {
+        "sid": "37-17-512",
+        "junctions": 32,
+        "endpoints": 11,
+        "length": 487,
+        "area": 4402
+      },
+      {
+        "sid": "37-17-716",
+        "junctions": 29,
+        "endpoints": 9,
+        "length": 370,
+        "area": 2796
+      },
+      {
+        "sid": "37-18-512",
+        "junctions": 47,
+        "endpoints": 13,
+        "length": 635,
+        "area": 4986
+      },
+      {
+        "sid": "37-18-716",
+        "junctions": 42,
+        "endpoints": 16,
+        "length": 486,
+        "area": 2978
+      },
+      {
+        "sid": "37-2-716",
+        "junctions": 14,
+        "endpoints": 8,
+        "length": 327,
+        "area": 2443
+      },
+      {
+        "sid": "37-3-512",
+        "junctions": 40,
+        "endpoints": 13,
+        "length": 531,
+        "area": 4864
+      },
+      {
+        "sid": "37-3-716",
+        "junctions": 23,
+        "endpoints": 10,
+        "length": 339,
+        "area": 2464
+      },
+      {
+        "sid": "37-4-512",
+        "junctions": 52,
+        "endpoints": 10,
+        "length": 618,
+        "area": 6009
+      },
+      {
+        "sid": "37-4-716",
+        "junctions": 21,
+        "endpoints": 8,
+        "length": 314,
+        "area": 2405
+      },
+      {
+        "sid": "37-5-512",
+        "junctions": 16,
+        "endpoints": 9,
+        "length": 276,
+        "area": 3051
+      },
+      {
+        "sid": "37-5-716",
+        "junctions": 11,
+        "endpoints": 4,
+        "length": 235,
+        "area": 1879
+      },
+      {
+        "sid": "37-6-512",
+        "junctions": 17,
+        "endpoints": 5,
+        "length": 209,
+        "area": 2290
+      },
+      {
+        "sid": "37-6-716",
+        "junctions": 4,
+        "endpoints": 4,
+        "length": 120,
+        "area": 993
+      },
+      {
+        "sid": "37-7-512",
+        "junctions": 30,
+        "endpoints": 14,
+        "length": 306,
+        "area": 2068
+      },
+      {
+        "sid": "37-7-716",
+        "junctions": 20,
+        "endpoints": 7,
+        "length": 210,
+        "area": 1612
+      },
+      {
+        "sid": "37-8-512",
+        "junctions": 31,
+        "endpoints": 13,
+        "length": 435,
+        "area": 3861
+      },
+      {
+        "sid": "37-8-716",
+        "junctions": 20,
+        "endpoints": 9,
+        "length": 225,
+        "area": 1526
+      },
+      {
+        "sid": "37-9-512",
+        "junctions": 23,
+        "endpoints": 8,
+        "length": 345,
+        "area": 3988
+      },
+      {
+        "sid": "37-9-716",
+        "junctions": 21,
+        "endpoints": 6,
+        "length": 268,
+        "area": 1881
+      },
+      {
+        "sid": "9-1-512",
+        "junctions": 0,
+        "endpoints": 3,
+        "length": 51,
+        "area": 387
+      },
+      {
+        "sid": "9-10-512",
+        "junctions": 27,
+        "endpoints": 3,
+        "length": 230,
+        "area": 3099
+      },
+      {
+        "sid": "9-11-512",
+        "junctions": 14,
+        "endpoints": 4,
+        "length": 213,
+        "area": 3671
+      },
+      {
+        "sid": "9-11-716",
+        "junctions": 3,
+        "endpoints": 7,
+        "length": 65,
+        "area": 944
+      },
+      {
+        "sid": "9-12-512",
+        "junctions": 37,
+        "endpoints": 16,
+        "length": 451,
+        "area": 4435
+      },
+      {
+        "sid": "9-12-716",
+        "junctions": 26,
+        "endpoints": 10,
+        "length": 259,
+        "area": 1903
+      },
+      {
+        "sid": "9-13-512",
+        "junctions": 80,
+        "endpoints": 17,
+        "length": 764,
+        "area": 6838
+      },
+      {
+        "sid": "9-13-716",
+        "junctions": 43,
+        "endpoints": 15,
+        "length": 422,
+        "area": 3122
+      },
+      {
+        "sid": "9-14-512",
+        "junctions": 64,
+        "endpoints": 12,
+        "length": 722,
+        "area": 8096
+      },
+      {
+        "sid": "9-14-716",
+        "junctions": 36,
+        "endpoints": 9,
+        "length": 480,
+        "area": 3928
+      },
+      {
+        "sid": "9-15-512",
+        "junctions": 53,
+        "endpoints": 12,
+        "length": 803,
+        "area": 8129
+      },
+      {
+        "sid": "9-15-716",
+        "junctions": 29,
+        "endpoints": 16,
+        "length": 520,
+        "area": 3905
+      },
+      {
+        "sid": "9-2-512",
+        "junctions": 26,
+        "endpoints": 6,
+        "length": 246,
+        "area": 2525
+      },
+      {
+        "sid": "9-2-716",
+        "junctions": 7,
+        "endpoints": 4,
+        "length": 116,
+        "area": 890
+      },
+      {
+        "sid": "9-3-512",
+        "junctions": 30,
+        "endpoints": 4,
+        "length": 287,
+        "area": 3234
+      },
+      {
+        "sid": "9-3-716",
+        "junctions": 9,
+        "endpoints": 4,
+        "length": 118,
+        "area": 883
+      },
+      {
+        "sid": "9-4-512",
+        "junctions": 0,
+        "endpoints": 0,
+        "length": 17,
+        "area": 895
+      },
+      {
+        "sid": "9-4-716",
+        "junctions": 0,
+        "endpoints": 1,
+        "length": 1,
+        "area": 2
+      }
+    ],
+    "multi": [
+      {
+        "sid": "1-0-512",
+        "junctions": 8,
+        "endpoints": 6,
+        "length": 450,
+        "area": 4352
+      },
+      {
+        "sid": "1-0-716",
+        "junctions": 17,
+        "endpoints": 8,
+        "length": 526,
+        "area": 3724
+      },
+      {
+        "sid": "1-1-512",
+        "junctions": 65,
+        "endpoints": 12,
+        "length": 1235,
+        "area": 10554
+      },
+      {
+        "sid": "1-1-716",
+        "junctions": 34,
+        "endpoints": 11,
+        "length": 875,
+        "area": 6188
+      },
+      {
+        "sid": "1-10-512",
+        "junctions": 78,
+        "endpoints": 22,
+        "length": 1143,
+        "area": 7884
+      },
+      {
+        "sid": "1-10-716",
+        "junctions": 81,
+        "endpoints": 14,
+        "length": 771,
+        "area": 4806
+      },
+      {
+        "sid": "1-11-512",
+        "junctions": 165,
+        "endpoints": 18,
+        "length": 1930,
+        "area": 15447
+      },
+      {
+        "sid": "1-11-716",
+        "junctions": 94,
+        "endpoints": 21,
+        "length": 1140,
+        "area": 7589
+      },
+      {
+        "sid": "1-12-512",
+        "junctions": 131,
+        "endpoints": 34,
+        "length": 1867,
+        "area": 14796
+      },
+      {
+        "sid": "1-12-716",
+        "junctions": 112,
+        "endpoints": 26,
+        "length": 1285,
+        "area": 8248
+      },
+      {
+        "sid": "1-13-512",
+        "junctions": 136,
+        "endpoints": 29,
+        "length": 1798,
+        "area": 15044
+      },
+      {
+        "sid": "1-13-716",
+        "junctions": 132,
+        "endpoints": 29,
+        "length": 1558,
+        "area": 11268
+      },
+      {
+        "sid": "1-14-512",
+        "junctions": 232,
+        "endpoints": 20,
+        "length": 2868,
+        "area": 25341
+      },
+      {
+        "sid": "1-14-716",
+        "junctions": 143,
+        "endpoints": 21,
+        "length": 1984,
+        "area": 15138
+      },
+      {
+        "sid": "1-15-512",
+        "junctions": 219,
+        "endpoints": 13,
+        "length": 2724,
+        "area": 24733
+      },
+      {
+        "sid": "1-15-716",
+        "junctions": 200,
+        "endpoints": 14,
+        "length": 2144,
+        "area": 16339
+      },
+      {
+        "sid": "1-16-512",
+        "junctions": 118,
+        "endpoints": 21,
+        "length": 1839,
+        "area": 15275
+      },
+      {
+        "sid": "1-16-716",
+        "junctions": 166,
+        "endpoints": 13,
+        "length": 1879,
+        "area": 13585
+      },
+      {
+        "sid": "1-17-512",
+        "junctions": 255,
+        "endpoints": 15,
+        "length": 2399,
+        "area": 18977
+      },
+      {
+        "sid": "1-17-716",
+        "junctions": 142,
+        "endpoints": 14,
+        "length": 1526,
+        "area": 10847
+      },
+      {
+        "sid": "1-18-512",
+        "junctions": 138,
+        "endpoints": 16,
+        "length": 2096,
+        "area": 15320
+      },
+      {
+        "sid": "1-18-716",
+        "junctions": 147,
+        "endpoints": 13,
+        "length": 1475,
+        "area": 9689
+      },
+      {
+        "sid": "1-19-512",
+        "junctions": 59,
+        "endpoints": 14,
+        "length": 1214,
+        "area": 8905
+      },
+      {
+        "sid": "1-19-716",
+        "junctions": 77,
+        "endpoints": 17,
+        "length": 1065,
+        "area": 6682
+      },
+      {
+        "sid": "1-2-512",
+        "junctions": 86,
+        "endpoints": 15,
+        "length": 1499,
+        "area": 12419
+      },
+      {
+        "sid": "1-2-716",
+        "junctions": 46,
+        "endpoints": 10,
+        "length": 946,
+        "area": 6393
+      },
+      {
+        "sid": "1-3-512",
+        "junctions": 37,
+        "endpoints": 5,
+        "length": 977,
+        "area": 8691
+      },
+      {
+        "sid": "1-3-716",
+        "junctions": 23,
+        "endpoints": 8,
+        "length": 742,
+        "area": 4922
+      },
+      {
+        "sid": "1-4-512",
+        "junctions": 35,
+        "endpoints": 6,
+        "length": 770,
+        "area": 6149
+      },
+      {
+        "sid": "1-4-716",
+        "junctions": 26,
+        "endpoints": 9,
+        "length": 805,
+        "area": 5499
+      },
+      {
+        "sid": "1-5-512",
+        "junctions": 59,
+        "endpoints": 11,
+        "length": 1305,
+        "area": 11689
+      },
+      {
+        "sid": "1-5-716",
+        "junctions": 57,
+        "endpoints": 21,
+        "length": 869,
+        "area": 6187
+      },
+      {
+        "sid": "1-6-512",
+        "junctions": 87,
+        "endpoints": 23,
+        "length": 1341,
+        "area": 13428
+      },
+      {
+        "sid": "1-6-716",
+        "junctions": 42,
+        "endpoints": 22,
+        "length": 982,
+        "area": 8252
+      },
+      {
+        "sid": "1-7-512",
+        "junctions": 58,
+        "endpoints": 18,
+        "length": 1057,
+        "area": 11239
+      },
+      {
+        "sid": "1-7-716",
+        "junctions": 47,
+        "endpoints": 21,
+        "length": 839,
+        "area": 6581
+      },
+      {
+        "sid": "1-8-512",
+        "junctions": 42,
+        "endpoints": 19,
+        "length": 902,
+        "area": 7778
+      },
+      {
+        "sid": "1-8-716",
+        "junctions": 42,
+        "endpoints": 14,
+        "length": 765,
+        "area": 5666
+      },
+      {
+        "sid": "1-9-512",
+        "junctions": 104,
+        "endpoints": 19,
+        "length": 1106,
+        "area": 8482
+      },
+      {
+        "sid": "1-9-716",
+        "junctions": 64,
+        "endpoints": 16,
+        "length": 717,
+        "area": 4458
+      },
+      {
+        "sid": "14-0-512",
+        "junctions": 54,
+        "endpoints": 10,
+        "length": 1192,
+        "area": 7274
+      },
+      {
+        "sid": "14-0-716",
+        "junctions": 18,
+        "endpoints": 16,
+        "length": 676,
+        "area": 3353
+      },
+      {
+        "sid": "14-1-512",
+        "junctions": 52,
+        "endpoints": 12,
+        "length": 1305,
+        "area": 8705
+      },
+      {
+        "sid": "14-1-716",
+        "junctions": 26,
+        "endpoints": 13,
+        "length": 788,
+        "area": 4429
+      },
+      {
+        "sid": "14-12-512",
+        "junctions": 157,
+        "endpoints": 19,
+        "length": 1806,
+        "area": 19491
+      },
+      {
+        "sid": "14-12-716",
+        "junctions": 153,
+        "endpoints": 20,
+        "length": 1528,
+        "area": 12678
+      },
+      {
+        "sid": "14-13-512",
+        "junctions": 172,
+        "endpoints": 18,
+        "length": 2136,
+        "area": 25123
+      },
+      {
+        "sid": "14-13-716",
+        "junctions": 190,
+        "endpoints": 22,
+        "length": 1937,
+        "area": 16656
+      },
+      {
+        "sid": "14-14-512",
+        "junctions": 278,
+        "endpoints": 31,
+        "length": 3155,
+        "area": 34415
+      },
+      {
+        "sid": "14-14-716",
+        "junctions": 236,
+        "endpoints": 28,
+        "length": 2626,
+        "area": 23615
+      },
+      {
+        "sid": "14-15-512",
+        "junctions": 329,
+        "endpoints": 37,
+        "length": 3917,
+        "area": 39918
+      },
+      {
+        "sid": "14-15-716",
+        "junctions": 280,
+        "endpoints": 42,
+        "length": 3134,
+        "area": 26224
+      },
+      {
+        "sid": "14-16-512",
+        "junctions": 222,
+        "endpoints": 29,
+        "length": 3227,
+        "area": 26084
+      },
+      {
+        "sid": "14-16-716",
+        "junctions": 258,
+        "endpoints": 39,
+        "length": 2939,
+        "area": 21539
+      },
+      {
+        "sid": "14-2-512",
+        "junctions": 59,
+        "endpoints": 10,
+        "length": 1238,
+        "area": 9195
+      },
+      {
+        "sid": "14-2-716",
+        "junctions": 51,
+        "endpoints": 14,
+        "length": 871,
+        "area": 5175
+      },
+      {
+        "sid": "14-3-512",
+        "junctions": 52,
+        "endpoints": 11,
+        "length": 1184,
+        "area": 8668
+      },
+      {
+        "sid": "14-3-716",
+        "junctions": 66,
+        "endpoints": 19,
+        "length": 1032,
+        "area": 6651
+      },
+      {
+        "sid": "14-4-512",
+        "junctions": 94,
+        "endpoints": 13,
+        "length": 1670,
+        "area": 12555
+      },
+      {
+        "sid": "14-4-716",
+        "junctions": 66,
+        "endpoints": 18,
+        "length": 1207,
+        "area": 8127
+      },
+      {
+        "sid": "14-5-512",
+        "junctions": 121,
+        "endpoints": 17,
+        "length": 1776,
+        "area": 15315
+      },
+      {
+        "sid": "14-5-716",
+        "junctions": 81,
+        "endpoints": 16,
+        "length": 1312,
+        "area": 9299
+      },
+      {
+        "sid": "14-6-512",
+        "junctions": 109,
+        "endpoints": 13,
+        "length": 1786,
+        "area": 14712
+      },
+      {
+        "sid": "14-6-716",
+        "junctions": 95,
+        "endpoints": 18,
+        "length": 1497,
+        "area": 10174
+      },
+      {
+        "sid": "14-7-512",
+        "junctions": 161,
+        "endpoints": 18,
+        "length": 2425,
+        "area": 18792
+      },
+      {
+        "sid": "14-7-716",
+        "junctions": 130,
+        "endpoints": 21,
+        "length": 1687,
+        "area": 10694
+      },
+      {
+        "sid": "14-8-512",
+        "junctions": 160,
+        "endpoints": 20,
+        "length": 2308,
+        "area": 16314
+      },
+      {
+        "sid": "14-8-716",
+        "junctions": 115,
+        "endpoints": 26,
+        "length": 1481,
+        "area": 8963
+      },
+      {
+        "sid": "16-18-512",
+        "junctions": 93,
+        "endpoints": 15,
+        "length": 1279,
+        "area": 10266
+      },
+      {
+        "sid": "16-19-512",
+        "junctions": 66,
+        "endpoints": 18,
+        "length": 858,
+        "area": 6620
+      },
+      {
+        "sid": "16-19-716",
+        "junctions": 44,
+        "endpoints": 15,
+        "length": 638,
+        "area": 4023
+      },
+      {
+        "sid": "18-0-512",
+        "junctions": 102,
+        "endpoints": 13,
+        "length": 1439,
+        "area": 11125
+      },
+      {
+        "sid": "18-0-716",
+        "junctions": 89,
+        "endpoints": 12,
+        "length": 1064,
+        "area": 6903
+      },
+      {
+        "sid": "18-1-512",
+        "junctions": 130,
+        "endpoints": 20,
+        "length": 1768,
+        "area": 13647
+      },
+      {
+        "sid": "18-1-716",
+        "junctions": 98,
+        "endpoints": 16,
+        "length": 1095,
+        "area": 6902
+      },
+      {
+        "sid": "18-10-512",
+        "junctions": 56,
+        "endpoints": 11,
+        "length": 1142,
+        "area": 9399
+      },
+      {
+        "sid": "18-10-716",
+        "junctions": 66,
+        "endpoints": 15,
+        "length": 882,
+        "area": 5843
+      },
+      {
+        "sid": "18-11-512",
+        "junctions": 96,
+        "endpoints": 11,
+        "length": 1317,
+        "area": 15227
+      },
+      {
+        "sid": "18-11-716",
+        "junctions": 78,
+        "endpoints": 10,
+        "length": 992,
+        "area": 8971
+      },
+      {
+        "sid": "18-12-512",
+        "junctions": 180,
+        "endpoints": 15,
+        "length": 2089,
+        "area": 22988
+      },
+      {
+        "sid": "18-12-716",
+        "junctions": 130,
+        "endpoints": 14,
+        "length": 1456,
+        "area": 13011
+      },
+      {
+        "sid": "18-13-512",
+        "junctions": 274,
+        "endpoints": 12,
+        "length": 2603,
+        "area": 26058
+      },
+      {
+        "sid": "18-13-716",
+        "junctions": 157,
+        "endpoints": 15,
+        "length": 1727,
+        "area": 14327
+      },
+      {
+        "sid": "18-14-512",
+        "junctions": 194,
+        "endpoints": 21,
+        "length": 2078,
+        "area": 19670
+      },
+      {
+        "sid": "18-14-716",
+        "junctions": 133,
+        "endpoints": 23,
+        "length": 1536,
+        "area": 12685
+      },
+      {
+        "sid": "18-15-512",
+        "junctions": 160,
+        "endpoints": 31,
+        "length": 1771,
+        "area": 15158
+      },
+      {
+        "sid": "18-15-716",
+        "junctions": 106,
+        "endpoints": 23,
+        "length": 1293,
+        "area": 9536
+      },
+      {
+        "sid": "18-16-512",
+        "junctions": 162,
+        "endpoints": 25,
+        "length": 2212,
+        "area": 20405
+      },
+      {
+        "sid": "18-16-716",
+        "junctions": 134,
+        "endpoints": 26,
+        "length": 1497,
+        "area": 11152
+      },
+      {
+        "sid": "18-17-512",
+        "junctions": 135,
+        "endpoints": 17,
+        "length": 1752,
+        "area": 17411
+      },
+      {
+        "sid": "18-17-716",
+        "junctions": 117,
+        "endpoints": 27,
+        "length": 1395,
+        "area": 10899
+      },
+      {
+        "sid": "18-18-512",
+        "junctions": 77,
+        "endpoints": 14,
+        "length": 1138,
+        "area": 10019
+      },
+      {
+        "sid": "18-18-716",
+        "junctions": 88,
+        "endpoints": 16,
+        "length": 1152,
+        "area": 9335
+      },
+      {
+        "sid": "18-19-512",
+        "junctions": 77,
+        "endpoints": 12,
+        "length": 1593,
+        "area": 11964
+      },
+      {
+        "sid": "18-19-716",
+        "junctions": 57,
+        "endpoints": 15,
+        "length": 1092,
+        "area": 6926
+      },
+      {
+        "sid": "18-2-512",
+        "junctions": 161,
+        "endpoints": 15,
+        "length": 1462,
+        "area": 10942
+      },
+      {
+        "sid": "18-2-716",
+        "junctions": 69,
+        "endpoints": 14,
+        "length": 779,
+        "area": 5152
+      },
+      {
+        "sid": "18-3-512",
+        "junctions": 80,
+        "endpoints": 12,
+        "length": 1116,
+        "area": 10058
+      },
+      {
+        "sid": "18-3-716",
+        "junctions": 39,
+        "endpoints": 12,
+        "length": 676,
+        "area": 5844
+      },
+      {
+        "sid": "18-4-512",
+        "junctions": 88,
+        "endpoints": 9,
+        "length": 1278,
+        "area": 12645
+      },
+      {
+        "sid": "18-5-512",
+        "junctions": 71,
+        "endpoints": 8,
+        "length": 1151,
+        "area": 11579
+      },
+      {
+        "sid": "18-5-716",
+        "junctions": 52,
+        "endpoints": 11,
+        "length": 798,
+        "area": 6883
+      },
+      {
+        "sid": "18-6-512",
+        "junctions": 85,
+        "endpoints": 19,
+        "length": 1277,
+        "area": 11354
+      },
+      {
+        "sid": "18-6-716",
+        "junctions": 85,
+        "endpoints": 13,
+        "length": 935,
+        "area": 6665
+      },
+      {
+        "sid": "18-7-512",
+        "junctions": 134,
+        "endpoints": 17,
+        "length": 1529,
+        "area": 13363
+      },
+      {
+        "sid": "18-7-716",
+        "junctions": 97,
+        "endpoints": 14,
+        "length": 1000,
+        "area": 6853
+      },
+      {
+        "sid": "18-8-512",
+        "junctions": 81,
+        "endpoints": 8,
+        "length": 1160,
+        "area": 10017
+      },
+      {
+        "sid": "18-9-512",
+        "junctions": 53,
+        "endpoints": 13,
+        "length": 1122,
+        "area": 8797
+      },
+      {
+        "sid": "18-9-716",
+        "junctions": 59,
+        "endpoints": 19,
+        "length": 812,
+        "area": 5126
+      },
+      {
+        "sid": "23-11-716",
+        "junctions": 69,
+        "endpoints": 10,
+        "length": 944,
+        "area": 8954
+      },
+      {
+        "sid": "23-12-512",
+        "junctions": 163,
+        "endpoints": 19,
+        "length": 1766,
+        "area": 19016
+      },
+      {
+        "sid": "23-12-716",
+        "junctions": 109,
+        "endpoints": 14,
+        "length": 1120,
+        "area": 10958
+      },
+      {
+        "sid": "23-13-512",
+        "junctions": 205,
+        "endpoints": 20,
+        "length": 1807,
+        "area": 15408
+      },
+      {
+        "sid": "23-13-716",
+        "junctions": 125,
+        "endpoints": 19,
+        "length": 1396,
+        "area": 13244
+      },
+      {
+        "sid": "23-14-512",
+        "junctions": 229,
+        "endpoints": 17,
+        "length": 2077,
+        "area": 21633
+      },
+      {
+        "sid": "23-14-716",
+        "junctions": 154,
+        "endpoints": 16,
+        "length": 1450,
+        "area": 13288
+      },
+      {
+        "sid": "23-15-512",
+        "junctions": 205,
+        "endpoints": 9,
+        "length": 1981,
+        "area": 21115
+      },
+      {
+        "sid": "23-15-716",
+        "junctions": 150,
+        "endpoints": 6,
+        "length": 1404,
+        "area": 13143
+      },
+      {
+        "sid": "23-16-512",
+        "junctions": 141,
+        "endpoints": 15,
+        "length": 1653,
+        "area": 15958
+      },
+      {
+        "sid": "23-16-716",
+        "junctions": 90,
+        "endpoints": 11,
+        "length": 1144,
+        "area": 9377
+      },
+      {
+        "sid": "23-17-512",
+        "junctions": 99,
+        "endpoints": 21,
+        "length": 1494,
+        "area": 14119
+      },
+      {
+        "sid": "23-17-716",
+        "junctions": 92,
+        "endpoints": 20,
+        "length": 1104,
+        "area": 8445
+      },
+      {
+        "sid": "23-18-512",
+        "junctions": 133,
+        "endpoints": 22,
+        "length": 1490,
+        "area": 13581
+      },
+      {
+        "sid": "23-18-716",
+        "junctions": 98,
+        "endpoints": 22,
+        "length": 1041,
+        "area": 7674
+      },
+      {
+        "sid": "23-19-512",
+        "junctions": 150,
+        "endpoints": 20,
+        "length": 1301,
+        "area": 10345
+      },
+      {
+        "sid": "23-19-716",
+        "junctions": 74,
+        "endpoints": 15,
+        "length": 886,
+        "area": 6335
+      },
+      {
+        "sid": "23-4-512",
+        "junctions": 0,
+        "endpoints": 1,
+        "length": 86,
+        "area": 513
+      },
+      {
+        "sid": "23-4-716",
+        "junctions": 0,
+        "endpoints": 4,
+        "length": 74,
+        "area": 291
+      },
+      {
+        "sid": "23-5-512",
+        "junctions": 0,
+        "endpoints": 1,
+        "length": 60,
+        "area": 254
+      },
+      {
+        "sid": "23-5-716",
+        "junctions": 0,
+        "endpoints": 3,
+        "length": 19,
+        "area": 61
+      },
+      {
+        "sid": "23-6-512",
+        "junctions": 0,
+        "endpoints": 1,
+        "length": 60,
+        "area": 256
+      },
+      {
+        "sid": "23-6-716",
+        "junctions": 0,
+        "endpoints": 2,
+        "length": 3,
+        "area": 8
+      },
+      {
+        "sid": "36-0-512",
+        "junctions": 3,
+        "endpoints": 3,
+        "length": 107,
+        "area": 729
+      },
+      {
+        "sid": "36-0-716",
+        "junctions": 4,
+        "endpoints": 1,
+        "length": 87,
+        "area": 533
+      },
+      {
+        "sid": "36-1-716",
+        "junctions": 4,
+        "endpoints": 7,
+        "length": 100,
+        "area": 593
+      },
+      {
+        "sid": "36-10-512",
+        "junctions": 80,
+        "endpoints": 14,
+        "length": 1156,
+        "area": 13348
+      },
+      {
+        "sid": "36-10-716",
+        "junctions": 53,
+        "endpoints": 7,
+        "length": 713,
+        "area": 6415
+      },
+      {
+        "sid": "36-11-512",
+        "junctions": 85,
+        "endpoints": 11,
+        "length": 1042,
+        "area": 12159
+      },
+      {
+        "sid": "36-11-716",
+        "junctions": 35,
+        "endpoints": 7,
+        "length": 676,
+        "area": 5851
+      },
+      {
+        "sid": "36-12-512",
+        "junctions": 85,
+        "endpoints": 13,
+        "length": 957,
+        "area": 8566
+      },
+      {
+        "sid": "36-12-716",
+        "junctions": 35,
+        "endpoints": 10,
+        "length": 605,
+        "area": 4914
+      },
+      {
+        "sid": "36-13-512",
+        "junctions": 101,
+        "endpoints": 13,
+        "length": 1161,
+        "area": 10936
+      },
+      {
+        "sid": "36-13-716",
+        "junctions": 58,
+        "endpoints": 11,
+        "length": 711,
+        "area": 5611
+      },
+      {
+        "sid": "36-14-512",
+        "junctions": 116,
+        "endpoints": 19,
+        "length": 1321,
+        "area": 12942
+      },
+      {
+        "sid": "36-15-512",
+        "junctions": 79,
+        "endpoints": 13,
+        "length": 1193,
+        "area": 10539
+      },
+      {
+        "sid": "36-15-716",
+        "junctions": 60,
+        "endpoints": 15,
+        "length": 766,
+        "area": 5356
+      },
+      {
+        "sid": "36-2-512",
+        "junctions": 14,
+        "endpoints": 10,
+        "length": 228,
+        "area": 1835
+      },
+      {
+        "sid": "36-2-716",
+        "junctions": 5,
+        "endpoints": 9,
+        "length": 134,
+        "area": 764
+      },
+      {
+        "sid": "36-3-512",
+        "junctions": 18,
+        "endpoints": 7,
+        "length": 244,
+        "area": 2111
+      },
+      {
+        "sid": "36-3-716",
+        "junctions": 4,
+        "endpoints": 8,
+        "length": 131,
+        "area": 863
+      },
+      {
+        "sid": "36-4-512",
+        "junctions": 16,
+        "endpoints": 2,
+        "length": 197,
+        "area": 2057
+      },
+      {
+        "sid": "36-4-716",
+        "junctions": 6,
+        "endpoints": 5,
+        "length": 113,
+        "area": 824
+      },
+      {
+        "sid": "36-5-512",
+        "junctions": 14,
+        "endpoints": 10,
+        "length": 220,
+        "area": 1348
+      },
+      {
+        "sid": "36-5-716",
+        "junctions": 8,
+        "endpoints": 13,
+        "length": 156,
+        "area": 1133
+      },
+      {
+        "sid": "36-6-512",
+        "junctions": 16,
+        "endpoints": 12,
+        "length": 418,
+        "area": 3535
+      },
+      {
+        "sid": "36-6-716",
+        "junctions": 7,
+        "endpoints": 11,
+        "length": 179,
+        "area": 1152
+      },
+      {
+        "sid": "36-7-512",
+        "junctions": 23,
+        "endpoints": 9,
+        "length": 571,
+        "area": 4712
+      },
+      {
+        "sid": "36-7-716",
+        "junctions": 14,
+        "endpoints": 11,
+        "length": 276,
+        "area": 1759
+      },
+      {
+        "sid": "36-8-512",
+        "junctions": 29,
+        "endpoints": 4,
+        "length": 645,
+        "area": 6003
+      },
+      {
+        "sid": "36-8-716",
+        "junctions": 36,
+        "endpoints": 2,
+        "length": 413,
+        "area": 2656
+      },
+      {
+        "sid": "36-9-512",
+        "junctions": 59,
+        "endpoints": 7,
+        "length": 956,
+        "area": 9889
+      },
+      {
+        "sid": "36-9-716",
+        "junctions": 45,
+        "endpoints": 6,
+        "length": 605,
+        "area": 5236
+      },
+      {
+        "sid": "37-1-512",
+        "junctions": 24,
+        "endpoints": 7,
+        "length": 513,
+        "area": 4272
+      },
+      {
+        "sid": "37-1-716",
+        "junctions": 3,
+        "endpoints": 4,
+        "length": 268,
+        "area": 1830
+      },
+      {
+        "sid": "37-10-512",
+        "junctions": 38,
+        "endpoints": 2,
+        "length": 459,
+        "area": 4314
+      },
+      {
+        "sid": "37-10-716",
+        "junctions": 14,
+        "endpoints": 3,
+        "length": 217,
+        "area": 1815
+      },
+      {
+        "sid": "37-11-512",
+        "junctions": 56,
+        "endpoints": 10,
+        "length": 521,
+        "area": 5182
+      },
+      {
+        "sid": "37-11-716",
+        "junctions": 15,
+        "endpoints": 5,
+        "length": 196,
+        "area": 1785
+      },
+      {
+        "sid": "37-12-512",
+        "junctions": 30,
+        "endpoints": 7,
+        "length": 406,
+        "area": 3487
+      },
+      {
+        "sid": "37-12-716",
+        "junctions": 13,
+        "endpoints": 6,
+        "length": 206,
+        "area": 1672
+      },
+      {
+        "sid": "37-13-512",
+        "junctions": 79,
+        "endpoints": 14,
+        "length": 1008,
+        "area": 10926
+      },
+      {
+        "sid": "37-13-716",
+        "junctions": 53,
+        "endpoints": 11,
+        "length": 544,
+        "area": 4755
+      },
+      {
+        "sid": "37-14-512",
+        "junctions": 124,
+        "endpoints": 22,
+        "length": 1550,
+        "area": 16395
+      },
+      {
+        "sid": "37-14-716",
+        "junctions": 62,
+        "endpoints": 13,
+        "length": 831,
+        "area": 7313
+      },
+      {
+        "sid": "37-15-512",
+        "junctions": 52,
+        "endpoints": 11,
+        "length": 999,
+        "area": 10386
+      },
+      {
+        "sid": "37-15-716",
+        "junctions": 73,
+        "endpoints": 14,
+        "length": 870,
+        "area": 7492
+      },
+      {
+        "sid": "37-16-512",
+        "junctions": 42,
+        "endpoints": 11,
+        "length": 570,
+        "area": 4964
+      },
+      {
+        "sid": "37-16-716",
+        "junctions": 43,
+        "endpoints": 12,
+        "length": 529,
+        "area": 4095
+      },
+      {
+        "sid": "37-17-512",
+        "junctions": 36,
+        "endpoints": 10,
+        "length": 522,
+        "area": 4313
+      },
+      {
+        "sid": "37-17-716",
+        "junctions": 22,
+        "endpoints": 10,
+        "length": 364,
+        "area": 2591
+      },
+      {
+        "sid": "37-18-512",
+        "junctions": 26,
+        "endpoints": 10,
+        "length": 623,
+        "area": 4833
+      },
+      {
+        "sid": "37-18-716",
+        "junctions": 25,
+        "endpoints": 14,
+        "length": 429,
+        "area": 2652
+      },
+      {
+        "sid": "37-2-716",
+        "junctions": 11,
+        "endpoints": 6,
+        "length": 339,
+        "area": 2286
+      },
+      {
+        "sid": "37-3-512",
+        "junctions": 24,
+        "endpoints": 8,
+        "length": 599,
+        "area": 4518
+      },
+      {
+        "sid": "37-3-716",
+        "junctions": 28,
+        "endpoints": 7,
+        "length": 394,
+        "area": 2270
+      },
+      {
+        "sid": "37-4-512",
+        "junctions": 19,
+        "endpoints": 4,
+        "length": 739,
+        "area": 5641
+      },
+      {
+        "sid": "37-4-716",
+        "junctions": 25,
+        "endpoints": 6,
+        "length": 361,
+        "area": 2190
+      },
+      {
+        "sid": "37-5-512",
+        "junctions": 14,
+        "endpoints": 7,
+        "length": 362,
+        "area": 2998
+      },
+      {
+        "sid": "37-5-716",
+        "junctions": 14,
+        "endpoints": 3,
+        "length": 261,
+        "area": 1824
+      },
+      {
+        "sid": "37-6-512",
+        "junctions": 17,
+        "endpoints": 2,
+        "length": 229,
+        "area": 2357
+      },
+      {
+        "sid": "37-6-716",
+        "junctions": 2,
+        "endpoints": 1,
+        "length": 114,
+        "area": 945
+      },
+      {
+        "sid": "37-7-512",
+        "junctions": 26,
+        "endpoints": 11,
+        "length": 320,
+        "area": 2069
+      },
+      {
+        "sid": "37-7-716",
+        "junctions": 12,
+        "endpoints": 3,
+        "length": 180,
+        "area": 1478
+      },
+      {
+        "sid": "37-8-512",
+        "junctions": 33,
+        "endpoints": 7,
+        "length": 453,
+        "area": 3700
+      },
+      {
+        "sid": "37-8-716",
+        "junctions": 10,
+        "endpoints": 2,
+        "length": 179,
+        "area": 1314
+      },
+      {
+        "sid": "37-9-512",
+        "junctions": 44,
+        "endpoints": 4,
+        "length": 431,
+        "area": 3878
+      },
+      {
+        "sid": "37-9-716",
+        "junctions": 16,
+        "endpoints": 3,
+        "length": 262,
+        "area": 1735
+      },
+      {
+        "sid": "9-1-512",
+        "junctions": 0,
+        "endpoints": 2,
+        "length": 49,
+        "area": 267
+      },
+      {
+        "sid": "9-10-512",
+        "junctions": 20,
+        "endpoints": 3,
+        "length": 385,
+        "area": 3211
+      },
+      {
+        "sid": "9-11-512",
+        "junctions": 30,
+        "endpoints": 3,
+        "length": 450,
+        "area": 4150
+      },
+      {
+        "sid": "9-11-716",
+        "junctions": 7,
+        "endpoints": 4,
+        "length": 154,
+        "area": 1038
+      },
+      {
+        "sid": "9-12-512",
+        "junctions": 42,
+        "endpoints": 11,
+        "length": 567,
+        "area": 4785
+      },
+      {
+        "sid": "9-12-716",
+        "junctions": 21,
+        "endpoints": 7,
+        "length": 324,
+        "area": 1901
+      },
+      {
+        "sid": "9-13-512",
+        "junctions": 91,
+        "endpoints": 9,
+        "length": 984,
+        "area": 7056
+      },
+      {
+        "sid": "9-13-716",
+        "junctions": 36,
+        "endpoints": 12,
+        "length": 534,
+        "area": 3039
+      },
+      {
+        "sid": "9-14-512",
+        "junctions": 98,
+        "endpoints": 9,
+        "length": 1056,
+        "area": 8358
+      },
+      {
+        "sid": "9-14-716",
+        "junctions": 36,
+        "endpoints": 8,
+        "length": 630,
+        "area": 3795
+      },
+      {
+        "sid": "9-15-512",
+        "junctions": 74,
+        "endpoints": 10,
+        "length": 1121,
+        "area": 8223
+      },
+      {
+        "sid": "9-15-716",
+        "junctions": 27,
+        "endpoints": 10,
+        "length": 566,
+        "area": 3570
+      },
+      {
+        "sid": "9-2-512",
+        "junctions": 23,
+        "endpoints": 7,
+        "length": 253,
+        "area": 2148
+      },
+      {
+        "sid": "9-2-716",
+        "junctions": 4,
+        "endpoints": 2,
+        "length": 86,
+        "area": 711
+      },
+      {
+        "sid": "9-3-512",
+        "junctions": 17,
+        "endpoints": 8,
+        "length": 337,
+        "area": 2507
+      },
+      {
+        "sid": "9-3-716",
+        "junctions": 7,
+        "endpoints": 3,
+        "length": 98,
+        "area": 719
+      },
+      {
+        "sid": "9-4-512",
+        "junctions": 0,
+        "endpoints": 0,
+        "length": 89,
+        "area": 441
+      },
+      {
+        "sid": "9-4-716",
+        "junctions": 0,
+        "endpoints": 0,
+        "length": 0,
+        "area": 1
+      }
+    ]
+  },
+  "LBBDM": {
+    "single": [
+      {
+        "sid": "1-0-512",
+        "junctions": 11,
+        "endpoints": 11,
+        "length": 650,
+        "area": 5374
+      },
+      {
+        "sid": "1-0-716",
+        "junctions": 22,
+        "endpoints": 8,
+        "length": 467,
+        "area": 3797
+      },
+      {
+        "sid": "1-1-512",
+        "junctions": 38,
+        "endpoints": 9,
+        "length": 999,
+        "area": 10217
+      },
+      {
+        "sid": "1-1-716",
+        "junctions": 53,
+        "endpoints": 19,
+        "length": 775,
+        "area": 6184
+      },
+      {
+        "sid": "1-10-512",
+        "junctions": 66,
+        "endpoints": 16,
+        "length": 1311,
+        "area": 12200
+      },
+      {
+        "sid": "1-10-716",
+        "junctions": 76,
+        "endpoints": 18,
+        "length": 1300,
+        "area": 9508
+      },
+      {
+        "sid": "1-11-512",
+        "junctions": 88,
+        "endpoints": 17,
+        "length": 1407,
+        "area": 15816
+      },
+      {
+        "sid": "1-11-716",
+        "junctions": 82,
+        "endpoints": 21,
+        "length": 1327,
+        "area": 10097
+      },
+      {
+        "sid": "1-12-512",
+        "junctions": 88,
+        "endpoints": 16,
+        "length": 1312,
+        "area": 15147
+      },
+      {
+        "sid": "1-12-716",
+        "junctions": 67,
+        "endpoints": 20,
+        "length": 1090,
+        "area": 9158
+      },
+      {
+        "sid": "1-13-512",
+        "junctions": 83,
+        "endpoints": 17,
+        "length": 1395,
+        "area": 14924
+      },
+      {
+        "sid": "1-13-716",
+        "junctions": 88,
+        "endpoints": 19,
+        "length": 1326,
+        "area": 11803
+      },
+      {
+        "sid": "1-14-512",
+        "junctions": 106,
+        "endpoints": 15,
+        "length": 1729,
+        "area": 21385
+      },
+      {
+        "sid": "1-14-716",
+        "junctions": 107,
+        "endpoints": 18,
+        "length": 1443,
+        "area": 12811
+      },
+      {
+        "sid": "1-15-512",
+        "junctions": 128,
+        "endpoints": 11,
+        "length": 1829,
+        "area": 20913
+      },
+      {
+        "sid": "1-15-716",
+        "junctions": 110,
+        "endpoints": 19,
+        "length": 1531,
+        "area": 14019
+      },
+      {
+        "sid": "1-16-512",
+        "junctions": 93,
+        "endpoints": 10,
+        "length": 1500,
+        "area": 16093
+      },
+      {
+        "sid": "1-16-716",
+        "junctions": 120,
+        "endpoints": 16,
+        "length": 1460,
+        "area": 12614
+      },
+      {
+        "sid": "1-17-512",
+        "junctions": 117,
+        "endpoints": 20,
+        "length": 1630,
+        "area": 17451
+      },
+      {
+        "sid": "1-17-716",
+        "junctions": 96,
+        "endpoints": 18,
+        "length": 1216,
+        "area": 11301
+      },
+      {
+        "sid": "1-18-512",
+        "junctions": 94,
+        "endpoints": 14,
+        "length": 1380,
+        "area": 15056
+      },
+      {
+        "sid": "1-18-716",
+        "junctions": 100,
+        "endpoints": 16,
+        "length": 1068,
+        "area": 9581
+      },
+      {
+        "sid": "1-19-512",
+        "junctions": 85,
+        "endpoints": 11,
+        "length": 946,
+        "area": 9237
+      },
+      {
+        "sid": "1-19-716",
+        "junctions": 82,
+        "endpoints": 10,
+        "length": 938,
+        "area": 7018
+      },
+      {
+        "sid": "1-2-512",
+        "junctions": 63,
+        "endpoints": 16,
+        "length": 1121,
+        "area": 11226
+      },
+      {
+        "sid": "1-2-716",
+        "junctions": 53,
+        "endpoints": 11,
+        "length": 843,
+        "area": 6869
+      },
+      {
+        "sid": "1-3-512",
+        "junctions": 46,
+        "endpoints": 17,
+        "length": 818,
+        "area": 8346
+      },
+      {
+        "sid": "1-3-716",
+        "junctions": 29,
+        "endpoints": 11,
+        "length": 713,
+        "area": 5320
+      },
+      {
+        "sid": "1-4-512",
+        "junctions": 32,
+        "endpoints": 9,
+        "length": 749,
+        "area": 6389
+      },
+      {
+        "sid": "1-4-716",
+        "junctions": 30,
+        "endpoints": 10,
+        "length": 806,
+        "area": 6030
+      },
+      {
+        "sid": "1-5-512",
+        "junctions": 42,
+        "endpoints": 11,
+        "length": 1073,
+        "area": 11561
+      },
+      {
+        "sid": "1-5-716",
+        "junctions": 33,
+        "endpoints": 10,
+        "length": 709,
+        "area": 6155
+      },
+      {
+        "sid": "1-6-512",
+        "junctions": 53,
+        "endpoints": 10,
+        "length": 979,
+        "area": 13545
+      },
+      {
+        "sid": "1-6-716",
+        "junctions": 31,
+        "endpoints": 11,
+        "length": 849,
+        "area": 8383
+      },
+      {
+        "sid": "1-7-512",
+        "junctions": 31,
+        "endpoints": 15,
+        "length": 940,
+        "area": 11707
+      },
+      {
+        "sid": "1-7-716",
+        "junctions": 43,
+        "endpoints": 13,
+        "length": 806,
+        "area": 7270
+      },
+      {
+        "sid": "1-8-512",
+        "junctions": 43,
+        "endpoints": 14,
+        "length": 789,
+        "area": 8383
+      },
+      {
+        "sid": "1-8-716",
+        "junctions": 52,
+        "endpoints": 11,
+        "length": 880,
+        "area": 7020
+      },
+      {
+        "sid": "1-9-512",
+        "junctions": 85,
+        "endpoints": 15,
+        "length": 1042,
+        "area": 10603
+      },
+      {
+        "sid": "1-9-716",
+        "junctions": 61,
+        "endpoints": 13,
+        "length": 1077,
+        "area": 8294
+      },
+      {
+        "sid": "14-0-512",
+        "junctions": 62,
+        "endpoints": 11,
+        "length": 1281,
+        "area": 17216
+      },
+      {
+        "sid": "14-0-716",
+        "junctions": 77,
+        "endpoints": 17,
+        "length": 959,
+        "area": 7964
+      },
+      {
+        "sid": "14-1-512",
+        "junctions": 62,
+        "endpoints": 9,
+        "length": 1122,
+        "area": 9910
+      },
+      {
+        "sid": "14-1-716",
+        "junctions": 40,
+        "endpoints": 14,
+        "length": 897,
+        "area": 6165
+      },
+      {
+        "sid": "14-12-512",
+        "junctions": 73,
+        "endpoints": 20,
+        "length": 1433,
+        "area": 19588
+      },
+      {
+        "sid": "14-12-716",
+        "junctions": 79,
+        "endpoints": 23,
+        "length": 1242,
+        "area": 13830
+      },
+      {
+        "sid": "14-13-512",
+        "junctions": 102,
+        "endpoints": 12,
+        "length": 1611,
+        "area": 24738
+      },
+      {
+        "sid": "14-13-716",
+        "junctions": 115,
+        "endpoints": 24,
+        "length": 1526,
+        "area": 17834
+      },
+      {
+        "sid": "14-14-512",
+        "junctions": 121,
+        "endpoints": 11,
+        "length": 2026,
+        "area": 32363
+      },
+      {
+        "sid": "14-14-716",
+        "junctions": 156,
+        "endpoints": 24,
+        "length": 2010,
+        "area": 24901
+      },
+      {
+        "sid": "14-15-512",
+        "junctions": 161,
+        "endpoints": 13,
+        "length": 2339,
+        "area": 32384
+      },
+      {
+        "sid": "14-15-716",
+        "junctions": 163,
+        "endpoints": 19,
+        "length": 2212,
+        "area": 27390
+      },
+      {
+        "sid": "14-16-512",
+        "junctions": 161,
+        "endpoints": 14,
+        "length": 2256,
+        "area": 23902
+      },
+      {
+        "sid": "14-16-716",
+        "junctions": 194,
+        "endpoints": 19,
+        "length": 2262,
+        "area": 22047
+      },
+      {
+        "sid": "14-2-512",
+        "junctions": 26,
+        "endpoints": 7,
+        "length": 866,
+        "area": 8540
+      },
+      {
+        "sid": "14-2-716",
+        "junctions": 18,
+        "endpoints": 12,
+        "length": 767,
+        "area": 5292
+      },
+      {
+        "sid": "14-3-512",
+        "junctions": 43,
+        "endpoints": 15,
+        "length": 861,
+        "area": 7889
+      },
+      {
+        "sid": "14-3-716",
+        "junctions": 69,
+        "endpoints": 17,
+        "length": 999,
+        "area": 6870
+      },
+      {
+        "sid": "14-4-512",
+        "junctions": 61,
+        "endpoints": 11,
+        "length": 1215,
+        "area": 10816
+      },
+      {
+        "sid": "14-4-716",
+        "junctions": 110,
+        "endpoints": 12,
+        "length": 1287,
+        "area": 8840
+      },
+      {
+        "sid": "14-5-512",
+        "junctions": 85,
+        "endpoints": 12,
+        "length": 1373,
+        "area": 14131
+      },
+      {
+        "sid": "14-5-716",
+        "junctions": 85,
+        "endpoints": 9,
+        "length": 1206,
+        "area": 9669
+      },
+      {
+        "sid": "14-6-512",
+        "junctions": 66,
+        "endpoints": 10,
+        "length": 1318,
+        "area": 15292
+      },
+      {
+        "sid": "14-6-716",
+        "junctions": 85,
+        "endpoints": 15,
+        "length": 1354,
+        "area": 10606
+      },
+      {
+        "sid": "14-7-512",
+        "junctions": 83,
+        "endpoints": 15,
+        "length": 1606,
+        "area": 17787
+      },
+      {
+        "sid": "14-7-716",
+        "junctions": 88,
+        "endpoints": 17,
+        "length": 1338,
+        "area": 10520
+      },
+      {
+        "sid": "14-8-512",
+        "junctions": 82,
+        "endpoints": 13,
+        "length": 1663,
+        "area": 15184
+      },
+      {
+        "sid": "14-8-716",
+        "junctions": 83,
+        "endpoints": 15,
+        "length": 1313,
+        "area": 9684
+      },
+      {
+        "sid": "16-18-512",
+        "junctions": 67,
+        "endpoints": 15,
+        "length": 1048,
+        "area": 10885
+      },
+      {
+        "sid": "16-19-512",
+        "junctions": 57,
+        "endpoints": 6,
+        "length": 815,
+        "area": 7920
+      },
+      {
+        "sid": "16-19-716",
+        "junctions": 50,
+        "endpoints": 8,
+        "length": 676,
+        "area": 4991
+      },
+      {
+        "sid": "18-0-512",
+        "junctions": 70,
+        "endpoints": 8,
+        "length": 962,
+        "area": 12005
+      },
+      {
+        "sid": "18-0-716",
+        "junctions": 53,
+        "endpoints": 9,
+        "length": 765,
+        "area": 8435
+      },
+      {
+        "sid": "18-1-512",
+        "junctions": 97,
+        "endpoints": 12,
+        "length": 1420,
+        "area": 14299
+      },
+      {
+        "sid": "18-1-716",
+        "junctions": 71,
+        "endpoints": 15,
+        "length": 853,
+        "area": 7926
+      },
+      {
+        "sid": "18-10-512",
+        "junctions": 59,
+        "endpoints": 15,
+        "length": 791,
+        "area": 9951
+      },
+      {
+        "sid": "18-10-716",
+        "junctions": 39,
+        "endpoints": 16,
+        "length": 578,
+        "area": 6532
+      },
+      {
+        "sid": "18-11-512",
+        "junctions": 73,
+        "endpoints": 10,
+        "length": 1000,
+        "area": 16168
+      },
+      {
+        "sid": "18-11-716",
+        "junctions": 57,
+        "endpoints": 14,
+        "length": 766,
+        "area": 10155
+      },
+      {
+        "sid": "18-12-512",
+        "junctions": 94,
+        "endpoints": 13,
+        "length": 1287,
+        "area": 23275
+      },
+      {
+        "sid": "18-12-716",
+        "junctions": 66,
+        "endpoints": 11,
+        "length": 866,
+        "area": 13844
+      },
+      {
+        "sid": "18-13-512",
+        "junctions": 129,
+        "endpoints": 13,
+        "length": 1528,
+        "area": 26736
+      },
+      {
+        "sid": "18-13-716",
+        "junctions": 75,
+        "endpoints": 14,
+        "length": 1108,
+        "area": 15612
+      },
+      {
+        "sid": "18-14-512",
+        "junctions": 90,
+        "endpoints": 14,
+        "length": 1424,
+        "area": 21497
+      },
+      {
+        "sid": "18-14-716",
+        "junctions": 78,
+        "endpoints": 16,
+        "length": 1113,
+        "area": 13802
+      },
+      {
+        "sid": "18-15-512",
+        "junctions": 87,
+        "endpoints": 16,
+        "length": 1325,
+        "area": 16729
+      },
+      {
+        "sid": "18-15-716",
+        "junctions": 79,
+        "endpoints": 15,
+        "length": 1145,
+        "area": 11291
+      },
+      {
+        "sid": "18-16-512",
+        "junctions": 67,
+        "endpoints": 9,
+        "length": 1346,
+        "area": 18288
+      },
+      {
+        "sid": "18-16-716",
+        "junctions": 73,
+        "endpoints": 8,
+        "length": 1138,
+        "area": 11953
+      },
+      {
+        "sid": "18-17-512",
+        "junctions": 58,
+        "endpoints": 9,
+        "length": 1056,
+        "area": 15555
+      },
+      {
+        "sid": "18-17-716",
+        "junctions": 70,
+        "endpoints": 11,
+        "length": 1066,
+        "area": 11355
+      },
+      {
+        "sid": "18-18-512",
+        "junctions": 63,
+        "endpoints": 10,
+        "length": 1044,
+        "area": 10771
+      },
+      {
+        "sid": "18-18-716",
+        "junctions": 65,
+        "endpoints": 10,
+        "length": 864,
+        "area": 10191
+      },
+      {
+        "sid": "18-19-512",
+        "junctions": 79,
+        "endpoints": 11,
+        "length": 1256,
+        "area": 12677
+      },
+      {
+        "sid": "18-19-716",
+        "junctions": 47,
+        "endpoints": 9,
+        "length": 959,
+        "area": 7721
+      },
+      {
+        "sid": "18-2-512",
+        "junctions": 83,
+        "endpoints": 14,
+        "length": 1090,
+        "area": 11425
+      },
+      {
+        "sid": "18-2-716",
+        "junctions": 67,
+        "endpoints": 18,
+        "length": 684,
+        "area": 6218
+      },
+      {
+        "sid": "18-3-512",
+        "junctions": 30,
+        "endpoints": 11,
+        "length": 618,
+        "area": 10287
+      },
+      {
+        "sid": "18-3-716",
+        "junctions": 33,
+        "endpoints": 13,
+        "length": 488,
+        "area": 4370
+      },
+      {
+        "sid": "18-4-512",
+        "junctions": 37,
+        "endpoints": 9,
+        "length": 737,
+        "area": 9481
+      },
+      {
+        "sid": "18-5-512",
+        "junctions": 59,
+        "endpoints": 13,
+        "length": 780,
+        "area": 8971
+      },
+      {
+        "sid": "18-5-716",
+        "junctions": 52,
+        "endpoints": 16,
+        "length": 674,
+        "area": 5940
+      },
+      {
+        "sid": "18-6-512",
+        "junctions": 58,
+        "endpoints": 9,
+        "length": 971,
+        "area": 12222
+      },
+      {
+        "sid": "18-6-716",
+        "junctions": 59,
+        "endpoints": 15,
+        "length": 765,
+        "area": 8200
+      },
+      {
+        "sid": "18-7-512",
+        "junctions": 60,
+        "endpoints": 8,
+        "length": 906,
+        "area": 13829
+      },
+      {
+        "sid": "18-7-716",
+        "junctions": 65,
+        "endpoints": 9,
+        "length": 737,
+        "area": 8321
+      },
+      {
+        "sid": "18-8-512",
+        "junctions": 37,
+        "endpoints": 10,
+        "length": 658,
+        "area": 9860
+      },
+      {
+        "sid": "18-9-512",
+        "junctions": 43,
+        "endpoints": 10,
+        "length": 666,
+        "area": 9211
+      },
+      {
+        "sid": "18-9-716",
+        "junctions": 45,
+        "endpoints": 18,
+        "length": 678,
+        "area": 6052
+      },
+      {
+        "sid": "23-11-716",
+        "junctions": 45,
+        "endpoints": 9,
+        "length": 608,
+        "area": 9575
+      },
+      {
+        "sid": "23-12-512",
+        "junctions": 52,
+        "endpoints": 11,
+        "length": 1079,
+        "area": 18819
+      },
+      {
+        "sid": "23-12-716",
+        "junctions": 62,
+        "endpoints": 7,
+        "length": 806,
+        "area": 11191
+      },
+      {
+        "sid": "23-13-512",
+        "junctions": 27,
+        "endpoints": 6,
+        "length": 744,
+        "area": 15516
+      },
+      {
+        "sid": "23-13-716",
+        "junctions": 63,
+        "endpoints": 9,
+        "length": 796,
+        "area": 12646
+      },
+      {
+        "sid": "23-14-512",
+        "junctions": 39,
+        "endpoints": 9,
+        "length": 678,
+        "area": 19380
+      },
+      {
+        "sid": "23-14-716",
+        "junctions": 64,
+        "endpoints": 15,
+        "length": 730,
+        "area": 11819
+      },
+      {
+        "sid": "23-15-512",
+        "junctions": 52,
+        "endpoints": 9,
+        "length": 854,
+        "area": 17625
+      },
+      {
+        "sid": "23-15-716",
+        "junctions": 52,
+        "endpoints": 8,
+        "length": 674,
+        "area": 11451
+      },
+      {
+        "sid": "23-16-512",
+        "junctions": 58,
+        "endpoints": 11,
+        "length": 816,
+        "area": 12417
+      },
+      {
+        "sid": "23-16-716",
+        "junctions": 53,
+        "endpoints": 8,
+        "length": 663,
+        "area": 7798
+      },
+      {
+        "sid": "23-17-512",
+        "junctions": 41,
+        "endpoints": 15,
+        "length": 870,
+        "area": 11350
+      },
+      {
+        "sid": "23-17-716",
+        "junctions": 56,
+        "endpoints": 13,
+        "length": 669,
+        "area": 7426
+      },
+      {
+        "sid": "23-18-512",
+        "junctions": 74,
+        "endpoints": 13,
+        "length": 936,
+        "area": 11903
+      },
+      {
+        "sid": "23-18-716",
+        "junctions": 44,
+        "endpoints": 11,
+        "length": 613,
+        "area": 7444
+      },
+      {
+        "sid": "23-19-512",
+        "junctions": 53,
+        "endpoints": 15,
+        "length": 893,
+        "area": 9492
+      },
+      {
+        "sid": "23-19-716",
+        "junctions": 50,
+        "endpoints": 13,
+        "length": 695,
+        "area": 6769
+      },
+      {
+        "sid": "23-4-512",
+        "junctions": 1,
+        "endpoints": 2,
+        "length": 101,
+        "area": 595
+      },
+      {
+        "sid": "23-4-716",
+        "junctions": 0,
+        "endpoints": 3,
+        "length": 128,
+        "area": 681
+      },
+      {
+        "sid": "23-5-512",
+        "junctions": 0,
+        "endpoints": 2,
+        "length": 40,
+        "area": 1086
+      },
+      {
+        "sid": "23-5-716",
+        "junctions": 0,
+        "endpoints": 3,
+        "length": 89,
+        "area": 520
+      },
+      {
+        "sid": "23-6-512",
+        "junctions": 4,
+        "endpoints": 4,
+        "length": 53,
+        "area": 1368
+      },
+      {
+        "sid": "23-6-716",
+        "junctions": 4,
+        "endpoints": 6,
+        "length": 108,
+        "area": 475
+      },
+      {
+        "sid": "36-0-512",
+        "junctions": 4,
+        "endpoints": 3,
+        "length": 182,
+        "area": 3538
+      },
+      {
+        "sid": "36-0-716",
+        "junctions": 1,
+        "endpoints": 2,
+        "length": 99,
+        "area": 682
+      },
+      {
+        "sid": "36-1-716",
+        "junctions": 18,
+        "endpoints": 9,
+        "length": 199,
+        "area": 1102
+      },
+      {
+        "sid": "36-10-512",
+        "junctions": 59,
+        "endpoints": 10,
+        "length": 919,
+        "area": 12707
+      },
+      {
+        "sid": "36-10-716",
+        "junctions": 36,
+        "endpoints": 7,
+        "length": 549,
+        "area": 6731
+      },
+      {
+        "sid": "36-11-512",
+        "junctions": 22,
+        "endpoints": 4,
+        "length": 547,
+        "area": 11290
+      },
+      {
+        "sid": "36-11-716",
+        "junctions": 33,
+        "endpoints": 9,
+        "length": 436,
+        "area": 6040
+      },
+      {
+        "sid": "36-12-512",
+        "junctions": 26,
+        "endpoints": 7,
+        "length": 476,
+        "area": 7588
+      },
+      {
+        "sid": "36-12-716",
+        "junctions": 21,
+        "endpoints": 11,
+        "length": 385,
+        "area": 4953
+      },
+      {
+        "sid": "36-13-512",
+        "junctions": 36,
+        "endpoints": 7,
+        "length": 646,
+        "area": 9128
+      },
+      {
+        "sid": "36-13-716",
+        "junctions": 26,
+        "endpoints": 8,
+        "length": 403,
+        "area": 5071
+      },
+      {
+        "sid": "36-14-512",
+        "junctions": 82,
+        "endpoints": 10,
+        "length": 935,
+        "area": 11095
+      },
+      {
+        "sid": "36-15-512",
+        "junctions": 36,
+        "endpoints": 11,
+        "length": 712,
+        "area": 9330
+      },
+      {
+        "sid": "36-15-716",
+        "junctions": 19,
+        "endpoints": 11,
+        "length": 427,
+        "area": 5036
+      },
+      {
+        "sid": "36-2-512",
+        "junctions": 11,
+        "endpoints": 7,
+        "length": 335,
+        "area": 2385
+      },
+      {
+        "sid": "36-2-716",
+        "junctions": 10,
+        "endpoints": 8,
+        "length": 246,
+        "area": 1384
+      },
+      {
+        "sid": "36-3-512",
+        "junctions": 1,
+        "endpoints": 3,
+        "length": 341,
+        "area": 3111
+      },
+      {
+        "sid": "36-3-716",
+        "junctions": 6,
+        "endpoints": 5,
+        "length": 234,
+        "area": 1420
+      },
+      {
+        "sid": "36-4-512",
+        "junctions": 10,
+        "endpoints": 2,
+        "length": 216,
+        "area": 2299
+      },
+      {
+        "sid": "36-4-716",
+        "junctions": 4,
+        "endpoints": 4,
+        "length": 149,
+        "area": 1110
+      },
+      {
+        "sid": "36-5-512",
+        "junctions": 3,
+        "endpoints": 5,
+        "length": 145,
+        "area": 878
+      },
+      {
+        "sid": "36-5-716",
+        "junctions": 8,
+        "endpoints": 8,
+        "length": 213,
+        "area": 1757
+      },
+      {
+        "sid": "36-6-512",
+        "junctions": 5,
+        "endpoints": 5,
+        "length": 226,
+        "area": 3511
+      },
+      {
+        "sid": "36-6-716",
+        "junctions": 0,
+        "endpoints": 5,
+        "length": 176,
+        "area": 1953
+      },
+      {
+        "sid": "36-7-512",
+        "junctions": 2,
+        "endpoints": 4,
+        "length": 187,
+        "area": 4881
+      },
+      {
+        "sid": "36-7-716",
+        "junctions": 2,
+        "endpoints": 8,
+        "length": 213,
+        "area": 2558
+      },
+      {
+        "sid": "36-8-512",
+        "junctions": 8,
+        "endpoints": 3,
+        "length": 231,
+        "area": 5947
+      },
+      {
+        "sid": "36-8-716",
+        "junctions": 14,
+        "endpoints": 3,
+        "length": 204,
+        "area": 3063
+      },
+      {
+        "sid": "36-9-512",
+        "junctions": 48,
+        "endpoints": 8,
+        "length": 695,
+        "area": 9960
+      },
+      {
+        "sid": "36-9-716",
+        "junctions": 26,
+        "endpoints": 8,
+        "length": 502,
+        "area": 5772
+      },
+      {
+        "sid": "37-1-512",
+        "junctions": 13,
+        "endpoints": 8,
+        "length": 418,
+        "area": 4113
+      },
+      {
+        "sid": "37-1-716",
+        "junctions": 4,
+        "endpoints": 3,
+        "length": 289,
+        "area": 2062
+      },
+      {
+        "sid": "37-10-512",
+        "junctions": 13,
+        "endpoints": 7,
+        "length": 396,
+        "area": 4857
+      },
+      {
+        "sid": "37-10-716",
+        "junctions": 15,
+        "endpoints": 4,
+        "length": 242,
+        "area": 2203
+      },
+      {
+        "sid": "37-11-512",
+        "junctions": 18,
+        "endpoints": 7,
+        "length": 460,
+        "area": 5557
+      },
+      {
+        "sid": "37-11-716",
+        "junctions": 16,
+        "endpoints": 6,
+        "length": 249,
+        "area": 2276
+      },
+      {
+        "sid": "37-12-512",
+        "junctions": 9,
+        "endpoints": 8,
+        "length": 253,
+        "area": 3578
+      },
+      {
+        "sid": "37-12-716",
+        "junctions": 8,
+        "endpoints": 7,
+        "length": 230,
+        "area": 2214
+      },
+      {
+        "sid": "37-13-512",
+        "junctions": 39,
+        "endpoints": 9,
+        "length": 750,
+        "area": 11321
+      },
+      {
+        "sid": "37-13-716",
+        "junctions": 29,
+        "endpoints": 7,
+        "length": 474,
+        "area": 5294
+      },
+      {
+        "sid": "37-14-512",
+        "junctions": 71,
+        "endpoints": 9,
+        "length": 1148,
+        "area": 16780
+      },
+      {
+        "sid": "37-14-716",
+        "junctions": 29,
+        "endpoints": 8,
+        "length": 677,
+        "area": 8309
+      },
+      {
+        "sid": "37-15-512",
+        "junctions": 47,
+        "endpoints": 7,
+        "length": 748,
+        "area": 10785
+      },
+      {
+        "sid": "37-15-716",
+        "junctions": 42,
+        "endpoints": 7,
+        "length": 701,
+        "area": 8339
+      },
+      {
+        "sid": "37-16-512",
+        "junctions": 8,
+        "endpoints": 6,
+        "length": 387,
+        "area": 5273
+      },
+      {
+        "sid": "37-16-716",
+        "junctions": 27,
+        "endpoints": 5,
+        "length": 412,
+        "area": 4965
+      },
+      {
+        "sid": "37-17-512",
+        "junctions": 32,
+        "endpoints": 9,
+        "length": 578,
+        "area": 6445
+      },
+      {
+        "sid": "37-17-716",
+        "junctions": 27,
+        "endpoints": 6,
+        "length": 403,
+        "area": 3601
+      },
+      {
+        "sid": "37-18-512",
+        "junctions": 75,
+        "endpoints": 11,
+        "length": 906,
+        "area": 7422
+      },
+      {
+        "sid": "37-18-716",
+        "junctions": 48,
+        "endpoints": 9,
+        "length": 629,
+        "area": 4609
+      },
+      {
+        "sid": "37-2-716",
+        "junctions": 11,
+        "endpoints": 7,
+        "length": 398,
+        "area": 2916
+      },
+      {
+        "sid": "37-3-512",
+        "junctions": 9,
+        "endpoints": 4,
+        "length": 315,
+        "area": 4935
+      },
+      {
+        "sid": "37-3-716",
+        "junctions": 16,
+        "endpoints": 6,
+        "length": 370,
+        "area": 2641
+      },
+      {
+        "sid": "37-4-512",
+        "junctions": 28,
+        "endpoints": 8,
+        "length": 495,
+        "area": 5738
+      },
+      {
+        "sid": "37-4-716",
+        "junctions": 22,
+        "endpoints": 9,
+        "length": 312,
+        "area": 2323
+      },
+      {
+        "sid": "37-5-512",
+        "junctions": 17,
+        "endpoints": 8,
+        "length": 321,
+        "area": 2868
+      },
+      {
+        "sid": "37-5-716",
+        "junctions": 16,
+        "endpoints": 5,
+        "length": 276,
+        "area": 1732
+      },
+      {
+        "sid": "37-6-512",
+        "junctions": 29,
+        "endpoints": 8,
+        "length": 291,
+        "area": 2048
+      },
+      {
+        "sid": "37-6-716",
+        "junctions": 10,
+        "endpoints": 3,
+        "length": 170,
+        "area": 1166
+      },
+      {
+        "sid": "37-7-512",
+        "junctions": 16,
+        "endpoints": 6,
+        "length": 280,
+        "area": 1789
+      },
+      {
+        "sid": "37-7-716",
+        "junctions": 14,
+        "endpoints": 4,
+        "length": 215,
+        "area": 1652
+      },
+      {
+        "sid": "37-8-512",
+        "junctions": 34,
+        "endpoints": 11,
+        "length": 431,
+        "area": 3974
+      },
+      {
+        "sid": "37-8-716",
+        "junctions": 6,
+        "endpoints": 4,
+        "length": 192,
+        "area": 1514
+      },
+      {
+        "sid": "37-9-512",
+        "junctions": 16,
+        "endpoints": 6,
+        "length": 365,
+        "area": 4485
+      },
+      {
+        "sid": "37-9-716",
+        "junctions": 15,
+        "endpoints": 5,
+        "length": 233,
+        "area": 1736
+      },
+      {
+        "sid": "9-1-512",
+        "junctions": 1,
+        "endpoints": 2,
+        "length": 47,
+        "area": 892
+      },
+      {
+        "sid": "9-10-512",
+        "junctions": 1,
+        "endpoints": 4,
+        "length": 104,
+        "area": 3426
+      },
+      {
+        "sid": "9-11-512",
+        "junctions": 0,
+        "endpoints": 0,
+        "length": 23,
+        "area": 3456
+      },
+      {
+        "sid": "9-11-716",
+        "junctions": 4,
+        "endpoints": 3,
+        "length": 31,
+        "area": 814
+      },
+      {
+        "sid": "9-12-512",
+        "junctions": 19,
+        "endpoints": 7,
+        "length": 275,
+        "area": 4997
+      },
+      {
+        "sid": "9-12-716",
+        "junctions": 13,
+        "endpoints": 1,
+        "length": 146,
+        "area": 1252
+      },
+      {
+        "sid": "9-13-512",
+        "junctions": 33,
+        "endpoints": 9,
+        "length": 617,
+        "area": 7422
+      },
+      {
+        "sid": "9-13-716",
+        "junctions": 12,
+        "endpoints": 3,
+        "length": 250,
+        "area": 2392
+      },
+      {
+        "sid": "9-14-512",
+        "junctions": 34,
+        "endpoints": 6,
+        "length": 595,
+        "area": 7498
+      },
+      {
+        "sid": "9-14-716",
+        "junctions": 12,
+        "endpoints": 3,
+        "length": 331,
+        "area": 3315
+      },
+      {
+        "sid": "9-15-512",
+        "junctions": 31,
+        "endpoints": 6,
+        "length": 647,
+        "area": 8059
+      },
+      {
+        "sid": "9-15-716",
+        "junctions": 16,
+        "endpoints": 10,
+        "length": 455,
+        "area": 4117
+      },
+      {
+        "sid": "9-2-512",
+        "junctions": 6,
+        "endpoints": 4,
+        "length": 138,
+        "area": 3539
+      },
+      {
+        "sid": "9-2-716",
+        "junctions": 0,
+        "endpoints": 2,
+        "length": 67,
+        "area": 878
+      },
+      {
+        "sid": "9-3-512",
+        "junctions": 7,
+        "endpoints": 5,
+        "length": 197,
+        "area": 4389
+      },
+      {
+        "sid": "9-3-716",
+        "junctions": 3,
+        "endpoints": 4,
+        "length": 79,
+        "area": 899
+      },
+      {
+        "sid": "9-4-512",
+        "junctions": 0,
+        "endpoints": 1,
+        "length": 15,
+        "area": 1496
+      },
+      {
+        "sid": "9-4-716",
+        "junctions": 1,
+        "endpoints": 3,
+        "length": 8,
+        "area": 31
+      }
+    ],
+    "multi": [
+      {
+        "sid": "1-0-512",
+        "junctions": 13,
+        "endpoints": 8,
+        "length": 617,
+        "area": 5192
+      },
+      {
+        "sid": "1-0-716",
+        "junctions": 21,
+        "endpoints": 6,
+        "length": 528,
+        "area": 4231
+      },
+      {
+        "sid": "1-1-512",
+        "junctions": 35,
+        "endpoints": 7,
+        "length": 1079,
+        "area": 9962
+      },
+      {
+        "sid": "1-1-716",
+        "junctions": 36,
+        "endpoints": 8,
+        "length": 841,
+        "area": 6308
+      },
+      {
+        "sid": "1-10-512",
+        "junctions": 57,
+        "endpoints": 14,
+        "length": 1316,
+        "area": 9635
+      },
+      {
+        "sid": "1-10-716",
+        "junctions": 75,
+        "endpoints": 15,
+        "length": 1076,
+        "area": 6560
+      },
+      {
+        "sid": "1-11-512",
+        "junctions": 127,
+        "endpoints": 14,
+        "length": 1688,
+        "area": 14091
+      },
+      {
+        "sid": "1-11-716",
+        "junctions": 81,
+        "endpoints": 16,
+        "length": 1167,
+        "area": 7645
+      },
+      {
+        "sid": "1-12-512",
+        "junctions": 116,
+        "endpoints": 12,
+        "length": 1867,
+        "area": 13737
+      },
+      {
+        "sid": "1-12-716",
+        "junctions": 69,
+        "endpoints": 16,
+        "length": 1127,
+        "area": 7573
+      },
+      {
+        "sid": "1-13-512",
+        "junctions": 67,
+        "endpoints": 14,
+        "length": 1616,
+        "area": 13688
+      },
+      {
+        "sid": "1-13-716",
+        "junctions": 77,
+        "endpoints": 13,
+        "length": 1477,
+        "area": 10669
+      },
+      {
+        "sid": "1-14-512",
+        "junctions": 143,
+        "endpoints": 13,
+        "length": 2394,
+        "area": 21925
+      },
+      {
+        "sid": "1-14-716",
+        "junctions": 75,
+        "endpoints": 19,
+        "length": 1661,
+        "area": 13095
+      },
+      {
+        "sid": "1-15-512",
+        "junctions": 141,
+        "endpoints": 18,
+        "length": 2421,
+        "area": 20397
+      },
+      {
+        "sid": "1-15-716",
+        "junctions": 136,
+        "endpoints": 16,
+        "length": 1979,
+        "area": 14891
+      },
+      {
+        "sid": "1-16-512",
+        "junctions": 113,
+        "endpoints": 15,
+        "length": 1956,
+        "area": 16266
+      },
+      {
+        "sid": "1-16-716",
+        "junctions": 167,
+        "endpoints": 13,
+        "length": 1863,
+        "area": 12518
+      },
+      {
+        "sid": "1-17-512",
+        "junctions": 102,
+        "endpoints": 12,
+        "length": 1945,
+        "area": 16891
+      },
+      {
+        "sid": "1-17-716",
+        "junctions": 107,
+        "endpoints": 17,
+        "length": 1436,
+        "area": 10390
+      },
+      {
+        "sid": "1-18-512",
+        "junctions": 117,
+        "endpoints": 16,
+        "length": 1808,
+        "area": 14019
+      },
+      {
+        "sid": "1-18-716",
+        "junctions": 119,
+        "endpoints": 7,
+        "length": 1327,
+        "area": 9426
+      },
+      {
+        "sid": "1-19-512",
+        "junctions": 74,
+        "endpoints": 13,
+        "length": 1277,
+        "area": 9339
+      },
+      {
+        "sid": "1-19-716",
+        "junctions": 77,
+        "endpoints": 11,
+        "length": 977,
+        "area": 6656
+      },
+      {
+        "sid": "1-2-512",
+        "junctions": 75,
+        "endpoints": 10,
+        "length": 1251,
+        "area": 10396
+      },
+      {
+        "sid": "1-2-716",
+        "junctions": 53,
+        "endpoints": 6,
+        "length": 983,
+        "area": 6934
+      },
+      {
+        "sid": "1-3-512",
+        "junctions": 56,
+        "endpoints": 6,
+        "length": 977,
+        "area": 8116
+      },
+      {
+        "sid": "1-3-716",
+        "junctions": 38,
+        "endpoints": 9,
+        "length": 758,
+        "area": 4979
+      },
+      {
+        "sid": "1-4-512",
+        "junctions": 44,
+        "endpoints": 8,
+        "length": 825,
+        "area": 6474
+      },
+      {
+        "sid": "1-4-716",
+        "junctions": 36,
+        "endpoints": 7,
+        "length": 846,
+        "area": 5971
+      },
+      {
+        "sid": "1-5-512",
+        "junctions": 57,
+        "endpoints": 11,
+        "length": 1190,
+        "area": 11036
+      },
+      {
+        "sid": "1-5-716",
+        "junctions": 43,
+        "endpoints": 11,
+        "length": 826,
+        "area": 5958
+      },
+      {
+        "sid": "1-6-512",
+        "junctions": 82,
+        "endpoints": 12,
+        "length": 1387,
+        "area": 13416
+      },
+      {
+        "sid": "1-6-716",
+        "junctions": 68,
+        "endpoints": 13,
+        "length": 1017,
+        "area": 7855
+      },
+      {
+        "sid": "1-7-512",
+        "junctions": 57,
+        "endpoints": 19,
+        "length": 1176,
+        "area": 11321
+      },
+      {
+        "sid": "1-7-716",
+        "junctions": 38,
+        "endpoints": 9,
+        "length": 827,
+        "area": 6500
+      },
+      {
+        "sid": "1-8-512",
+        "junctions": 66,
+        "endpoints": 16,
+        "length": 1023,
+        "area": 8867
+      },
+      {
+        "sid": "1-8-716",
+        "junctions": 45,
+        "endpoints": 10,
+        "length": 888,
+        "area": 6593
+      },
+      {
+        "sid": "1-9-512",
+        "junctions": 108,
+        "endpoints": 8,
+        "length": 1277,
+        "area": 10034
+      },
+      {
+        "sid": "1-9-716",
+        "junctions": 52,
+        "endpoints": 11,
+        "length": 987,
+        "area": 6339
+      },
+      {
+        "sid": "14-0-512",
+        "junctions": 127,
+        "endpoints": 21,
+        "length": 1897,
+        "area": 15552
+      },
+      {
+        "sid": "14-0-716",
+        "junctions": 56,
+        "endpoints": 16,
+        "length": 836,
+        "area": 5164
+      },
+      {
+        "sid": "14-1-512",
+        "junctions": 28,
+        "endpoints": 15,
+        "length": 1106,
+        "area": 7542
+      },
+      {
+        "sid": "14-1-716",
+        "junctions": 16,
+        "endpoints": 11,
+        "length": 622,
+        "area": 3743
+      },
+      {
+        "sid": "14-12-512",
+        "junctions": 142,
+        "endpoints": 17,
+        "length": 1784,
+        "area": 17210
+      },
+      {
+        "sid": "14-12-716",
+        "junctions": 99,
+        "endpoints": 10,
+        "length": 1334,
+        "area": 11351
+      },
+      {
+        "sid": "14-13-512",
+        "junctions": 135,
+        "endpoints": 10,
+        "length": 1968,
+        "area": 22920
+      },
+      {
+        "sid": "14-13-716",
+        "junctions": 112,
+        "endpoints": 11,
+        "length": 1693,
+        "area": 15458
+      },
+      {
+        "sid": "14-14-512",
+        "junctions": 159,
+        "endpoints": 18,
+        "length": 2635,
+        "area": 31097
+      },
+      {
+        "sid": "14-14-716",
+        "junctions": 235,
+        "endpoints": 19,
+        "length": 2503,
+        "area": 22606
+      },
+      {
+        "sid": "14-15-512",
+        "junctions": 192,
+        "endpoints": 18,
+        "length": 3186,
+        "area": 33549
+      },
+      {
+        "sid": "14-15-716",
+        "junctions": 208,
+        "endpoints": 22,
+        "length": 2743,
+        "area": 23288
+      },
+      {
+        "sid": "14-16-512",
+        "junctions": 173,
+        "endpoints": 23,
+        "length": 2665,
+        "area": 23195
+      },
+      {
+        "sid": "14-16-716",
+        "junctions": 206,
+        "endpoints": 26,
+        "length": 2559,
+        "area": 19883
+      },
+      {
+        "sid": "14-2-512",
+        "junctions": 43,
+        "endpoints": 10,
+        "length": 1153,
+        "area": 8584
+      },
+      {
+        "sid": "14-2-716",
+        "junctions": 28,
+        "endpoints": 9,
+        "length": 829,
+        "area": 5072
+      },
+      {
+        "sid": "14-3-512",
+        "junctions": 55,
+        "endpoints": 9,
+        "length": 1106,
+        "area": 8004
+      },
+      {
+        "sid": "14-3-716",
+        "junctions": 88,
+        "endpoints": 13,
+        "length": 1070,
+        "area": 6424
+      },
+      {
+        "sid": "14-4-512",
+        "junctions": 57,
+        "endpoints": 9,
+        "length": 1375,
+        "area": 10758
+      },
+      {
+        "sid": "14-4-716",
+        "junctions": 69,
+        "endpoints": 23,
+        "length": 1229,
+        "area": 7875
+      },
+      {
+        "sid": "14-5-512",
+        "junctions": 92,
+        "endpoints": 22,
+        "length": 1496,
+        "area": 12502
+      },
+      {
+        "sid": "14-5-716",
+        "junctions": 79,
+        "endpoints": 11,
+        "length": 1315,
+        "area": 8935
+      },
+      {
+        "sid": "14-6-512",
+        "junctions": 63,
+        "endpoints": 11,
+        "length": 1595,
+        "area": 13462
+      },
+      {
+        "sid": "14-6-716",
+        "junctions": 80,
+        "endpoints": 17,
+        "length": 1491,
+        "area": 9946
+      },
+      {
+        "sid": "14-7-512",
+        "junctions": 107,
+        "endpoints": 14,
+        "length": 2077,
+        "area": 16378
+      },
+      {
+        "sid": "14-7-716",
+        "junctions": 74,
+        "endpoints": 21,
+        "length": 1502,
+        "area": 10033
+      },
+      {
+        "sid": "14-8-512",
+        "junctions": 77,
+        "endpoints": 18,
+        "length": 1814,
+        "area": 14213
+      },
+      {
+        "sid": "14-8-716",
+        "junctions": 60,
+        "endpoints": 16,
+        "length": 1303,
+        "area": 8565
+      },
+      {
+        "sid": "16-18-512",
+        "junctions": 63,
+        "endpoints": 10,
+        "length": 1226,
+        "area": 10166
+      },
+      {
+        "sid": "16-19-512",
+        "junctions": 66,
+        "endpoints": 7,
+        "length": 985,
+        "area": 7328
+      },
+      {
+        "sid": "16-19-716",
+        "junctions": 55,
+        "endpoints": 7,
+        "length": 726,
+        "area": 4622
+      },
+      {
+        "sid": "18-0-512",
+        "junctions": 123,
+        "endpoints": 5,
+        "length": 1474,
+        "area": 12186
+      },
+      {
+        "sid": "18-0-716",
+        "junctions": 110,
+        "endpoints": 8,
+        "length": 1238,
+        "area": 8200
+      },
+      {
+        "sid": "18-1-512",
+        "junctions": 145,
+        "endpoints": 7,
+        "length": 1911,
+        "area": 13581
+      },
+      {
+        "sid": "18-1-716",
+        "junctions": 134,
+        "endpoints": 11,
+        "length": 1309,
+        "area": 8629
+      },
+      {
+        "sid": "18-10-512",
+        "junctions": 84,
+        "endpoints": 16,
+        "length": 1048,
+        "area": 9453
+      },
+      {
+        "sid": "18-10-716",
+        "junctions": 65,
+        "endpoints": 10,
+        "length": 861,
+        "area": 6275
+      },
+      {
+        "sid": "18-11-512",
+        "junctions": 81,
+        "endpoints": 6,
+        "length": 1319,
+        "area": 15396
+      },
+      {
+        "sid": "18-11-716",
+        "junctions": 71,
+        "endpoints": 10,
+        "length": 969,
+        "area": 9161
+      },
+      {
+        "sid": "18-12-512",
+        "junctions": 126,
+        "endpoints": 7,
+        "length": 1764,
+        "area": 22243
+      },
+      {
+        "sid": "18-12-716",
+        "junctions": 68,
+        "endpoints": 6,
+        "length": 1167,
+        "area": 12624
+      },
+      {
+        "sid": "18-13-512",
+        "junctions": 168,
+        "endpoints": 9,
+        "length": 2114,
+        "area": 24771
+      },
+      {
+        "sid": "18-13-716",
+        "junctions": 125,
+        "endpoints": 15,
+        "length": 1549,
+        "area": 14183
+      },
+      {
+        "sid": "18-14-512",
+        "junctions": 96,
+        "endpoints": 10,
+        "length": 1795,
+        "area": 19967
+      },
+      {
+        "sid": "18-14-716",
+        "junctions": 99,
+        "endpoints": 16,
+        "length": 1358,
+        "area": 12239
+      },
+      {
+        "sid": "18-15-512",
+        "junctions": 78,
+        "endpoints": 12,
+        "length": 1611,
+        "area": 14867
+      },
+      {
+        "sid": "18-15-716",
+        "junctions": 78,
+        "endpoints": 19,
+        "length": 1242,
+        "area": 9882
+      },
+      {
+        "sid": "18-16-512",
+        "junctions": 110,
+        "endpoints": 10,
+        "length": 1729,
+        "area": 16981
+      },
+      {
+        "sid": "18-16-716",
+        "junctions": 96,
+        "endpoints": 14,
+        "length": 1313,
+        "area": 10787
+      },
+      {
+        "sid": "18-17-512",
+        "junctions": 112,
+        "endpoints": 9,
+        "length": 1507,
+        "area": 13960
+      },
+      {
+        "sid": "18-17-716",
+        "junctions": 97,
+        "endpoints": 11,
+        "length": 1260,
+        "area": 10332
+      },
+      {
+        "sid": "18-18-512",
+        "junctions": 91,
+        "endpoints": 8,
+        "length": 1198,
+        "area": 10092
+      },
+      {
+        "sid": "18-18-716",
+        "junctions": 67,
+        "endpoints": 5,
+        "length": 1060,
+        "area": 9140
+      },
+      {
+        "sid": "18-19-512",
+        "junctions": 100,
+        "endpoints": 11,
+        "length": 1577,
+        "area": 11742
+      },
+      {
+        "sid": "18-19-716",
+        "junctions": 51,
+        "endpoints": 8,
+        "length": 1029,
+        "area": 6897
+      },
+      {
+        "sid": "18-2-512",
+        "junctions": 116,
+        "endpoints": 9,
+        "length": 1392,
+        "area": 11258
+      },
+      {
+        "sid": "18-2-716",
+        "junctions": 78,
+        "endpoints": 10,
+        "length": 908,
+        "area": 6668
+      },
+      {
+        "sid": "18-3-512",
+        "junctions": 68,
+        "endpoints": 10,
+        "length": 1056,
+        "area": 10624
+      },
+      {
+        "sid": "18-3-716",
+        "junctions": 38,
+        "endpoints": 12,
+        "length": 740,
+        "area": 5270
+      },
+      {
+        "sid": "18-4-512",
+        "junctions": 78,
+        "endpoints": 5,
+        "length": 1256,
+        "area": 9992
+      },
+      {
+        "sid": "18-5-512",
+        "junctions": 58,
+        "endpoints": 6,
+        "length": 1144,
+        "area": 8603
+      },
+      {
+        "sid": "18-5-716",
+        "junctions": 61,
+        "endpoints": 10,
+        "length": 842,
+        "area": 5974
+      },
+      {
+        "sid": "18-6-512",
+        "junctions": 110,
+        "endpoints": 11,
+        "length": 1317,
+        "area": 12472
+      },
+      {
+        "sid": "18-6-716",
+        "junctions": 75,
+        "endpoints": 9,
+        "length": 942,
+        "area": 7350
+      },
+      {
+        "sid": "18-7-512",
+        "junctions": 115,
+        "endpoints": 11,
+        "length": 1415,
+        "area": 14668
+      },
+      {
+        "sid": "18-7-716",
+        "junctions": 76,
+        "endpoints": 11,
+        "length": 895,
+        "area": 7022
+      },
+      {
+        "sid": "18-8-512",
+        "junctions": 67,
+        "endpoints": 8,
+        "length": 1169,
+        "area": 10907
+      },
+      {
+        "sid": "18-9-512",
+        "junctions": 62,
+        "endpoints": 10,
+        "length": 1030,
+        "area": 8999
+      },
+      {
+        "sid": "18-9-716",
+        "junctions": 49,
+        "endpoints": 10,
+        "length": 759,
+        "area": 5363
+      },
+      {
+        "sid": "23-11-716",
+        "junctions": 57,
+        "endpoints": 7,
+        "length": 1002,
+        "area": 9302
+      },
+      {
+        "sid": "23-12-512",
+        "junctions": 133,
+        "endpoints": 8,
+        "length": 1690,
+        "area": 18589
+      },
+      {
+        "sid": "23-12-716",
+        "junctions": 91,
+        "endpoints": 9,
+        "length": 1205,
+        "area": 11641
+      },
+      {
+        "sid": "23-13-512",
+        "junctions": 132,
+        "endpoints": 8,
+        "length": 1494,
+        "area": 15186
+      },
+      {
+        "sid": "23-13-716",
+        "junctions": 124,
+        "endpoints": 8,
+        "length": 1398,
+        "area": 13169
+      },
+      {
+        "sid": "23-14-512",
+        "junctions": 183,
+        "endpoints": 5,
+        "length": 1863,
+        "area": 19973
+      },
+      {
+        "sid": "23-14-716",
+        "junctions": 95,
+        "endpoints": 6,
+        "length": 1272,
+        "area": 12197
+      },
+      {
+        "sid": "23-15-512",
+        "junctions": 115,
+        "endpoints": 6,
+        "length": 1522,
+        "area": 18592
+      },
+      {
+        "sid": "23-15-716",
+        "junctions": 101,
+        "endpoints": 8,
+        "length": 1222,
+        "area": 12345
+      },
+      {
+        "sid": "23-16-512",
+        "junctions": 92,
+        "endpoints": 3,
+        "length": 1246,
+        "area": 14042
+      },
+      {
+        "sid": "23-16-716",
+        "junctions": 72,
+        "endpoints": 6,
+        "length": 1032,
+        "area": 8555
+      },
+      {
+        "sid": "23-17-512",
+        "junctions": 56,
+        "endpoints": 9,
+        "length": 1306,
+        "area": 11765
+      },
+      {
+        "sid": "23-17-716",
+        "junctions": 41,
+        "endpoints": 7,
+        "length": 999,
+        "area": 7714
+      },
+      {
+        "sid": "23-18-512",
+        "junctions": 94,
+        "endpoints": 12,
+        "length": 1363,
+        "area": 12035
+      },
+      {
+        "sid": "23-18-716",
+        "junctions": 63,
+        "endpoints": 9,
+        "length": 906,
+        "area": 7049
+      },
+      {
+        "sid": "23-19-512",
+        "junctions": 73,
+        "endpoints": 15,
+        "length": 1047,
+        "area": 9266
+      },
+      {
+        "sid": "23-19-716",
+        "junctions": 79,
+        "endpoints": 12,
+        "length": 863,
+        "area": 5890
+      },
+      {
+        "sid": "23-4-512",
+        "junctions": 0,
+        "endpoints": 1,
+        "length": 88,
+        "area": 566
+      },
+      {
+        "sid": "23-4-716",
+        "junctions": 0,
+        "endpoints": 4,
+        "length": 109,
+        "area": 480
+      },
+      {
+        "sid": "23-5-512",
+        "junctions": 0,
+        "endpoints": 1,
+        "length": 54,
+        "area": 304
+      },
+      {
+        "sid": "23-5-716",
+        "junctions": 4,
+        "endpoints": 3,
+        "length": 48,
+        "area": 213
+      },
+      {
+        "sid": "23-6-512",
+        "junctions": 4,
+        "endpoints": 2,
+        "length": 80,
+        "area": 408
+      },
+      {
+        "sid": "23-6-716",
+        "junctions": 0,
+        "endpoints": 6,
+        "length": 76,
+        "area": 336
+      },
+      {
+        "sid": "36-0-512",
+        "junctions": 0,
+        "endpoints": 2,
+        "length": 101,
+        "area": 788
+      },
+      {
+        "sid": "36-0-716",
+        "junctions": 2,
+        "endpoints": 2,
+        "length": 105,
+        "area": 719
+      },
+      {
+        "sid": "36-1-716",
+        "junctions": 10,
+        "endpoints": 5,
+        "length": 176,
+        "area": 919
+      },
+      {
+        "sid": "36-10-512",
+        "junctions": 83,
+        "endpoints": 11,
+        "length": 1304,
+        "area": 12980
+      },
+      {
+        "sid": "36-10-716",
+        "junctions": 54,
+        "endpoints": 6,
+        "length": 825,
+        "area": 6825
+      },
+      {
+        "sid": "36-11-512",
+        "junctions": 70,
+        "endpoints": 6,
+        "length": 1027,
+        "area": 11931
+      },
+      {
+        "sid": "36-11-716",
+        "junctions": 36,
+        "endpoints": 5,
+        "length": 747,
+        "area": 6038
+      },
+      {
+        "sid": "36-12-512",
+        "junctions": 36,
+        "endpoints": 4,
+        "length": 733,
+        "area": 7575
+      },
+      {
+        "sid": "36-12-716",
+        "junctions": 53,
+        "endpoints": 5,
+        "length": 613,
+        "area": 4803
+      },
+      {
+        "sid": "36-13-512",
+        "junctions": 72,
+        "endpoints": 4,
+        "length": 1054,
+        "area": 10240
+      },
+      {
+        "sid": "36-13-716",
+        "junctions": 55,
+        "endpoints": 5,
+        "length": 667,
+        "area": 5013
+      },
+      {
+        "sid": "36-14-512",
+        "junctions": 79,
+        "endpoints": 7,
+        "length": 1167,
+        "area": 12080
+      },
+      {
+        "sid": "36-15-512",
+        "junctions": 75,
+        "endpoints": 6,
+        "length": 1111,
+        "area": 9136
+      },
+      {
+        "sid": "36-15-716",
+        "junctions": 38,
+        "endpoints": 10,
+        "length": 693,
+        "area": 4793
+      },
+      {
+        "sid": "36-2-512",
+        "junctions": 7,
+        "endpoints": 6,
+        "length": 310,
+        "area": 2161
+      },
+      {
+        "sid": "36-2-716",
+        "junctions": 9,
+        "endpoints": 7,
+        "length": 234,
+        "area": 1219
+      },
+      {
+        "sid": "36-3-512",
+        "junctions": 11,
+        "endpoints": 4,
+        "length": 358,
+        "area": 2609
+      },
+      {
+        "sid": "36-3-716",
+        "junctions": 8,
+        "endpoints": 5,
+        "length": 240,
+        "area": 1234
+      },
+      {
+        "sid": "36-4-512",
+        "junctions": 11,
+        "endpoints": 2,
+        "length": 201,
+        "area": 1750
+      },
+      {
+        "sid": "36-4-716",
+        "junctions": 5,
+        "endpoints": 2,
+        "length": 159,
+        "area": 844
+      },
+      {
+        "sid": "36-5-512",
+        "junctions": 3,
+        "endpoints": 4,
+        "length": 167,
+        "area": 986
+      },
+      {
+        "sid": "36-5-716",
+        "junctions": 4,
+        "endpoints": 8,
+        "length": 234,
+        "area": 1527
+      },
+      {
+        "sid": "36-6-512",
+        "junctions": 18,
+        "endpoints": 4,
+        "length": 428,
+        "area": 3494
+      },
+      {
+        "sid": "36-6-716",
+        "junctions": 0,
+        "endpoints": 5,
+        "length": 210,
+        "area": 1511
+      },
+      {
+        "sid": "36-7-512",
+        "junctions": 22,
+        "endpoints": 1,
+        "length": 556,
+        "area": 4699
+      },
+      {
+        "sid": "36-7-716",
+        "junctions": 15,
+        "endpoints": 6,
+        "length": 264,
+        "area": 1943
+      },
+      {
+        "sid": "36-8-512",
+        "junctions": 24,
+        "endpoints": 1,
+        "length": 563,
+        "area": 5814
+      },
+      {
+        "sid": "36-8-716",
+        "junctions": 30,
+        "endpoints": 1,
+        "length": 385,
+        "area": 2448
+      },
+      {
+        "sid": "36-9-512",
+        "junctions": 80,
+        "endpoints": 7,
+        "length": 1026,
+        "area": 9957
+      },
+      {
+        "sid": "36-9-716",
+        "junctions": 43,
+        "endpoints": 6,
+        "length": 707,
+        "area": 5451
+      },
+      {
+        "sid": "37-1-512",
+        "junctions": 16,
+        "endpoints": 5,
+        "length": 468,
+        "area": 4103
+      },
+      {
+        "sid": "37-1-716",
+        "junctions": 0,
+        "endpoints": 3,
+        "length": 266,
+        "area": 1943
+      },
+      {
+        "sid": "37-10-512",
+        "junctions": 58,
+        "endpoints": 3,
+        "length": 678,
+        "area": 5402
+      },
+      {
+        "sid": "37-10-716",
+        "junctions": 20,
+        "endpoints": 4,
+        "length": 306,
+        "area": 2089
+      },
+      {
+        "sid": "37-11-512",
+        "junctions": 44,
+        "endpoints": 9,
+        "length": 577,
+        "area": 5440
+      },
+      {
+        "sid": "37-11-716",
+        "junctions": 21,
+        "endpoints": 4,
+        "length": 274,
+        "area": 2151
+      },
+      {
+        "sid": "37-12-512",
+        "junctions": 25,
+        "endpoints": 5,
+        "length": 433,
+        "area": 3760
+      },
+      {
+        "sid": "37-12-716",
+        "junctions": 21,
+        "endpoints": 6,
+        "length": 309,
+        "area": 1991
+      },
+      {
+        "sid": "37-13-512",
+        "junctions": 42,
+        "endpoints": 6,
+        "length": 973,
+        "area": 10839
+      },
+      {
+        "sid": "37-13-716",
+        "junctions": 48,
+        "endpoints": 9,
+        "length": 611,
+        "area": 4930
+      },
+      {
+        "sid": "37-14-512",
+        "junctions": 71,
+        "endpoints": 7,
+        "length": 1457,
+        "area": 15920
+      },
+      {
+        "sid": "37-14-716",
+        "junctions": 53,
+        "endpoints": 10,
+        "length": 845,
+        "area": 7591
+      },
+      {
+        "sid": "37-15-512",
+        "junctions": 40,
+        "endpoints": 5,
+        "length": 1006,
+        "area": 10221
+      },
+      {
+        "sid": "37-15-716",
+        "junctions": 70,
+        "endpoints": 10,
+        "length": 915,
+        "area": 7924
+      },
+      {
+        "sid": "37-16-512",
+        "junctions": 32,
+        "endpoints": 6,
+        "length": 584,
+        "area": 5392
+      },
+      {
+        "sid": "37-16-716",
+        "junctions": 36,
+        "endpoints": 5,
+        "length": 513,
+        "area": 4663
+      },
+      {
+        "sid": "37-17-512",
+        "junctions": 28,
+        "endpoints": 14,
+        "length": 508,
+        "area": 5009
+      },
+      {
+        "sid": "37-17-716",
+        "junctions": 30,
+        "endpoints": 4,
+        "length": 425,
+        "area": 3254
+      },
+      {
+        "sid": "37-18-512",
+        "junctions": 27,
+        "endpoints": 5,
+        "length": 743,
+        "area": 5756
+      },
+      {
+        "sid": "37-18-716",
+        "junctions": 25,
+        "endpoints": 5,
+        "length": 533,
+        "area": 3496
+      },
+      {
+        "sid": "37-2-716",
+        "junctions": 7,
+        "endpoints": 5,
+        "length": 363,
+        "area": 2489
+      },
+      {
+        "sid": "37-3-512",
+        "junctions": 40,
+        "endpoints": 4,
+        "length": 562,
+        "area": 4314
+      },
+      {
+        "sid": "37-3-716",
+        "junctions": 20,
+        "endpoints": 6,
+        "length": 429,
+        "area": 2508
+      },
+      {
+        "sid": "37-4-512",
+        "junctions": 42,
+        "endpoints": 6,
+        "length": 752,
+        "area": 5464
+      },
+      {
+        "sid": "37-4-716",
+        "junctions": 32,
+        "endpoints": 5,
+        "length": 405,
+        "area": 2443
+      },
+      {
+        "sid": "37-5-512",
+        "junctions": 54,
+        "endpoints": 4,
+        "length": 442,
+        "area": 3285
+      },
+      {
+        "sid": "37-5-716",
+        "junctions": 9,
+        "endpoints": 4,
+        "length": 246,
+        "area": 1678
+      },
+      {
+        "sid": "37-6-512",
+        "junctions": 8,
+        "endpoints": 6,
+        "length": 286,
+        "area": 2457
+      },
+      {
+        "sid": "37-6-716",
+        "junctions": 0,
+        "endpoints": 1,
+        "length": 110,
+        "area": 868
+      },
+      {
+        "sid": "37-7-512",
+        "junctions": 5,
+        "endpoints": 6,
+        "length": 273,
+        "area": 1771
+      },
+      {
+        "sid": "37-7-716",
+        "junctions": 12,
+        "endpoints": 6,
+        "length": 267,
+        "area": 1676
+      },
+      {
+        "sid": "37-8-512",
+        "junctions": 25,
+        "endpoints": 7,
+        "length": 384,
+        "area": 3511
+      },
+      {
+        "sid": "37-8-716",
+        "junctions": 9,
+        "endpoints": 3,
+        "length": 202,
+        "area": 1496
+      },
+      {
+        "sid": "37-9-512",
+        "junctions": 24,
+        "endpoints": 4,
+        "length": 454,
+        "area": 4122
+      },
+      {
+        "sid": "37-9-716",
+        "junctions": 6,
+        "endpoints": 3,
+        "length": 226,
+        "area": 1789
+      },
+      {
+        "sid": "9-1-512",
+        "junctions": 1,
+        "endpoints": 2,
+        "length": 74,
+        "area": 513
+      },
+      {
+        "sid": "9-10-512",
+        "junctions": 24,
+        "endpoints": 2,
+        "length": 381,
+        "area": 3953
+      },
+      {
+        "sid": "9-11-512",
+        "junctions": 23,
+        "endpoints": 0,
+        "length": 357,
+        "area": 3879
+      },
+      {
+        "sid": "9-11-716",
+        "junctions": 5,
+        "endpoints": 0,
+        "length": 60,
+        "area": 851
+      },
+      {
+        "sid": "9-12-512",
+        "junctions": 27,
+        "endpoints": 2,
+        "length": 581,
+        "area": 5683
+      },
+      {
+        "sid": "9-12-716",
+        "junctions": 34,
+        "endpoints": 0,
+        "length": 295,
+        "area": 2286
+      },
+      {
+        "sid": "9-13-512",
+        "junctions": 56,
+        "endpoints": 5,
+        "length": 815,
+        "area": 8478
+      },
+      {
+        "sid": "9-13-716",
+        "junctions": 40,
+        "endpoints": 1,
+        "length": 429,
+        "area": 3111
+      },
+      {
+        "sid": "9-14-512",
+        "junctions": 88,
+        "endpoints": 5,
+        "length": 949,
+        "area": 8518
+      },
+      {
+        "sid": "9-14-716",
+        "junctions": 32,
+        "endpoints": 2,
+        "length": 513,
+        "area": 4376
+      },
+      {
+        "sid": "9-15-512",
+        "junctions": 81,
+        "endpoints": 7,
+        "length": 1094,
+        "area": 8635
+      },
+      {
+        "sid": "9-15-716",
+        "junctions": 34,
+        "endpoints": 10,
+        "length": 606,
+        "area": 4047
+      },
+      {
+        "sid": "9-2-512",
+        "junctions": 51,
+        "endpoints": 1,
+        "length": 408,
+        "area": 3624
+      },
+      {
+        "sid": "9-2-716",
+        "junctions": 7,
+        "endpoints": 1,
+        "length": 124,
+        "area": 1059
+      },
+      {
+        "sid": "9-3-512",
+        "junctions": 24,
+        "endpoints": 1,
+        "length": 506,
+        "area": 4822
+      },
+      {
+        "sid": "9-3-716",
+        "junctions": 8,
+        "endpoints": 1,
+        "length": 142,
+        "area": 1094
+      },
+      {
+        "sid": "9-4-512",
+        "junctions": 1,
+        "endpoints": 0,
+        "length": 239,
+        "area": 1229
+      },
+      {
+        "sid": "9-4-716",
+        "junctions": 0,
+        "endpoints": 0,
+        "length": 0,
+        "area": 0
+      }
+    ]
+  },
+  "PBBDM": {
+    "single": [
+      {
+        "sid": "1-0-512",
+        "junctions": 20,
+        "endpoints": 9,
+        "length": 553,
+        "area": 4911
+      },
+      {
+        "sid": "1-0-716",
+        "junctions": 14,
+        "endpoints": 11,
+        "length": 481,
+        "area": 4182
+      },
+      {
+        "sid": "1-1-512",
+        "junctions": 44,
+        "endpoints": 10,
+        "length": 997,
+        "area": 10606
+      },
+      {
+        "sid": "1-1-716",
+        "junctions": 51,
+        "endpoints": 17,
+        "length": 887,
+        "area": 6931
+      },
+      {
+        "sid": "1-10-512",
+        "junctions": 61,
+        "endpoints": 15,
+        "length": 1138,
+        "area": 10247
+      },
+      {
+        "sid": "1-10-716",
+        "junctions": 42,
+        "endpoints": 11,
+        "length": 913,
+        "area": 6366
+      },
+      {
+        "sid": "1-11-512",
+        "junctions": 70,
+        "endpoints": 19,
+        "length": 1315,
+        "area": 14915
+      },
+      {
+        "sid": "1-11-716",
+        "junctions": 51,
+        "endpoints": 14,
+        "length": 921,
+        "area": 7681
+      },
+      {
+        "sid": "1-12-512",
+        "junctions": 64,
+        "endpoints": 19,
+        "length": 1138,
+        "area": 13567
+      },
+      {
+        "sid": "1-12-716",
+        "junctions": 53,
+        "endpoints": 22,
+        "length": 967,
+        "area": 8061
+      },
+      {
+        "sid": "1-13-512",
+        "junctions": 74,
+        "endpoints": 20,
+        "length": 1312,
+        "area": 13835
+      },
+      {
+        "sid": "1-13-716",
+        "junctions": 101,
+        "endpoints": 23,
+        "length": 1348,
+        "area": 11528
+      },
+      {
+        "sid": "1-14-512",
+        "junctions": 110,
+        "endpoints": 13,
+        "length": 1812,
+        "area": 21880
+      },
+      {
+        "sid": "1-14-716",
+        "junctions": 95,
+        "endpoints": 18,
+        "length": 1467,
+        "area": 12646
+      },
+      {
+        "sid": "1-15-512",
+        "junctions": 134,
+        "endpoints": 15,
+        "length": 1833,
+        "area": 20272
+      },
+      {
+        "sid": "1-15-716",
+        "junctions": 118,
+        "endpoints": 19,
+        "length": 1518,
+        "area": 13418
+      },
+      {
+        "sid": "1-16-512",
+        "junctions": 101,
+        "endpoints": 20,
+        "length": 1552,
+        "area": 14837
+      },
+      {
+        "sid": "1-16-716",
+        "junctions": 124,
+        "endpoints": 23,
+        "length": 1400,
+        "area": 11394
+      },
+      {
+        "sid": "1-17-512",
+        "junctions": 106,
+        "endpoints": 17,
+        "length": 1500,
+        "area": 15244
+      },
+      {
+        "sid": "1-17-716",
+        "junctions": 132,
+        "endpoints": 23,
+        "length": 1335,
+        "area": 11063
+      },
+      {
+        "sid": "1-18-512",
+        "junctions": 98,
+        "endpoints": 14,
+        "length": 1351,
+        "area": 13190
+      },
+      {
+        "sid": "1-18-716",
+        "junctions": 119,
+        "endpoints": 25,
+        "length": 1155,
+        "area": 9478
+      },
+      {
+        "sid": "1-19-512",
+        "junctions": 55,
+        "endpoints": 15,
+        "length": 857,
+        "area": 8830
+      },
+      {
+        "sid": "1-19-716",
+        "junctions": 61,
+        "endpoints": 12,
+        "length": 832,
+        "area": 6924
+      },
+      {
+        "sid": "1-2-512",
+        "junctions": 59,
+        "endpoints": 15,
+        "length": 1098,
+        "area": 11356
+      },
+      {
+        "sid": "1-2-716",
+        "junctions": 60,
+        "endpoints": 15,
+        "length": 972,
+        "area": 7444
+      },
+      {
+        "sid": "1-3-512",
+        "junctions": 48,
+        "endpoints": 10,
+        "length": 914,
+        "area": 9138
+      },
+      {
+        "sid": "1-3-716",
+        "junctions": 37,
+        "endpoints": 11,
+        "length": 809,
+        "area": 5648
+      },
+      {
+        "sid": "1-4-512",
+        "junctions": 33,
+        "endpoints": 14,
+        "length": 826,
+        "area": 7179
+      },
+      {
+        "sid": "1-4-716",
+        "junctions": 40,
+        "endpoints": 11,
+        "length": 904,
+        "area": 6573
+      },
+      {
+        "sid": "1-5-512",
+        "junctions": 49,
+        "endpoints": 17,
+        "length": 1140,
+        "area": 11934
+      },
+      {
+        "sid": "1-5-716",
+        "junctions": 44,
+        "endpoints": 13,
+        "length": 783,
+        "area": 6518
+      },
+      {
+        "sid": "1-6-512",
+        "junctions": 44,
+        "endpoints": 15,
+        "length": 996,
+        "area": 13775
+      },
+      {
+        "sid": "1-6-716",
+        "junctions": 50,
+        "endpoints": 19,
+        "length": 956,
+        "area": 8757
+      },
+      {
+        "sid": "1-7-512",
+        "junctions": 40,
+        "endpoints": 16,
+        "length": 987,
+        "area": 12615
+      },
+      {
+        "sid": "1-7-716",
+        "junctions": 60,
+        "endpoints": 16,
+        "length": 855,
+        "area": 7166
+      },
+      {
+        "sid": "1-8-512",
+        "junctions": 51,
+        "endpoints": 18,
+        "length": 844,
+        "area": 8513
+      },
+      {
+        "sid": "1-8-716",
+        "junctions": 77,
+        "endpoints": 20,
+        "length": 955,
+        "area": 7080
+      },
+      {
+        "sid": "1-9-512",
+        "junctions": 77,
+        "endpoints": 20,
+        "length": 1016,
+        "area": 9825
+      },
+      {
+        "sid": "1-9-716",
+        "junctions": 71,
+        "endpoints": 20,
+        "length": 934,
+        "area": 6385
+      },
+      {
+        "sid": "14-0-512",
+        "junctions": 90,
+        "endpoints": 20,
+        "length": 1439,
+        "area": 14567
+      },
+      {
+        "sid": "14-0-716",
+        "junctions": 83,
+        "endpoints": 32,
+        "length": 976,
+        "area": 5942
+      },
+      {
+        "sid": "14-1-512",
+        "junctions": 39,
+        "endpoints": 14,
+        "length": 1009,
+        "area": 9324
+      },
+      {
+        "sid": "14-1-716",
+        "junctions": 21,
+        "endpoints": 22,
+        "length": 674,
+        "area": 4072
+      },
+      {
+        "sid": "14-12-512",
+        "junctions": 90,
+        "endpoints": 17,
+        "length": 1224,
+        "area": 18004
+      },
+      {
+        "sid": "14-12-716",
+        "junctions": 105,
+        "endpoints": 19,
+        "length": 1167,
+        "area": 11979
+      },
+      {
+        "sid": "14-13-512",
+        "junctions": 98,
+        "endpoints": 13,
+        "length": 1539,
+        "area": 24447
+      },
+      {
+        "sid": "14-13-716",
+        "junctions": 125,
+        "endpoints": 16,
+        "length": 1530,
+        "area": 16535
+      },
+      {
+        "sid": "14-14-512",
+        "junctions": 141,
+        "endpoints": 16,
+        "length": 2172,
+        "area": 32399
+      },
+      {
+        "sid": "14-14-716",
+        "junctions": 179,
+        "endpoints": 17,
+        "length": 2065,
+        "area": 22979
+      },
+      {
+        "sid": "14-15-512",
+        "junctions": 195,
+        "endpoints": 17,
+        "length": 2396,
+        "area": 34102
+      },
+      {
+        "sid": "14-15-716",
+        "junctions": 207,
+        "endpoints": 24,
+        "length": 2306,
+        "area": 24287
+      },
+      {
+        "sid": "14-16-512",
+        "junctions": 151,
+        "endpoints": 23,
+        "length": 2088,
+        "area": 23905
+      },
+      {
+        "sid": "14-16-716",
+        "junctions": 230,
+        "endpoints": 28,
+        "length": 2234,
+        "area": 20079
+      },
+      {
+        "sid": "14-2-512",
+        "junctions": 29,
+        "endpoints": 13,
+        "length": 959,
+        "area": 8464
+      },
+      {
+        "sid": "14-2-716",
+        "junctions": 27,
+        "endpoints": 23,
+        "length": 771,
+        "area": 4749
+      },
+      {
+        "sid": "14-3-512",
+        "junctions": 53,
+        "endpoints": 16,
+        "length": 974,
+        "area": 7764
+      },
+      {
+        "sid": "14-3-716",
+        "junctions": 70,
+        "endpoints": 21,
+        "length": 991,
+        "area": 6099
+      },
+      {
+        "sid": "14-4-512",
+        "junctions": 71,
+        "endpoints": 19,
+        "length": 1270,
+        "area": 10833
+      },
+      {
+        "sid": "14-4-716",
+        "junctions": 101,
+        "endpoints": 22,
+        "length": 1194,
+        "area": 8031
+      },
+      {
+        "sid": "14-5-512",
+        "junctions": 79,
+        "endpoints": 19,
+        "length": 1342,
+        "area": 13324
+      },
+      {
+        "sid": "14-5-716",
+        "junctions": 83,
+        "endpoints": 17,
+        "length": 1153,
+        "area": 9180
+      },
+      {
+        "sid": "14-6-512",
+        "junctions": 67,
+        "endpoints": 16,
+        "length": 1320,
+        "area": 14206
+      },
+      {
+        "sid": "14-6-716",
+        "junctions": 90,
+        "endpoints": 25,
+        "length": 1325,
+        "area": 10865
+      },
+      {
+        "sid": "14-7-512",
+        "junctions": 106,
+        "endpoints": 20,
+        "length": 1596,
+        "area": 16200
+      },
+      {
+        "sid": "14-7-716",
+        "junctions": 93,
+        "endpoints": 24,
+        "length": 1361,
+        "area": 10614
+      },
+      {
+        "sid": "14-8-512",
+        "junctions": 79,
+        "endpoints": 18,
+        "length": 1377,
+        "area": 12581
+      },
+      {
+        "sid": "14-8-716",
+        "junctions": 85,
+        "endpoints": 25,
+        "length": 1202,
+        "area": 9260
+      },
+      {
+        "sid": "16-18-512",
+        "junctions": 79,
+        "endpoints": 17,
+        "length": 1087,
+        "area": 10348
+      },
+      {
+        "sid": "16-19-512",
+        "junctions": 97,
+        "endpoints": 11,
+        "length": 875,
+        "area": 6906
+      },
+      {
+        "sid": "16-19-716",
+        "junctions": 51,
+        "endpoints": 11,
+        "length": 696,
+        "area": 4645
+      },
+      {
+        "sid": "18-0-512",
+        "junctions": 78,
+        "endpoints": 17,
+        "length": 1297,
+        "area": 12392
+      },
+      {
+        "sid": "18-0-716",
+        "junctions": 87,
+        "endpoints": 19,
+        "length": 875,
+        "area": 7368
+      },
+      {
+        "sid": "18-1-512",
+        "junctions": 112,
+        "endpoints": 10,
+        "length": 1468,
+        "area": 14091
+      },
+      {
+        "sid": "18-1-716",
+        "junctions": 112,
+        "endpoints": 17,
+        "length": 968,
+        "area": 7491
+      },
+      {
+        "sid": "18-10-512",
+        "junctions": 68,
+        "endpoints": 19,
+        "length": 918,
+        "area": 9633
+      },
+      {
+        "sid": "18-10-716",
+        "junctions": 49,
+        "endpoints": 15,
+        "length": 603,
+        "area": 6492
+      },
+      {
+        "sid": "18-11-512",
+        "junctions": 76,
+        "endpoints": 17,
+        "length": 987,
+        "area": 15210
+      },
+      {
+        "sid": "18-11-716",
+        "junctions": 68,
+        "endpoints": 16,
+        "length": 859,
+        "area": 9664
+      },
+      {
+        "sid": "18-12-512",
+        "junctions": 108,
+        "endpoints": 17,
+        "length": 1521,
+        "area": 22804
+      },
+      {
+        "sid": "18-12-716",
+        "junctions": 96,
+        "endpoints": 15,
+        "length": 1101,
+        "area": 13173
+      },
+      {
+        "sid": "18-13-512",
+        "junctions": 109,
+        "endpoints": 20,
+        "length": 1539,
+        "area": 25973
+      },
+      {
+        "sid": "18-13-716",
+        "junctions": 125,
+        "endpoints": 14,
+        "length": 1348,
+        "area": 14685
+      },
+      {
+        "sid": "18-14-512",
+        "junctions": 96,
+        "endpoints": 15,
+        "length": 1398,
+        "area": 20883
+      },
+      {
+        "sid": "18-14-716",
+        "junctions": 80,
+        "endpoints": 21,
+        "length": 1063,
+        "area": 13162
+      },
+      {
+        "sid": "18-15-512",
+        "junctions": 98,
+        "endpoints": 17,
+        "length": 1285,
+        "area": 15384
+      },
+      {
+        "sid": "18-15-716",
+        "junctions": 101,
+        "endpoints": 21,
+        "length": 1000,
+        "area": 10256
+      },
+      {
+        "sid": "18-16-512",
+        "junctions": 79,
+        "endpoints": 12,
+        "length": 1380,
+        "area": 19416
+      },
+      {
+        "sid": "18-16-716",
+        "junctions": 100,
+        "endpoints": 15,
+        "length": 1157,
+        "area": 12037
+      },
+      {
+        "sid": "18-17-512",
+        "junctions": 77,
+        "endpoints": 11,
+        "length": 1151,
+        "area": 16278
+      },
+      {
+        "sid": "18-17-716",
+        "junctions": 76,
+        "endpoints": 10,
+        "length": 1172,
+        "area": 11254
+      },
+      {
+        "sid": "18-18-512",
+        "junctions": 61,
+        "endpoints": 9,
+        "length": 1095,
+        "area": 10874
+      },
+      {
+        "sid": "18-18-716",
+        "junctions": 101,
+        "endpoints": 9,
+        "length": 1133,
+        "area": 9703
+      },
+      {
+        "sid": "18-19-512",
+        "junctions": 92,
+        "endpoints": 13,
+        "length": 1459,
+        "area": 13496
+      },
+      {
+        "sid": "18-19-716",
+        "junctions": 92,
+        "endpoints": 14,
+        "length": 1114,
+        "area": 7898
+      },
+      {
+        "sid": "18-2-512",
+        "junctions": 74,
+        "endpoints": 10,
+        "length": 972,
+        "area": 11066
+      },
+      {
+        "sid": "18-2-716",
+        "junctions": 74,
+        "endpoints": 26,
+        "length": 663,
+        "area": 5797
+      },
+      {
+        "sid": "18-3-512",
+        "junctions": 36,
+        "endpoints": 13,
+        "length": 582,
+        "area": 9614
+      },
+      {
+        "sid": "18-3-716",
+        "junctions": 28,
+        "endpoints": 16,
+        "length": 483,
+        "area": 4846
+      },
+      {
+        "sid": "18-4-512",
+        "junctions": 55,
+        "endpoints": 7,
+        "length": 859,
+        "area": 8833
+      },
+      {
+        "sid": "18-5-512",
+        "junctions": 46,
+        "endpoints": 16,
+        "length": 750,
+        "area": 7549
+      },
+      {
+        "sid": "18-5-716",
+        "junctions": 33,
+        "endpoints": 18,
+        "length": 635,
+        "area": 5230
+      },
+      {
+        "sid": "18-6-512",
+        "junctions": 56,
+        "endpoints": 14,
+        "length": 837,
+        "area": 10888
+      },
+      {
+        "sid": "18-6-716",
+        "junctions": 64,
+        "endpoints": 13,
+        "length": 738,
+        "area": 6710
+      },
+      {
+        "sid": "18-7-512",
+        "junctions": 75,
+        "endpoints": 12,
+        "length": 944,
+        "area": 13465
+      },
+      {
+        "sid": "18-7-716",
+        "junctions": 49,
+        "endpoints": 9,
+        "length": 673,
+        "area": 7332
+      },
+      {
+        "sid": "18-8-512",
+        "junctions": 68,
+        "endpoints": 16,
+        "length": 809,
+        "area": 10238
+      },
+      {
+        "sid": "18-9-512",
+        "junctions": 38,
+        "endpoints": 10,
+        "length": 744,
+        "area": 9057
+      },
+      {
+        "sid": "18-9-716",
+        "junctions": 44,
+        "endpoints": 17,
+        "length": 666,
+        "area": 6049
+      },
+      {
+        "sid": "23-11-716",
+        "junctions": 63,
+        "endpoints": 16,
+        "length": 713,
+        "area": 9245
+      },
+      {
+        "sid": "23-12-512",
+        "junctions": 83,
+        "endpoints": 16,
+        "length": 1255,
+        "area": 18870
+      },
+      {
+        "sid": "23-12-716",
+        "junctions": 76,
+        "endpoints": 19,
+        "length": 925,
+        "area": 10674
+      },
+      {
+        "sid": "23-13-512",
+        "junctions": 57,
+        "endpoints": 11,
+        "length": 879,
+        "area": 14099
+      },
+      {
+        "sid": "23-13-716",
+        "junctions": 78,
+        "endpoints": 13,
+        "length": 879,
+        "area": 11211
+      },
+      {
+        "sid": "23-14-512",
+        "junctions": 38,
+        "endpoints": 9,
+        "length": 784,
+        "area": 17843
+      },
+      {
+        "sid": "23-14-716",
+        "junctions": 52,
+        "endpoints": 12,
+        "length": 674,
+        "area": 10186
+      },
+      {
+        "sid": "23-15-512",
+        "junctions": 71,
+        "endpoints": 14,
+        "length": 900,
+        "area": 17068
+      },
+      {
+        "sid": "23-15-716",
+        "junctions": 57,
+        "endpoints": 8,
+        "length": 623,
+        "area": 11065
+      },
+      {
+        "sid": "23-16-512",
+        "junctions": 41,
+        "endpoints": 13,
+        "length": 730,
+        "area": 12482
+      },
+      {
+        "sid": "23-16-716",
+        "junctions": 32,
+        "endpoints": 8,
+        "length": 550,
+        "area": 7811
+      },
+      {
+        "sid": "23-17-512",
+        "junctions": 35,
+        "endpoints": 18,
+        "length": 779,
+        "area": 10151
+      },
+      {
+        "sid": "23-17-716",
+        "junctions": 33,
+        "endpoints": 12,
+        "length": 620,
+        "area": 7142
+      },
+      {
+        "sid": "23-18-512",
+        "junctions": 61,
+        "endpoints": 20,
+        "length": 989,
+        "area": 11308
+      },
+      {
+        "sid": "23-18-716",
+        "junctions": 65,
+        "endpoints": 11,
+        "length": 659,
+        "area": 6298
+      },
+      {
+        "sid": "23-19-512",
+        "junctions": 47,
+        "endpoints": 16,
+        "length": 793,
+        "area": 8206
+      },
+      {
+        "sid": "23-19-716",
+        "junctions": 53,
+        "endpoints": 11,
+        "length": 647,
+        "area": 5507
+      },
+      {
+        "sid": "23-4-512",
+        "junctions": 0,
+        "endpoints": 2,
+        "length": 95,
+        "area": 635
+      },
+      {
+        "sid": "23-4-716",
+        "junctions": 27,
+        "endpoints": 13,
+        "length": 447,
+        "area": 5005
+      },
+      {
+        "sid": "23-5-512",
+        "junctions": 0,
+        "endpoints": 3,
+        "length": 48,
+        "area": 881
+      },
+      {
+        "sid": "23-5-716",
+        "junctions": 6,
+        "endpoints": 6,
+        "length": 192,
+        "area": 1461
+      },
+      {
+        "sid": "23-6-512",
+        "junctions": 3,
+        "endpoints": 5,
+        "length": 67,
+        "area": 892
+      },
+      {
+        "sid": "23-6-716",
+        "junctions": 0,
+        "endpoints": 3,
+        "length": 30,
+        "area": 155
+      },
+      {
+        "sid": "36-0-512",
+        "junctions": 0,
+        "endpoints": 3,
+        "length": 99,
+        "area": 805
+      },
+      {
+        "sid": "36-0-716",
+        "junctions": 4,
+        "endpoints": 4,
+        "length": 103,
+        "area": 680
+      },
+      {
+        "sid": "36-1-716",
+        "junctions": 11,
+        "endpoints": 5,
+        "length": 169,
+        "area": 915
+      },
+      {
+        "sid": "36-10-512",
+        "junctions": 53,
+        "endpoints": 14,
+        "length": 958,
+        "area": 13830
+      },
+      {
+        "sid": "36-10-716",
+        "junctions": 55,
+        "endpoints": 11,
+        "length": 666,
+        "area": 7247
+      },
+      {
+        "sid": "36-11-512",
+        "junctions": 40,
+        "endpoints": 10,
+        "length": 709,
+        "area": 11315
+      },
+      {
+        "sid": "36-11-716",
+        "junctions": 23,
+        "endpoints": 8,
+        "length": 433,
+        "area": 6065
+      },
+      {
+        "sid": "36-12-512",
+        "junctions": 51,
+        "endpoints": 12,
+        "length": 592,
+        "area": 7556
+      },
+      {
+        "sid": "36-12-716",
+        "junctions": 17,
+        "endpoints": 11,
+        "length": 353,
+        "area": 4507
+      },
+      {
+        "sid": "36-13-512",
+        "junctions": 50,
+        "endpoints": 11,
+        "length": 726,
+        "area": 9640
+      },
+      {
+        "sid": "36-13-716",
+        "junctions": 21,
+        "endpoints": 10,
+        "length": 434,
+        "area": 4968
+      },
+      {
+        "sid": "36-14-512",
+        "junctions": 46,
+        "endpoints": 10,
+        "length": 826,
+        "area": 11006
+      },
+      {
+        "sid": "36-15-512",
+        "junctions": 46,
+        "endpoints": 9,
+        "length": 752,
+        "area": 8995
+      },
+      {
+        "sid": "36-15-716",
+        "junctions": 41,
+        "endpoints": 8,
+        "length": 515,
+        "area": 4838
+      },
+      {
+        "sid": "36-2-512",
+        "junctions": 14,
+        "endpoints": 9,
+        "length": 311,
+        "area": 2218
+      },
+      {
+        "sid": "36-2-716",
+        "junctions": 13,
+        "endpoints": 9,
+        "length": 240,
+        "area": 1231
+      },
+      {
+        "sid": "36-3-512",
+        "junctions": 7,
+        "endpoints": 4,
+        "length": 357,
+        "area": 2758
+      },
+      {
+        "sid": "36-3-716",
+        "junctions": 8,
+        "endpoints": 7,
+        "length": 222,
+        "area": 1256
+      },
+      {
+        "sid": "36-4-512",
+        "junctions": 7,
+        "endpoints": 1,
+        "length": 204,
+        "area": 2125
+      },
+      {
+        "sid": "36-4-716",
+        "junctions": 3,
+        "endpoints": 5,
+        "length": 143,
+        "area": 869
+      },
+      {
+        "sid": "36-5-512",
+        "junctions": 6,
+        "endpoints": 6,
+        "length": 145,
+        "area": 644
+      },
+      {
+        "sid": "36-5-716",
+        "junctions": 5,
+        "endpoints": 7,
+        "length": 181,
+        "area": 1264
+      },
+      {
+        "sid": "36-6-512",
+        "junctions": 19,
+        "endpoints": 5,
+        "length": 322,
+        "area": 3198
+      },
+      {
+        "sid": "36-6-716",
+        "junctions": 1,
+        "endpoints": 3,
+        "length": 129,
+        "area": 1214
+      },
+      {
+        "sid": "36-7-512",
+        "junctions": 7,
+        "endpoints": 8,
+        "length": 232,
+        "area": 4972
+      },
+      {
+        "sid": "36-7-716",
+        "junctions": 4,
+        "endpoints": 8,
+        "length": 156,
+        "area": 2104
+      },
+      {
+        "sid": "36-8-512",
+        "junctions": 19,
+        "endpoints": 3,
+        "length": 244,
+        "area": 6221
+      },
+      {
+        "sid": "36-8-716",
+        "junctions": 13,
+        "endpoints": 6,
+        "length": 211,
+        "area": 2882
+      },
+      {
+        "sid": "36-9-512",
+        "junctions": 50,
+        "endpoints": 12,
+        "length": 757,
+        "area": 10493
+      },
+      {
+        "sid": "36-9-716",
+        "junctions": 30,
+        "endpoints": 9,
+        "length": 505,
+        "area": 5663
+      },
+      {
+        "sid": "37-1-512",
+        "junctions": 14,
+        "endpoints": 8,
+        "length": 433,
+        "area": 4024
+      },
+      {
+        "sid": "37-1-716",
+        "junctions": 4,
+        "endpoints": 4,
+        "length": 285,
+        "area": 1931
+      },
+      {
+        "sid": "37-10-512",
+        "junctions": 27,
+        "endpoints": 11,
+        "length": 463,
+        "area": 4734
+      },
+      {
+        "sid": "37-10-716",
+        "junctions": 24,
+        "endpoints": 13,
+        "length": 361,
+        "area": 2782
+      },
+      {
+        "sid": "37-11-512",
+        "junctions": 32,
+        "endpoints": 10,
+        "length": 467,
+        "area": 5229
+      },
+      {
+        "sid": "37-11-716",
+        "junctions": 18,
+        "endpoints": 6,
+        "length": 305,
+        "area": 2250
+      },
+      {
+        "sid": "37-12-512",
+        "junctions": 11,
+        "endpoints": 9,
+        "length": 272,
+        "area": 3794
+      },
+      {
+        "sid": "37-12-716",
+        "junctions": 4,
+        "endpoints": 7,
+        "length": 195,
+        "area": 1824
+      },
+      {
+        "sid": "37-13-512",
+        "junctions": 46,
+        "endpoints": 9,
+        "length": 694,
+        "area": 10350
+      },
+      {
+        "sid": "37-13-716",
+        "junctions": 32,
+        "endpoints": 7,
+        "length": 459,
+        "area": 4911
+      },
+      {
+        "sid": "37-14-512",
+        "junctions": 88,
+        "endpoints": 17,
+        "length": 1169,
+        "area": 14685
+      },
+      {
+        "sid": "37-14-716",
+        "junctions": 47,
+        "endpoints": 14,
+        "length": 734,
+        "area": 7730
+      },
+      {
+        "sid": "37-15-512",
+        "junctions": 41,
+        "endpoints": 9,
+        "length": 753,
+        "area": 9973
+      },
+      {
+        "sid": "37-15-716",
+        "junctions": 55,
+        "endpoints": 15,
+        "length": 736,
+        "area": 7747
+      },
+      {
+        "sid": "37-16-512",
+        "junctions": 33,
+        "endpoints": 4,
+        "length": 495,
+        "area": 5165
+      },
+      {
+        "sid": "37-16-716",
+        "junctions": 39,
+        "endpoints": 7,
+        "length": 459,
+        "area": 4448
+      },
+      {
+        "sid": "37-17-512",
+        "junctions": 37,
+        "endpoints": 14,
+        "length": 573,
+        "area": 4745
+      },
+      {
+        "sid": "37-17-716",
+        "junctions": 20,
+        "endpoints": 7,
+        "length": 381,
+        "area": 3112
+      },
+      {
+        "sid": "37-18-512",
+        "junctions": 32,
+        "endpoints": 13,
+        "length": 674,
+        "area": 5228
+      },
+      {
+        "sid": "37-18-716",
+        "junctions": 35,
+        "endpoints": 8,
+        "length": 510,
+        "area": 3339
+      },
+      {
+        "sid": "37-2-716",
+        "junctions": 8,
+        "endpoints": 7,
+        "length": 353,
+        "area": 2555
+      },
+      {
+        "sid": "37-3-512",
+        "junctions": 30,
+        "endpoints": 8,
+        "length": 506,
+        "area": 5007
+      },
+      {
+        "sid": "37-3-716",
+        "junctions": 18,
+        "endpoints": 12,
+        "length": 349,
+        "area": 2398
+      },
+      {
+        "sid": "37-4-512",
+        "junctions": 19,
+        "endpoints": 6,
+        "length": 487,
+        "area": 5675
+      },
+      {
+        "sid": "37-4-716",
+        "junctions": 15,
+        "endpoints": 10,
+        "length": 307,
+        "area": 2235
+      },
+      {
+        "sid": "37-5-512",
+        "junctions": 8,
+        "endpoints": 5,
+        "length": 230,
+        "area": 2737
+      },
+      {
+        "sid": "37-5-716",
+        "junctions": 9,
+        "endpoints": 13,
+        "length": 236,
+        "area": 1574
+      },
+      {
+        "sid": "37-6-512",
+        "junctions": 10,
+        "endpoints": 7,
+        "length": 254,
+        "area": 2528
+      },
+      {
+        "sid": "37-6-716",
+        "junctions": 7,
+        "endpoints": 2,
+        "length": 157,
+        "area": 1078
+      },
+      {
+        "sid": "37-7-512",
+        "junctions": 14,
+        "endpoints": 9,
+        "length": 210,
+        "area": 1593
+      },
+      {
+        "sid": "37-7-716",
+        "junctions": 8,
+        "endpoints": 4,
+        "length": 220,
+        "area": 1649
+      },
+      {
+        "sid": "37-8-512",
+        "junctions": 24,
+        "endpoints": 7,
+        "length": 347,
+        "area": 3418
+      },
+      {
+        "sid": "37-8-716",
+        "junctions": 11,
+        "endpoints": 6,
+        "length": 203,
+        "area": 1585
+      },
+      {
+        "sid": "37-9-512",
+        "junctions": 25,
+        "endpoints": 11,
+        "length": 406,
+        "area": 4406
+      },
+      {
+        "sid": "37-9-716",
+        "junctions": 23,
+        "endpoints": 10,
+        "length": 314,
+        "area": 2235
+      },
+      {
+        "sid": "9-1-512",
+        "junctions": 1,
+        "endpoints": 3,
+        "length": 66,
+        "area": 2178
+      },
+      {
+        "sid": "9-10-512",
+        "junctions": 5,
+        "endpoints": 5,
+        "length": 95,
+        "area": 3417
+      },
+      {
+        "sid": "9-11-512",
+        "junctions": 5,
+        "endpoints": 1,
+        "length": 46,
+        "area": 3746
+      },
+      {
+        "sid": "9-11-716",
+        "junctions": 0,
+        "endpoints": 2,
+        "length": 24,
+        "area": 831
+      },
+      {
+        "sid": "9-12-512",
+        "junctions": 13,
+        "endpoints": 5,
+        "length": 253,
+        "area": 5143
+      },
+      {
+        "sid": "9-12-716",
+        "junctions": 8,
+        "endpoints": 4,
+        "length": 129,
+        "area": 1666
+      },
+      {
+        "sid": "9-13-512",
+        "junctions": 26,
+        "endpoints": 7,
+        "length": 483,
+        "area": 7488
+      },
+      {
+        "sid": "9-13-716",
+        "junctions": 5,
+        "endpoints": 5,
+        "length": 226,
+        "area": 2775
+      },
+      {
+        "sid": "9-14-512",
+        "junctions": 32,
+        "endpoints": 7,
+        "length": 591,
+        "area": 7879
+      },
+      {
+        "sid": "9-14-716",
+        "junctions": 14,
+        "endpoints": 5,
+        "length": 285,
+        "area": 3774
+      },
+      {
+        "sid": "9-15-512",
+        "junctions": 15,
+        "endpoints": 5,
+        "length": 482,
+        "area": 7291
+      },
+      {
+        "sid": "9-15-716",
+        "junctions": 9,
+        "endpoints": 7,
+        "length": 331,
+        "area": 3183
+      },
+      {
+        "sid": "9-2-512",
+        "junctions": 10,
+        "endpoints": 6,
+        "length": 161,
+        "area": 3714
+      },
+      {
+        "sid": "9-2-716",
+        "junctions": 0,
+        "endpoints": 2,
+        "length": 65,
+        "area": 970
+      },
+      {
+        "sid": "9-3-512",
+        "junctions": 6,
+        "endpoints": 5,
+        "length": 160,
+        "area": 4022
+      },
+      {
+        "sid": "9-3-716",
+        "junctions": 0,
+        "endpoints": 2,
+        "length": 59,
+        "area": 918
+      },
+      {
+        "sid": "9-4-512",
+        "junctions": 1,
+        "endpoints": 2,
+        "length": 18,
+        "area": 1209
+      },
+      {
+        "sid": "9-4-716",
+        "junctions": 0,
+        "endpoints": 2,
+        "length": 2,
+        "area": 34
+      }
+    ],
+    "multi": [
+      {
+        "sid": "1-0-512",
+        "junctions": 18,
+        "endpoints": 8,
+        "length": 550,
+        "area": 4856
+      },
+      {
+        "sid": "1-0-716",
+        "junctions": 21,
+        "endpoints": 13,
+        "length": 554,
+        "area": 4072
+      },
+      {
+        "sid": "1-1-512",
+        "junctions": 43,
+        "endpoints": 9,
+        "length": 1077,
+        "area": 10071
+      },
+      {
+        "sid": "1-1-716",
+        "junctions": 31,
+        "endpoints": 15,
+        "length": 811,
+        "area": 6137
+      },
+      {
+        "sid": "1-10-512",
+        "junctions": 56,
+        "endpoints": 17,
+        "length": 1150,
+        "area": 8718
+      },
+      {
+        "sid": "1-10-716",
+        "junctions": 51,
+        "endpoints": 13,
+        "length": 907,
+        "area": 5588
+      },
+      {
+        "sid": "1-11-512",
+        "junctions": 109,
+        "endpoints": 24,
+        "length": 1682,
+        "area": 14180
+      },
+      {
+        "sid": "1-11-716",
+        "junctions": 79,
+        "endpoints": 16,
+        "length": 1152,
+        "area": 8073
+      },
+      {
+        "sid": "1-12-512",
+        "junctions": 99,
+        "endpoints": 27,
+        "length": 1698,
+        "area": 13147
+      },
+      {
+        "sid": "1-12-716",
+        "junctions": 81,
+        "endpoints": 23,
+        "length": 1251,
+        "area": 8594
+      },
+      {
+        "sid": "1-13-512",
+        "junctions": 95,
+        "endpoints": 9,
+        "length": 1458,
+        "area": 12393
+      },
+      {
+        "sid": "1-13-716",
+        "junctions": 75,
+        "endpoints": 25,
+        "length": 1453,
+        "area": 11515
+      },
+      {
+        "sid": "1-14-512",
+        "junctions": 114,
+        "endpoints": 13,
+        "length": 2233,
+        "area": 21773
+      },
+      {
+        "sid": "1-14-716",
+        "junctions": 120,
+        "endpoints": 21,
+        "length": 1664,
+        "area": 13158
+      },
+      {
+        "sid": "1-15-512",
+        "junctions": 126,
+        "endpoints": 16,
+        "length": 2189,
+        "area": 19439
+      },
+      {
+        "sid": "1-15-716",
+        "junctions": 131,
+        "endpoints": 23,
+        "length": 1845,
+        "area": 13921
+      },
+      {
+        "sid": "1-16-512",
+        "junctions": 105,
+        "endpoints": 22,
+        "length": 1870,
+        "area": 15452
+      },
+      {
+        "sid": "1-16-716",
+        "junctions": 122,
+        "endpoints": 23,
+        "length": 1755,
+        "area": 12056
+      },
+      {
+        "sid": "1-17-512",
+        "junctions": 134,
+        "endpoints": 16,
+        "length": 1972,
+        "area": 15496
+      },
+      {
+        "sid": "1-17-716",
+        "junctions": 92,
+        "endpoints": 17,
+        "length": 1504,
+        "area": 10050
+      },
+      {
+        "sid": "1-18-512",
+        "junctions": 144,
+        "endpoints": 19,
+        "length": 1748,
+        "area": 13335
+      },
+      {
+        "sid": "1-18-716",
+        "junctions": 124,
+        "endpoints": 18,
+        "length": 1390,
+        "area": 9299
+      },
+      {
+        "sid": "1-19-512",
+        "junctions": 61,
+        "endpoints": 18,
+        "length": 1164,
+        "area": 8654
+      },
+      {
+        "sid": "1-19-716",
+        "junctions": 62,
+        "endpoints": 13,
+        "length": 1012,
+        "area": 6264
+      },
+      {
+        "sid": "1-2-512",
+        "junctions": 68,
+        "endpoints": 17,
+        "length": 1345,
+        "area": 10737
+      },
+      {
+        "sid": "1-2-716",
+        "junctions": 63,
+        "endpoints": 13,
+        "length": 1010,
+        "area": 6801
+      },
+      {
+        "sid": "1-3-512",
+        "junctions": 51,
+        "endpoints": 10,
+        "length": 969,
+        "area": 8308
+      },
+      {
+        "sid": "1-3-716",
+        "junctions": 39,
+        "endpoints": 6,
+        "length": 775,
+        "area": 4928
+      },
+      {
+        "sid": "1-4-512",
+        "junctions": 35,
+        "endpoints": 9,
+        "length": 814,
+        "area": 6735
+      },
+      {
+        "sid": "1-4-716",
+        "junctions": 36,
+        "endpoints": 12,
+        "length": 882,
+        "area": 6464
+      },
+      {
+        "sid": "1-5-512",
+        "junctions": 72,
+        "endpoints": 17,
+        "length": 1343,
+        "area": 11678
+      },
+      {
+        "sid": "1-5-716",
+        "junctions": 57,
+        "endpoints": 18,
+        "length": 891,
+        "area": 6425
+      },
+      {
+        "sid": "1-6-512",
+        "junctions": 78,
+        "endpoints": 18,
+        "length": 1356,
+        "area": 13467
+      },
+      {
+        "sid": "1-6-716",
+        "junctions": 69,
+        "endpoints": 22,
+        "length": 1072,
+        "area": 8675
+      },
+      {
+        "sid": "1-7-512",
+        "junctions": 55,
+        "endpoints": 22,
+        "length": 1168,
+        "area": 11261
+      },
+      {
+        "sid": "1-7-716",
+        "junctions": 34,
+        "endpoints": 21,
+        "length": 808,
+        "area": 6905
+      },
+      {
+        "sid": "1-8-512",
+        "junctions": 69,
+        "endpoints": 17,
+        "length": 933,
+        "area": 8380
+      },
+      {
+        "sid": "1-8-716",
+        "junctions": 53,
+        "endpoints": 22,
+        "length": 908,
+        "area": 6410
+      },
+      {
+        "sid": "1-9-512",
+        "junctions": 55,
+        "endpoints": 17,
+        "length": 980,
+        "area": 8863
+      },
+      {
+        "sid": "1-9-716",
+        "junctions": 40,
+        "endpoints": 17,
+        "length": 781,
+        "area": 5138
+      },
+      {
+        "sid": "14-0-512",
+        "junctions": 89,
+        "endpoints": 21,
+        "length": 1364,
+        "area": 9920
+      },
+      {
+        "sid": "14-0-716",
+        "junctions": 49,
+        "endpoints": 13,
+        "length": 751,
+        "area": 4669
+      },
+      {
+        "sid": "14-1-512",
+        "junctions": 55,
+        "endpoints": 15,
+        "length": 977,
+        "area": 6785
+      },
+      {
+        "sid": "14-1-716",
+        "junctions": 18,
+        "endpoints": 13,
+        "length": 583,
+        "area": 3712
+      },
+      {
+        "sid": "14-12-512",
+        "junctions": 118,
+        "endpoints": 17,
+        "length": 1656,
+        "area": 17002
+      },
+      {
+        "sid": "14-12-716",
+        "junctions": 114,
+        "endpoints": 16,
+        "length": 1324,
+        "area": 11521
+      },
+      {
+        "sid": "14-13-512",
+        "junctions": 142,
+        "endpoints": 18,
+        "length": 1975,
+        "area": 23255
+      },
+      {
+        "sid": "14-13-716",
+        "junctions": 146,
+        "endpoints": 18,
+        "length": 1751,
+        "area": 16255
+      },
+      {
+        "sid": "14-14-512",
+        "junctions": 188,
+        "endpoints": 18,
+        "length": 2707,
+        "area": 30811
+      },
+      {
+        "sid": "14-14-716",
+        "junctions": 212,
+        "endpoints": 27,
+        "length": 2329,
+        "area": 22330
+      },
+      {
+        "sid": "14-15-512",
+        "junctions": 175,
+        "endpoints": 27,
+        "length": 2877,
+        "area": 32722
+      },
+      {
+        "sid": "14-15-716",
+        "junctions": 211,
+        "endpoints": 27,
+        "length": 2708,
+        "area": 22838
+      },
+      {
+        "sid": "14-16-512",
+        "junctions": 182,
+        "endpoints": 28,
+        "length": 2550,
+        "area": 22633
+      },
+      {
+        "sid": "14-16-716",
+        "junctions": 200,
+        "endpoints": 37,
+        "length": 2616,
+        "area": 19699
+      },
+      {
+        "sid": "14-2-512",
+        "junctions": 40,
+        "endpoints": 10,
+        "length": 1145,
+        "area": 8483
+      },
+      {
+        "sid": "14-2-716",
+        "junctions": 15,
+        "endpoints": 16,
+        "length": 710,
+        "area": 4359
+      },
+      {
+        "sid": "14-3-512",
+        "junctions": 33,
+        "endpoints": 14,
+        "length": 1018,
+        "area": 7216
+      },
+      {
+        "sid": "14-3-716",
+        "junctions": 45,
+        "endpoints": 20,
+        "length": 843,
+        "area": 5463
+      },
+      {
+        "sid": "14-4-512",
+        "junctions": 50,
+        "endpoints": 12,
+        "length": 1266,
+        "area": 9740
+      },
+      {
+        "sid": "14-4-716",
+        "junctions": 51,
+        "endpoints": 17,
+        "length": 1037,
+        "area": 6866
+      },
+      {
+        "sid": "14-5-512",
+        "junctions": 81,
+        "endpoints": 13,
+        "length": 1530,
+        "area": 12563
+      },
+      {
+        "sid": "14-5-716",
+        "junctions": 59,
+        "endpoints": 14,
+        "length": 1181,
+        "area": 8641
+      },
+      {
+        "sid": "14-6-512",
+        "junctions": 81,
+        "endpoints": 11,
+        "length": 1717,
+        "area": 13836
+      },
+      {
+        "sid": "14-6-716",
+        "junctions": 59,
+        "endpoints": 23,
+        "length": 1409,
+        "area": 9026
+      },
+      {
+        "sid": "14-7-512",
+        "junctions": 102,
+        "endpoints": 19,
+        "length": 1897,
+        "area": 15586
+      },
+      {
+        "sid": "14-7-716",
+        "junctions": 71,
+        "endpoints": 29,
+        "length": 1294,
+        "area": 8390
+      },
+      {
+        "sid": "14-8-512",
+        "junctions": 79,
+        "endpoints": 20,
+        "length": 1704,
+        "area": 12663
+      },
+      {
+        "sid": "14-8-716",
+        "junctions": 83,
+        "endpoints": 24,
+        "length": 1160,
+        "area": 7101
+      },
+      {
+        "sid": "16-18-512",
+        "junctions": 68,
+        "endpoints": 16,
+        "length": 1231,
+        "area": 9426
+      },
+      {
+        "sid": "16-19-512",
+        "junctions": 64,
+        "endpoints": 11,
+        "length": 949,
+        "area": 6973
+      },
+      {
+        "sid": "16-19-716",
+        "junctions": 39,
+        "endpoints": 12,
+        "length": 715,
+        "area": 4362
+      },
+      {
+        "sid": "18-0-512",
+        "junctions": 103,
+        "endpoints": 13,
+        "length": 1482,
+        "area": 11299
+      },
+      {
+        "sid": "18-0-716",
+        "junctions": 63,
+        "endpoints": 13,
+        "length": 1036,
+        "area": 6675
+      },
+      {
+        "sid": "18-1-512",
+        "junctions": 127,
+        "endpoints": 11,
+        "length": 1864,
+        "area": 13044
+      },
+      {
+        "sid": "18-1-716",
+        "junctions": 98,
+        "endpoints": 14,
+        "length": 1138,
+        "area": 7436
+      },
+      {
+        "sid": "18-10-512",
+        "junctions": 69,
+        "endpoints": 21,
+        "length": 1137,
+        "area": 8701
+      },
+      {
+        "sid": "18-10-716",
+        "junctions": 56,
+        "endpoints": 18,
+        "length": 827,
+        "area": 5778
+      },
+      {
+        "sid": "18-11-512",
+        "junctions": 62,
+        "endpoints": 10,
+        "length": 1258,
+        "area": 14939
+      },
+      {
+        "sid": "18-11-716",
+        "junctions": 75,
+        "endpoints": 16,
+        "length": 1005,
+        "area": 8816
+      },
+      {
+        "sid": "18-12-512",
+        "junctions": 137,
+        "endpoints": 12,
+        "length": 1763,
+        "area": 20586
+      },
+      {
+        "sid": "18-12-716",
+        "junctions": 105,
+        "endpoints": 11,
+        "length": 1281,
+        "area": 11991
+      },
+      {
+        "sid": "18-13-512",
+        "junctions": 181,
+        "endpoints": 11,
+        "length": 2124,
+        "area": 23592
+      },
+      {
+        "sid": "18-13-716",
+        "junctions": 131,
+        "endpoints": 15,
+        "length": 1504,
+        "area": 13629
+      },
+      {
+        "sid": "18-14-512",
+        "junctions": 141,
+        "endpoints": 14,
+        "length": 1934,
+        "area": 19280
+      },
+      {
+        "sid": "18-14-716",
+        "junctions": 114,
+        "endpoints": 21,
+        "length": 1321,
+        "area": 12340
+      },
+      {
+        "sid": "18-15-512",
+        "junctions": 104,
+        "endpoints": 15,
+        "length": 1559,
+        "area": 14419
+      },
+      {
+        "sid": "18-15-716",
+        "junctions": 107,
+        "endpoints": 19,
+        "length": 1278,
+        "area": 9670
+      },
+      {
+        "sid": "18-16-512",
+        "junctions": 120,
+        "endpoints": 12,
+        "length": 1766,
+        "area": 16781
+      },
+      {
+        "sid": "18-16-716",
+        "junctions": 107,
+        "endpoints": 15,
+        "length": 1352,
+        "area": 10377
+      },
+      {
+        "sid": "18-17-512",
+        "junctions": 99,
+        "endpoints": 12,
+        "length": 1324,
+        "area": 14215
+      },
+      {
+        "sid": "18-17-716",
+        "junctions": 96,
+        "endpoints": 14,
+        "length": 1261,
+        "area": 10137
+      },
+      {
+        "sid": "18-18-512",
+        "junctions": 79,
+        "endpoints": 11,
+        "length": 1187,
+        "area": 9419
+      },
+      {
+        "sid": "18-18-716",
+        "junctions": 92,
+        "endpoints": 10,
+        "length": 1169,
+        "area": 8971
+      },
+      {
+        "sid": "18-19-512",
+        "junctions": 121,
+        "endpoints": 15,
+        "length": 1754,
+        "area": 13224
+      },
+      {
+        "sid": "18-19-716",
+        "junctions": 67,
+        "endpoints": 10,
+        "length": 1049,
+        "area": 7206
+      },
+      {
+        "sid": "18-2-512",
+        "junctions": 101,
+        "endpoints": 9,
+        "length": 1403,
+        "area": 10665
+      },
+      {
+        "sid": "18-2-716",
+        "junctions": 82,
+        "endpoints": 20,
+        "length": 831,
+        "area": 5616
+      },
+      {
+        "sid": "18-3-512",
+        "junctions": 61,
+        "endpoints": 12,
+        "length": 983,
+        "area": 10075
+      },
+      {
+        "sid": "18-3-716",
+        "junctions": 37,
+        "endpoints": 10,
+        "length": 616,
+        "area": 4335
+      },
+      {
+        "sid": "18-4-512",
+        "junctions": 55,
+        "endpoints": 8,
+        "length": 1068,
+        "area": 8523
+      },
+      {
+        "sid": "18-5-512",
+        "junctions": 49,
+        "endpoints": 8,
+        "length": 951,
+        "area": 7273
+      },
+      {
+        "sid": "18-5-716",
+        "junctions": 28,
+        "endpoints": 6,
+        "length": 699,
+        "area": 5278
+      },
+      {
+        "sid": "18-6-512",
+        "junctions": 109,
+        "endpoints": 13,
+        "length": 1185,
+        "area": 10526
+      },
+      {
+        "sid": "18-6-716",
+        "junctions": 46,
+        "endpoints": 5,
+        "length": 822,
+        "area": 6334
+      },
+      {
+        "sid": "18-7-512",
+        "junctions": 135,
+        "endpoints": 11,
+        "length": 1372,
+        "area": 12724
+      },
+      {
+        "sid": "18-7-716",
+        "junctions": 65,
+        "endpoints": 7,
+        "length": 868,
+        "area": 6417
+      },
+      {
+        "sid": "18-8-512",
+        "junctions": 62,
+        "endpoints": 13,
+        "length": 1145,
+        "area": 9656
+      },
+      {
+        "sid": "18-9-512",
+        "junctions": 55,
+        "endpoints": 11,
+        "length": 1085,
+        "area": 7933
+      },
+      {
+        "sid": "18-9-716",
+        "junctions": 51,
+        "endpoints": 14,
+        "length": 825,
+        "area": 5268
+      },
+      {
+        "sid": "23-11-716",
+        "junctions": 64,
+        "endpoints": 13,
+        "length": 1020,
+        "area": 8500
+      },
+      {
+        "sid": "23-12-512",
+        "junctions": 147,
+        "endpoints": 15,
+        "length": 1786,
+        "area": 18381
+      },
+      {
+        "sid": "23-12-716",
+        "junctions": 87,
+        "endpoints": 11,
+        "length": 1231,
+        "area": 10430
+      },
+      {
+        "sid": "23-13-512",
+        "junctions": 119,
+        "endpoints": 14,
+        "length": 1509,
+        "area": 14176
+      },
+      {
+        "sid": "23-13-716",
+        "junctions": 85,
+        "endpoints": 10,
+        "length": 1270,
+        "area": 10903
+      },
+      {
+        "sid": "23-14-512",
+        "junctions": 148,
+        "endpoints": 12,
+        "length": 1589,
+        "area": 16121
+      },
+      {
+        "sid": "23-14-716",
+        "junctions": 121,
+        "endpoints": 8,
+        "length": 1247,
+        "area": 9935
+      },
+      {
+        "sid": "23-15-512",
+        "junctions": 132,
+        "endpoints": 14,
+        "length": 1517,
+        "area": 15592
+      },
+      {
+        "sid": "23-15-716",
+        "junctions": 86,
+        "endpoints": 7,
+        "length": 1135,
+        "area": 9814
+      },
+      {
+        "sid": "23-16-512",
+        "junctions": 77,
+        "endpoints": 11,
+        "length": 1194,
+        "area": 10708
+      },
+      {
+        "sid": "23-16-716",
+        "junctions": 55,
+        "endpoints": 6,
+        "length": 963,
+        "area": 6838
+      },
+      {
+        "sid": "23-17-512",
+        "junctions": 67,
+        "endpoints": 10,
+        "length": 1178,
+        "area": 9982
+      },
+      {
+        "sid": "23-17-716",
+        "junctions": 54,
+        "endpoints": 9,
+        "length": 981,
+        "area": 6504
+      },
+      {
+        "sid": "23-18-512",
+        "junctions": 76,
+        "endpoints": 11,
+        "length": 1272,
+        "area": 10586
+      },
+      {
+        "sid": "23-18-716",
+        "junctions": 80,
+        "endpoints": 9,
+        "length": 896,
+        "area": 5991
+      },
+      {
+        "sid": "23-19-512",
+        "junctions": 75,
+        "endpoints": 18,
+        "length": 871,
+        "area": 7448
+      },
+      {
+        "sid": "23-19-716",
+        "junctions": 60,
+        "endpoints": 13,
+        "length": 748,
+        "area": 5027
+      },
+      {
+        "sid": "23-4-512",
+        "junctions": 0,
+        "endpoints": 1,
+        "length": 97,
+        "area": 544
+      },
+      {
+        "sid": "23-4-716",
+        "junctions": 3,
+        "endpoints": 4,
+        "length": 132,
+        "area": 861
+      },
+      {
+        "sid": "23-5-512",
+        "junctions": 6,
+        "endpoints": 2,
+        "length": 91,
+        "area": 544
+      },
+      {
+        "sid": "23-5-716",
+        "junctions": 3,
+        "endpoints": 7,
+        "length": 105,
+        "area": 706
+      },
+      {
+        "sid": "23-6-512",
+        "junctions": 10,
+        "endpoints": 2,
+        "length": 141,
+        "area": 852
+      },
+      {
+        "sid": "23-6-716",
+        "junctions": 0,
+        "endpoints": 4,
+        "length": 51,
+        "area": 284
+      },
+      {
+        "sid": "36-0-512",
+        "junctions": 0,
+        "endpoints": 2,
+        "length": 95,
+        "area": 689
+      },
+      {
+        "sid": "36-0-716",
+        "junctions": 1,
+        "endpoints": 2,
+        "length": 84,
+        "area": 557
+      },
+      {
+        "sid": "36-1-716",
+        "junctions": 6,
+        "endpoints": 5,
+        "length": 138,
+        "area": 728
+      },
+      {
+        "sid": "36-10-512",
+        "junctions": 87,
+        "endpoints": 12,
+        "length": 1379,
+        "area": 12721
+      },
+      {
+        "sid": "36-10-716",
+        "junctions": 54,
+        "endpoints": 5,
+        "length": 872,
+        "area": 6291
+      },
+      {
+        "sid": "36-11-512",
+        "junctions": 64,
+        "endpoints": 4,
+        "length": 1041,
+        "area": 10815
+      },
+      {
+        "sid": "36-11-716",
+        "junctions": 27,
+        "endpoints": 3,
+        "length": 749,
+        "area": 5533
+      },
+      {
+        "sid": "36-12-512",
+        "junctions": 65,
+        "endpoints": 7,
+        "length": 874,
+        "area": 7261
+      },
+      {
+        "sid": "36-12-716",
+        "junctions": 47,
+        "endpoints": 11,
+        "length": 635,
+        "area": 4104
+      },
+      {
+        "sid": "36-13-512",
+        "junctions": 69,
+        "endpoints": 9,
+        "length": 1018,
+        "area": 8935
+      },
+      {
+        "sid": "36-13-716",
+        "junctions": 49,
+        "endpoints": 8,
+        "length": 655,
+        "area": 4582
+      },
+      {
+        "sid": "36-14-512",
+        "junctions": 78,
+        "endpoints": 15,
+        "length": 1175,
+        "area": 11197
+      },
+      {
+        "sid": "36-15-512",
+        "junctions": 65,
+        "endpoints": 13,
+        "length": 1051,
+        "area": 8611
+      },
+      {
+        "sid": "36-15-716",
+        "junctions": 46,
+        "endpoints": 7,
+        "length": 693,
+        "area": 4373
+      },
+      {
+        "sid": "36-2-512",
+        "junctions": 14,
+        "endpoints": 7,
+        "length": 303,
+        "area": 2035
+      },
+      {
+        "sid": "36-2-716",
+        "junctions": 16,
+        "endpoints": 9,
+        "length": 215,
+        "area": 1062
+      },
+      {
+        "sid": "36-3-512",
+        "junctions": 14,
+        "endpoints": 7,
+        "length": 394,
+        "area": 2502
+      },
+      {
+        "sid": "36-3-716",
+        "junctions": 11,
+        "endpoints": 8,
+        "length": 207,
+        "area": 1020
+      },
+      {
+        "sid": "36-4-512",
+        "junctions": 21,
+        "endpoints": 5,
+        "length": 286,
+        "area": 1892
+      },
+      {
+        "sid": "36-4-716",
+        "junctions": 10,
+        "endpoints": 6,
+        "length": 133,
+        "area": 738
+      },
+      {
+        "sid": "36-5-512",
+        "junctions": 1,
+        "endpoints": 4,
+        "length": 177,
+        "area": 900
+      },
+      {
+        "sid": "36-5-716",
+        "junctions": 10,
+        "endpoints": 13,
+        "length": 255,
+        "area": 1325
+      },
+      {
+        "sid": "36-6-512",
+        "junctions": 31,
+        "endpoints": 7,
+        "length": 582,
+        "area": 3402
+      },
+      {
+        "sid": "36-6-716",
+        "junctions": 11,
+        "endpoints": 8,
+        "length": 283,
+        "area": 1235
+      },
+      {
+        "sid": "36-7-512",
+        "junctions": 26,
+        "endpoints": 3,
+        "length": 688,
+        "area": 4544
+      },
+      {
+        "sid": "36-7-716",
+        "junctions": 10,
+        "endpoints": 8,
+        "length": 316,
+        "area": 1679
+      },
+      {
+        "sid": "36-8-512",
+        "junctions": 17,
+        "endpoints": 1,
+        "length": 731,
+        "area": 5542
+      },
+      {
+        "sid": "36-8-716",
+        "junctions": 25,
+        "endpoints": 4,
+        "length": 387,
+        "area": 2381
+      },
+      {
+        "sid": "36-9-512",
+        "junctions": 66,
+        "endpoints": 10,
+        "length": 1105,
+        "area": 9549
+      },
+      {
+        "sid": "36-9-716",
+        "junctions": 41,
+        "endpoints": 5,
+        "length": 731,
+        "area": 5271
+      },
+      {
+        "sid": "37-1-512",
+        "junctions": 26,
+        "endpoints": 11,
+        "length": 531,
+        "area": 4262
+      },
+      {
+        "sid": "37-1-716",
+        "junctions": 0,
+        "endpoints": 5,
+        "length": 244,
+        "area": 1779
+      },
+      {
+        "sid": "37-10-512",
+        "junctions": 46,
+        "endpoints": 4,
+        "length": 557,
+        "area": 4333
+      },
+      {
+        "sid": "37-10-716",
+        "junctions": 8,
+        "endpoints": 3,
+        "length": 288,
+        "area": 2010
+      },
+      {
+        "sid": "37-11-512",
+        "junctions": 34,
+        "endpoints": 10,
+        "length": 526,
+        "area": 5001
+      },
+      {
+        "sid": "37-11-716",
+        "junctions": 23,
+        "endpoints": 7,
+        "length": 263,
+        "area": 1994
+      },
+      {
+        "sid": "37-12-512",
+        "junctions": 21,
+        "endpoints": 4,
+        "length": 396,
+        "area": 3431
+      },
+      {
+        "sid": "37-12-716",
+        "junctions": 21,
+        "endpoints": 8,
+        "length": 265,
+        "area": 1800
+      },
+      {
+        "sid": "37-13-512",
+        "junctions": 40,
+        "endpoints": 10,
+        "length": 961,
+        "area": 10529
+      },
+      {
+        "sid": "37-13-716",
+        "junctions": 29,
+        "endpoints": 7,
+        "length": 528,
+        "area": 4191
+      },
+      {
+        "sid": "37-14-512",
+        "junctions": 101,
+        "endpoints": 14,
+        "length": 1445,
+        "area": 14722
+      },
+      {
+        "sid": "37-14-716",
+        "junctions": 65,
+        "endpoints": 11,
+        "length": 783,
+        "area": 6297
+      },
+      {
+        "sid": "37-15-512",
+        "junctions": 62,
+        "endpoints": 8,
+        "length": 998,
+        "area": 9447
+      },
+      {
+        "sid": "37-15-716",
+        "junctions": 60,
+        "endpoints": 13,
+        "length": 837,
+        "area": 6788
+      },
+      {
+        "sid": "37-16-512",
+        "junctions": 32,
+        "endpoints": 5,
+        "length": 550,
+        "area": 5016
+      },
+      {
+        "sid": "37-16-716",
+        "junctions": 45,
+        "endpoints": 5,
+        "length": 517,
+        "area": 4223
+      },
+      {
+        "sid": "37-17-512",
+        "junctions": 29,
+        "endpoints": 8,
+        "length": 545,
+        "area": 4721
+      },
+      {
+        "sid": "37-17-716",
+        "junctions": 17,
+        "endpoints": 7,
+        "length": 400,
+        "area": 3159
+      },
+      {
+        "sid": "37-18-512",
+        "junctions": 17,
+        "endpoints": 15,
+        "length": 663,
+        "area": 5164
+      },
+      {
+        "sid": "37-18-716",
+        "junctions": 34,
+        "endpoints": 12,
+        "length": 487,
+        "area": 3038
+      },
+      {
+        "sid": "37-2-716",
+        "junctions": 17,
+        "endpoints": 8,
+        "length": 391,
+        "area": 2363
+      },
+      {
+        "sid": "37-3-512",
+        "junctions": 36,
+        "endpoints": 5,
+        "length": 721,
+        "area": 4690
+      },
+      {
+        "sid": "37-3-716",
+        "junctions": 21,
+        "endpoints": 5,
+        "length": 411,
+        "area": 2345
+      },
+      {
+        "sid": "37-4-512",
+        "junctions": 29,
+        "endpoints": 5,
+        "length": 798,
+        "area": 5728
+      },
+      {
+        "sid": "37-4-716",
+        "junctions": 17,
+        "endpoints": 3,
+        "length": 369,
+        "area": 1992
+      },
+      {
+        "sid": "37-5-512",
+        "junctions": 16,
+        "endpoints": 6,
+        "length": 338,
+        "area": 3097
+      },
+      {
+        "sid": "37-5-716",
+        "junctions": 9,
+        "endpoints": 6,
+        "length": 231,
+        "area": 1566
+      },
+      {
+        "sid": "37-6-512",
+        "junctions": 13,
+        "endpoints": 4,
+        "length": 276,
+        "area": 2427
+      },
+      {
+        "sid": "37-6-716",
+        "junctions": 4,
+        "endpoints": 3,
+        "length": 125,
+        "area": 981
+      },
+      {
+        "sid": "37-7-512",
+        "junctions": 7,
+        "endpoints": 4,
+        "length": 209,
+        "area": 1347
+      },
+      {
+        "sid": "37-7-716",
+        "junctions": 7,
+        "endpoints": 5,
+        "length": 204,
+        "area": 1595
+      },
+      {
+        "sid": "37-8-512",
+        "junctions": 27,
+        "endpoints": 6,
+        "length": 349,
+        "area": 3256
+      },
+      {
+        "sid": "37-8-716",
+        "junctions": 17,
+        "endpoints": 7,
+        "length": 207,
+        "area": 1355
+      },
+      {
+        "sid": "37-9-512",
+        "junctions": 23,
+        "endpoints": 2,
+        "length": 411,
+        "area": 3820
+      },
+      {
+        "sid": "37-9-716",
+        "junctions": 11,
+        "endpoints": 3,
+        "length": 243,
+        "area": 1785
+      },
+      {
+        "sid": "9-1-512",
+        "junctions": 1,
+        "endpoints": 2,
+        "length": 139,
+        "area": 1138
+      },
+      {
+        "sid": "9-10-512",
+        "junctions": 27,
+        "endpoints": 3,
+        "length": 356,
+        "area": 3503
+      },
+      {
+        "sid": "9-11-512",
+        "junctions": 15,
+        "endpoints": 2,
+        "length": 397,
+        "area": 3933
+      },
+      {
+        "sid": "9-11-716",
+        "junctions": 2,
+        "endpoints": 0,
+        "length": 30,
+        "area": 644
+      },
+      {
+        "sid": "9-12-512",
+        "junctions": 15,
+        "endpoints": 5,
+        "length": 496,
+        "area": 4792
+      },
+      {
+        "sid": "9-12-716",
+        "junctions": 14,
+        "endpoints": 3,
+        "length": 222,
+        "area": 1557
+      },
+      {
+        "sid": "9-13-512",
+        "junctions": 82,
+        "endpoints": 2,
+        "length": 903,
+        "area": 7029
+      },
+      {
+        "sid": "9-13-716",
+        "junctions": 26,
+        "endpoints": 5,
+        "length": 357,
+        "area": 2349
+      },
+      {
+        "sid": "9-14-512",
+        "junctions": 58,
+        "endpoints": 7,
+        "length": 776,
+        "area": 7308
+      },
+      {
+        "sid": "9-14-716",
+        "junctions": 37,
+        "endpoints": 3,
+        "length": 530,
+        "area": 3607
+      },
+      {
+        "sid": "9-15-512",
+        "junctions": 33,
+        "endpoints": 6,
+        "length": 865,
+        "area": 8011
+      },
+      {
+        "sid": "9-15-716",
+        "junctions": 31,
+        "endpoints": 8,
+        "length": 452,
+        "area": 3231
+      },
+      {
+        "sid": "9-2-512",
+        "junctions": 19,
+        "endpoints": 3,
+        "length": 322,
+        "area": 3351
+      },
+      {
+        "sid": "9-2-716",
+        "junctions": 11,
+        "endpoints": 1,
+        "length": 98,
+        "area": 833
+      },
+      {
+        "sid": "9-3-512",
+        "junctions": 24,
+        "endpoints": 3,
+        "length": 393,
+        "area": 3814
+      },
+      {
+        "sid": "9-3-716",
+        "junctions": 5,
+        "endpoints": 1,
+        "length": 105,
+        "area": 906
+      },
+      {
+        "sid": "9-4-512",
+        "junctions": 4,
+        "endpoints": 0,
+        "length": 229,
+        "area": 1208
+      },
+      {
+        "sid": "9-4-716",
+        "junctions": 0,
+        "endpoints": 0,
+        "length": 0,
+        "area": 11
+      }
+    ]
+  }
+}

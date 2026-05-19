@@ -1,0 +1,144 @@
+% ============================================================================
+% UPDATED LaTeX content for depth-aware virtual staining paper
+% Updated Figures: 1 (expanded), 2 (NEW), 7 (NEW), S2 (NEW)
+% Renumbered: old Fig 2→3, old Fig 3→4, old Fig 4→5, old Fig 5→6
+% ============================================================================
+
+% ============================================================================
+% FIGURE 1: UPDATED CAPTION (replaces existing \caption in fig:overall)
+% ============================================================================
+
+\begin{figure*}[!htbp]
+    \centering
+    \includegraphics[width=1\linewidth]{Figure 1.PNG}
+    \caption{\justifying \textbf{Experimental overview and depth-aware dataset construction.}
+    \textbf{(A)} Schematic of the microfluidic platform and the angiogenesis assay timeline, illustrating the compartmentalized co-culture of HUVECs, lung fibroblasts, and fibrin gel, followed by sprout formation over 2--6 days.
+    \textbf{(B)} Confocal z-stack acquisition strategy. Eight focal planes (L1--L8) spanning 100~$\mu$m of axial depth are grouped into top (L1--L3), middle (L4--L5), and bottom (L6--L8) layers. Representative individual z-slices illustrate the distinct vascular morphologies captured at each depth.
+    \textbf{(C)} Paired brightfield and depth-encoded fluorescence ground truth for a representative field of view. The multi-color fluorescence image is decomposed into top-layer and bottom-layer channels, with dashed boxes highlighting crossing regions where depth-dependent vessel overlap is visible.
+    \textbf{(D)} Optical depth cues in single-plane brightfield imaging. Vessels near the top of the channel (farther from the focal plane) appear with diffuse, low-contrast boundaries in the BF image but are clearly resolved in fluorescence (left). In contrast, vessels near the bottom (closer to the focal plane) exhibit sharp, high-contrast boundaries in both BF and fluorescence (right). Yellow arrows denote vessel contour features that encode implicit depth information in the brightfield input.}
+    \label{fig:overall}
+\end{figure*}
+
+
+% ============================================================================
+% FIGURE 2: NEW - Depth-aware Skeletonization Pipeline
+% Insert AFTER Section 2.1 (dataset), BEFORE Section 2.2 (model design)
+% ============================================================================
+
+\begin{figure*}[!htbp]
+    \centering
+    \includegraphics[width=0.95\linewidth]{Figure 2.png}
+    \caption{\justifying \textbf{Depth-aware vascular skeletonization and morphometric analysis pipeline.}
+    \textbf{(A)} Conventional single-color fluorescence yields a monochromatic vessel mask from which a single skeleton is extracted. In projection, overlapping vessels at different axial positions are collapsed into the same plane, making it impossible to distinguish true branching points from crossing artifacts (white arrows). Dotted circles highlight regions where structural ambiguity arises.
+    \textbf{(B)} Depth-encoded multi-color fluorescence preserves axial information as color (red = bottom, yellow = middle, blue = top). By separating the RGB channels and applying dominance filtering (R$>$B for bottom, B$>$R for top), independent skeletons are extracted for each depth layer. Crossing regions that appear as single junctions in the conventional approach are resolved into two distinct through-going vessels with predictable topology.
+    \textbf{(C)} Representative sample showing the multi-color GT, the conventional single-color skeleton, the depth-separated skeleton, and the individual bottom-area and top-area skeletons. Magenta circles denote junction points, yellow circles denote endpoints, and cyan circles denote connected points where depth-separated skeletons meet. Dashed ellipses highlight crossing regions where the depth-aware approach resolves structural ambiguity.
+    \textbf{(D)} Two representative samples comparing single-color and depth-separated skeletonization. Red and blue arrows indicate regions where the depth-aware pipeline either resolves a false junction (red) or reveals additional branching structure hidden by vessel overlap (blue).}
+    \label{fig:depth_skel}
+\end{figure*}
+
+
+% ============================================================================
+% BODY TEXT: New subsection at the end of Section 2.1, referencing Figure 2
+% Insert AFTER "This workflow provided paired label-free BF inputs..."
+% ============================================================================
+
+% --- ADD THIS PARAGRAPH after the dataset construction subsection ---
+
+Beyond providing a richer supervisory signal for model training, the depth-encoded fluorescence target also enables more informative downstream quantification of vascular morphology. \textbf{Figure~\ref{fig:depth_skel}} illustrates this advantage by comparing conventional single-color skeletonization with the proposed depth-aware approach. In single-color fluorescence, all vessels are projected into a single plane, and the resulting skeleton conflates true branching points with crossing artifacts that arise wherever vessels at different axial positions overlap in projection (Figure~\ref{fig:depth_skel}A). This ambiguity systematically inflates junction counts and obscures endpoint topology, introducing measurement error that is difficult to correct post hoc.
+
+The depth-encoded representation addresses this limitation by preserving axial position as color. By separating the image into bottom-layer (R$>$B) and top-layer (B$>$R) channels using RGB dominance filtering, independent skeletons can be extracted for each depth layer (Figure~\ref{fig:depth_skel}B). At crossing regions, the single-color skeleton shows a spurious four-way junction, whereas the depth-separated skeletons correctly trace two independent through-going vessels. This resolution of crossing ambiguity is confirmed across representative samples (Figure~\ref{fig:depth_skel}C,D), where the depth-aware pipeline recovers branching structure that is hidden in conventional projection.
+
+Because the per-layer skeletons may exhibit gaps at crossing regions where the opposing channel dominates, a tangent-guided gap bridging algorithm was applied to reconnect interrupted branches. This procedure identifies skeleton endpoints, estimates their local tangent direction, and connects compatible endpoint pairs using B\'{e}zier interpolation, subject to distance, angular, and vessel-mask overlap constraints (see Supplementary Figure~S2 for algorithmic details). The bridged skeletons are then used for all downstream morphometric analyses, including vessel length, junction count, and endpoint count, reported separately for each depth layer.
+
+
+% ============================================================================
+% Renumbered figure references throughout Results
+% old Fig 2 → Fig 3 (LBBDM framework)
+% old Fig 3 → Fig 4 (box plots)
+% old Fig 4 → Fig 5 (qualitative comparison)
+% old Fig 5 → Fig 6 (concordance scatter)
+% NEW Fig 7 (per-layer concordance)
+% ============================================================================
+
+% Update all \ref{fig:overview} to \ref{fig:lbbdm_framework} (old Fig 2, now Fig 3)
+% Update all \ref{fig:boxplot} references (old Fig 3, now Fig 4)
+% Update all \ref{fig:viz} references (old Fig 4, now Fig 5)
+% Update all \ref{fig:quantitative} references (old Fig 5, now Fig 6)
+
+
+% ============================================================================
+% FIGURE 7: NEW - Per-layer Concordance Analysis
+% Insert at the END of Section 2.4 (Downstream analysis)
+% ============================================================================
+
+\begin{figure*}[!htbp]
+    \centering
+    \includegraphics[width=0.95\linewidth]{Figure 7.png}
+    \caption{\justifying \textbf{Per-layer concordance of vascular morphology between ground truth and virtual staining predictions.}
+    \textbf{(A)} Scatter plots of vessel area and vessel length for each model, separated by depth layer (red circles = bottom layer, R$>$B; blue squares = top layer, B$>$R). The dashed line indicates ideal 1:1 agreement. $R^2$ values and significance levels are annotated for each layer. Bland-Altman plots of junction and endpoint counts display the difference between predicted and ground-truth values against their mean, with solid lines indicating mean bias and dashed lines indicating the 95\% limits of agreement (LoA). Metrics annotated include the mean absolute error (MAE) and the percentage of samples agreeing within $\pm$3 counts.
+    \textbf{(B)} Summary of $R^2$ values for vessel area and length across all models and depth layers. Diffusion-based models (PBBDM, LBBDM) consistently achieve $R^2 > 0.84$ for both layers, whereas GAN-based models show more variable performance, particularly in the bottom layer where vessels are thinner and more branched.
+    \textbf{(C)} Summary of MAE and percentage agreement within $\pm$3 counts for junctions and endpoints. For junction counts, PBBDM and LBBDM achieve MAE $\leq$ 1.6 with 84--88\% of samples agreeing within $\pm$3, compared with MAE of 2.3--2.7 and 75\% agreement for WGANGP. For endpoints, diffusion models maintain MAE $\leq$ 3.0 with $\sim$70\% agreement, while WGANGP shows MAE $>$ 4.5 with $<$52\% agreement. All analyses were performed on the top 80\% of each image to exclude the morphologically unstable baseline region ($N = 228$ samples).}
+    \label{fig:perlayer}
+\end{figure*}
+
+
+% ============================================================================
+% BODY TEXT: New subsection 2.4.3 - Per-layer morphometric agreement
+% Insert AFTER the existing "Topological agreement" subsubsection
+% ============================================================================
+
+\subsubsection{Per-layer morphometric agreement}
+To further validate the structural fidelity of the proposed framework at each depth layer independently, we performed a per-layer concordance analysis by separating the depth-encoded ground truth and predicted images into bottom-layer (R$>$B) and top-layer (B$>$R) channels before extracting morphometric features. This analysis tests whether the model preserves vascular structure not only in aggregate but also at each axial level, which is a prerequisite for depth-resolved angiogenesis quantification.
+
+As shown in \textbf{Figure~\ref{fig:perlayer}A}, scatter plots of vessel area and vessel length confirmed strong linear agreement for both depth layers across the diffusion-based models. LBBDM achieved $R^2$ values of 0.903 and 0.979 for bottom- and top-layer vessel area, respectively, and 0.893 and 0.939 for vessel length (Figure~\ref{fig:perlayer}B). These values indicate that the model preserved the spatial extent and coverage of the vascular network at each depth with high fidelity. The GAN-based models showed more variable correspondence, particularly in the bottom layer where vessels tend to be thinner and more extensively branched.
+
+For count-based topological metrics, we adopted Bland-Altman analysis rather than $R^2$ regression, because junction and endpoint counts are integer-valued with a narrow dynamic range (typically 0--30 per sample), where even a difference of 1--2 counts can produce misleadingly low $R^2$ values despite biologically negligible error. The Bland-Altman plots (Figure~\ref{fig:perlayer}A, right columns) showed that PBBDM and LBBDM maintained low systematic bias and narrow limits of agreement for both junctions and endpoints. Quantitatively, both diffusion models achieved junction MAE $\leq$ 1.6 with 84--88\% of samples agreeing within $\pm$3 counts, compared with MAE of 2.3--2.7 and 75\% agreement for WGANGP (Figure~\ref{fig:perlayer}C). A similar pattern was observed for endpoints, where diffusion models maintained MAE $\leq$ 3.0, while WGANGP showed MAE $>$ 4.5 with less than 52\% agreement within $\pm$3.
+
+Taken together, these per-layer results demonstrate that the proposed depth-aware framework not only achieves high aggregate concordance but also preserves biologically relevant vascular topology at each axial level independently. This capability is essential for applications in which depth-resolved quantification of angiogenic growth, branching, and sprout extension is required.
+
+
+% ============================================================================
+% SUPPLEMENTARY FIGURE S2: Bridging Algorithm
+% ============================================================================
+
+\begin{figure}[!htbp]
+    \centering
+    \includegraphics[width=1\linewidth]{Figure S2.png}
+    \caption{\justifying \textbf{Tangent-guided gap bridging algorithm for depth-separated skeletons.}
+    \textbf{(Top)} Flowchart of the five-step bridging procedure. Step~1: skeleton endpoints are detected as pixels with a single neighbor. Step~2: the local tangent direction is estimated by tracing 10--20 pixels back along the skeleton from each endpoint. Step~3: candidate endpoint pairs are evaluated based on distance ($<$80~px), angular compatibility (cos$\theta > $ cos$60^{\circ}$), and vessel-mask overlap ($\geq$70\%). Step~4: compatible pairs are connected via cubic B\'{e}zier interpolation, with control points positioned along the tangent directions. Step~5: candidates are scored by a composite criterion combining angular agreement, normalized distance, and vessel-mask coverage, and matched greedily without reuse.
+    \textbf{(Middle)} Schematic illustrating the bridging concept. Before bridging, two skeleton fragments terminate at endpoints ($t_1$, $t_2$ denote tangent vectors) with a gap in between. After bridging, the gap is filled by a smooth B\'{e}zier curve that respects the local tangent continuity of both endpoints.
+    \textbf{(Bottom)} Representative examples of successfully bridged gaps for bottom-layer (R) and top-layer (B) skeletons. Left panels show the skeleton before bridging with visible discontinuities; right panels show the reconnected skeleton after bridging.}
+    \label{fig:bridging_algo}
+\end{figure}
+
+
+% ============================================================================
+% DISCUSSION UPDATE: Add paragraph to Section 3.2 or new Section 3.x
+% Insert AFTER "Depth-encoded supervision and the role of multi-color targets"
+% ============================================================================
+
+\subsection{Depth-resolved quantification as a downstream validation strategy}
+An important methodological contribution of this work is the introduction of a depth-aware downstream quantification pipeline that evaluates vascular morphology at each axial layer independently. Conventional approaches to virtual-staining validation rely on aggregate image-quality metrics or global morphometric comparisons, both of which can mask layer-specific deficiencies. By separating the depth-encoded ground truth and predictions into per-layer channels and performing independent skeletonization and feature extraction, we obtained a more stringent and biologically informative assessment of structural fidelity.
+
+This per-layer analysis revealed several findings that are not apparent from aggregate metrics alone. First, both diffusion-based models maintained high morphometric concordance at each depth layer, with $R^2 > 0.84$ for vessel area and length in both bottom and top layers. Second, the use of Bland-Altman analysis for count-based metrics provided a more appropriate statistical framework than $R^2$ regression for evaluating junction and endpoint agreement, given their integer-valued nature and narrow dynamic range. The resulting MAE values ($\leq$1.6 for junctions) and agreement rates ($>$84\% within $\pm$3) confirm that the diffusion models preserved branching topology with biologically negligible error.
+
+Third, the tangent-guided gap bridging algorithm (Supplementary Figure~S2) addressed a practical limitation of per-channel skeletonization, in which skeleton gaps arise at crossing regions where the opposing depth channel dominates. By reconnecting compatible endpoints using B\'{e}zier interpolation constrained by tangent continuity and vessel-mask overlap, the bridging procedure recovered natural vessel connectivity without introducing false branches. This post-processing step is important because it ensures that the per-layer morphometric features reflect the true vascular topology rather than artifacts of channel separation.
+
+These results support the view that depth-encoded virtual staining is not merely a richer visual representation but a framework that enables quantitatively more informative downstream analysis. In future work, this per-layer quantification strategy could be extended to longitudinal monitoring of depth-specific angiogenic dynamics, where changes in sprouting behavior may differ between axial levels within the same microfluidic culture.
+
+
+% ============================================================================
+% METHODS UPDATE: Expand "Skeletonization and Topology Extraction" subsection
+% Replace the existing brief paragraph with this expanded version
+% ============================================================================
+
+\subsubsection{Skeletonization and Topology Extraction}
+The binary vessel masks were converted into single-pixel-wide skeletons using an iterative thinning procedure. For the single-color task, a single skeleton was extracted from the monochromatic vessel mask. For the multi-color depth-aware task, a depth-separated skeletonization approach was employed to resolve structural ambiguities arising from vessel overlap in projection.
+
+Specifically, the depth-encoded fluorescence image was decomposed using RGB channel intensities after Gaussian smoothing ($\sigma = 7$~pixels). Bottom-layer vessels were identified as regions where the red channel exceeded the blue channel (R$>$B), with the red channel mask generated via thresholding (R$>$30) followed by morphological closing. Top-layer vessels were identified as regions where the blue channel exceeded the red channel (B$>$R), using hysteresis thresholding (seed threshold = 50, extension threshold = 20) followed by morphological closing and connected-component filtering. Each layer mask was independently skeletonized, producing per-depth skeletons that resolve crossing regions which appear as spurious junctions in the conventional single-skeleton approach.
+
+To reconnect skeleton gaps that arise at crossing regions where the opposing channel dominates, a tangent-guided gap bridging algorithm was applied (Supplementary Figure~\ref{fig:bridging_algo}). Skeleton endpoints were identified as pixels with a single neighbor. For each endpoint, the local tangent direction was estimated by tracing 10--20 pixels along the skeleton. Candidate endpoint pairs were scored based on angular compatibility ($\cos\theta > \cos 60°$), Euclidean distance ($<$80 pixels), and B\'{e}zier bridge overlap with the vessel mask ($\geq$70\%), and connected using cubic B\'{e}zier interpolation. A greedy matching strategy selected the highest-scoring pairs without reuse.
+
+Junction points were identified as skeleton pixels with three or more neighbors, clustered, and verified by confirming that removing the junction cluster from the skeleton produced at least three connected components. Endpoints were identified as skeleton pixels with exactly one neighbor, excluding those within five pixels of the analysis boundary. For the combined depth skeleton, endpoints of one layer that fell within the dilated skeleton of the opposing layer were classified as connected points rather than true terminal endpoints, and excluded from the endpoint count.
+
+All morphometric analyses were restricted to the top 80\% of each image to exclude the morphologically unstable baseline region at the cell-seeding interface. The analysis pipeline, including depth-separated skeletonization and gap bridging, is available at [GitHub repository URL].

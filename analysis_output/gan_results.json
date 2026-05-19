@@ -1,0 +1,1727 @@
+{
+  "LSGAN": {
+    "single": [],
+    "multi": [
+      {
+        "junctions": 6,
+        "endpoints": 13,
+        "length": 400
+      },
+      {
+        "junctions": 30,
+        "endpoints": 12,
+        "length": 987
+      },
+      {
+        "junctions": 34,
+        "endpoints": 16,
+        "length": 779
+      },
+      {
+        "junctions": 43,
+        "endpoints": 22,
+        "length": 1102
+      },
+      {
+        "junctions": 74,
+        "endpoints": 34,
+        "length": 1397
+      },
+      {
+        "junctions": 68,
+        "endpoints": 24,
+        "length": 1279
+      },
+      {
+        "junctions": 80,
+        "endpoints": 21,
+        "length": 1830
+      },
+      {
+        "junctions": 86,
+        "endpoints": 25,
+        "length": 1956
+      },
+      {
+        "junctions": 42,
+        "endpoints": 15,
+        "length": 1241
+      },
+      {
+        "junctions": 58,
+        "endpoints": 16,
+        "length": 1324
+      },
+      {
+        "junctions": 59,
+        "endpoints": 12,
+        "length": 1315
+      },
+      {
+        "junctions": 31,
+        "endpoints": 15,
+        "length": 952
+      },
+      {
+        "junctions": 53,
+        "endpoints": 14,
+        "length": 991
+      },
+      {
+        "junctions": 22,
+        "endpoints": 10,
+        "length": 743
+      },
+      {
+        "junctions": 5,
+        "endpoints": 7,
+        "length": 512
+      },
+      {
+        "junctions": 15,
+        "endpoints": 6,
+        "length": 714
+      },
+      {
+        "junctions": 34,
+        "endpoints": 19,
+        "length": 945
+      },
+      {
+        "junctions": 28,
+        "endpoints": 13,
+        "length": 913
+      },
+      {
+        "junctions": 18,
+        "endpoints": 8,
+        "length": 583
+      },
+      {
+        "junctions": 27,
+        "endpoints": 8,
+        "length": 621
+      },
+      {
+        "junctions": 51,
+        "endpoints": 21,
+        "length": 1192
+      },
+      {
+        "junctions": 26,
+        "endpoints": 12,
+        "length": 613
+      },
+      {
+        "junctions": 105,
+        "endpoints": 18,
+        "length": 1269
+      },
+      {
+        "junctions": 78,
+        "endpoints": 11,
+        "length": 1510
+      },
+      {
+        "junctions": 61,
+        "endpoints": 27,
+        "length": 1386
+      },
+      {
+        "junctions": 61,
+        "endpoints": 21,
+        "length": 1153
+      },
+      {
+        "junctions": 71,
+        "endpoints": 27,
+        "length": 1576
+      },
+      {
+        "junctions": 5,
+        "endpoints": 7,
+        "length": 483
+      },
+      {
+        "junctions": 13,
+        "endpoints": 11,
+        "length": 485
+      },
+      {
+        "junctions": 12,
+        "endpoints": 15,
+        "length": 586
+      },
+      {
+        "junctions": 22,
+        "endpoints": 22,
+        "length": 934
+      },
+      {
+        "junctions": 22,
+        "endpoints": 15,
+        "length": 881
+      },
+      {
+        "junctions": 32,
+        "endpoints": 16,
+        "length": 796
+      },
+      {
+        "junctions": 41,
+        "endpoints": 27,
+        "length": 1132
+      },
+      {
+        "junctions": 29,
+        "endpoints": 11,
+        "length": 1013
+      },
+      {
+        "junctions": 27,
+        "endpoints": 6,
+        "length": 715
+      },
+      {
+        "junctions": 38,
+        "endpoints": 13,
+        "length": 959
+      },
+      {
+        "junctions": 67,
+        "endpoints": 13,
+        "length": 1260
+      },
+      {
+        "junctions": 30,
+        "endpoints": 10,
+        "length": 583
+      },
+      {
+        "junctions": 18,
+        "endpoints": 16,
+        "length": 692
+      },
+      {
+        "junctions": 77,
+        "endpoints": 15,
+        "length": 1584
+      },
+      {
+        "junctions": 118,
+        "endpoints": 14,
+        "length": 2010
+      },
+      {
+        "junctions": 71,
+        "endpoints": 16,
+        "length": 1284
+      },
+      {
+        "junctions": 89,
+        "endpoints": 14,
+        "length": 1507
+      },
+      {
+        "junctions": 89,
+        "endpoints": 23,
+        "length": 1694
+      },
+      {
+        "junctions": 51,
+        "endpoints": 18,
+        "length": 1150
+      },
+      {
+        "junctions": 32,
+        "endpoints": 14,
+        "length": 830
+      },
+      {
+        "junctions": 53,
+        "endpoints": 16,
+        "length": 1171
+      },
+      {
+        "junctions": 24,
+        "endpoints": 11,
+        "length": 791
+      },
+      {
+        "junctions": 37,
+        "endpoints": 11,
+        "length": 759
+      },
+      {
+        "junctions": 32,
+        "endpoints": 16,
+        "length": 821
+      },
+      {
+        "junctions": 18,
+        "endpoints": 9,
+        "length": 792
+      },
+      {
+        "junctions": 11,
+        "endpoints": 12,
+        "length": 596
+      },
+      {
+        "junctions": 18,
+        "endpoints": 14,
+        "length": 735
+      },
+      {
+        "junctions": 11,
+        "endpoints": 9,
+        "length": 392
+      },
+      {
+        "junctions": 21,
+        "endpoints": 7,
+        "length": 461
+      },
+      {
+        "junctions": 56,
+        "endpoints": 11,
+        "length": 1125
+      },
+      {
+        "junctions": 84,
+        "endpoints": 14,
+        "length": 1308
+      },
+      {
+        "junctions": 45,
+        "endpoints": 9,
+        "length": 716
+      },
+      {
+        "junctions": 59,
+        "endpoints": 14,
+        "length": 1149
+      },
+      {
+        "junctions": 58,
+        "endpoints": 15,
+        "length": 1171
+      },
+      {
+        "junctions": 53,
+        "endpoints": 15,
+        "length": 905
+      },
+      {
+        "junctions": 21,
+        "endpoints": 10,
+        "length": 745
+      },
+      {
+        "junctions": 16,
+        "endpoints": 6,
+        "length": 591
+      },
+      {
+        "junctions": 15,
+        "endpoints": 8,
+        "length": 497
+      },
+      {
+        "junctions": 0,
+        "endpoints": 1,
+        "length": 59
+      },
+      {
+        "junctions": 13,
+        "endpoints": 2,
+        "length": 124
+      },
+      {
+        "junctions": 0,
+        "endpoints": 1,
+        "length": 26
+      },
+      {
+        "junctions": 5,
+        "endpoints": 5,
+        "length": 169
+      },
+      {
+        "junctions": 2,
+        "endpoints": 3,
+        "length": 98
+      },
+      {
+        "junctions": 40,
+        "endpoints": 10,
+        "length": 858
+      },
+      {
+        "junctions": 13,
+        "endpoints": 6,
+        "length": 375
+      },
+      {
+        "junctions": 7,
+        "endpoints": 3,
+        "length": 243
+      },
+      {
+        "junctions": 12,
+        "endpoints": 2,
+        "length": 386
+      },
+      {
+        "junctions": 19,
+        "endpoints": 8,
+        "length": 579
+      },
+      {
+        "junctions": 23,
+        "endpoints": 8,
+        "length": 522
+      },
+      {
+        "junctions": 16,
+        "endpoints": 3,
+        "length": 223
+      },
+      {
+        "junctions": 12,
+        "endpoints": 9,
+        "length": 314
+      },
+      {
+        "junctions": 3,
+        "endpoints": 1,
+        "length": 157
+      },
+      {
+        "junctions": 5,
+        "endpoints": 1,
+        "length": 125
+      },
+      {
+        "junctions": 0,
+        "endpoints": 3,
+        "length": 97
+      },
+      {
+        "junctions": 0,
+        "endpoints": 1,
+        "length": 59
+      },
+      {
+        "junctions": 0,
+        "endpoints": 1,
+        "length": 57
+      },
+      {
+        "junctions": 19,
+        "endpoints": 3,
+        "length": 473
+      },
+      {
+        "junctions": 24,
+        "endpoints": 8,
+        "length": 310
+      },
+      {
+        "junctions": 10,
+        "endpoints": 4,
+        "length": 210
+      },
+      {
+        "junctions": 20,
+        "endpoints": 7,
+        "length": 321
+      },
+      {
+        "junctions": 0,
+        "endpoints": 3,
+        "length": 77
+      },
+      {
+        "junctions": 14,
+        "endpoints": 5,
+        "length": 474
+      },
+      {
+        "junctions": 41,
+        "endpoints": 11,
+        "length": 1055
+      },
+      {
+        "junctions": 10,
+        "endpoints": 13,
+        "length": 548
+      },
+      {
+        "junctions": 0,
+        "endpoints": 5,
+        "length": 226
+      },
+      {
+        "junctions": 24,
+        "endpoints": 8,
+        "length": 592
+      },
+      {
+        "junctions": 54,
+        "endpoints": 14,
+        "length": 689
+      },
+      {
+        "junctions": 7,
+        "endpoints": 5,
+        "length": 281
+      },
+      {
+        "junctions": 3,
+        "endpoints": 6,
+        "length": 228
+      },
+      {
+        "junctions": 18,
+        "endpoints": 5,
+        "length": 436
+      },
+      {
+        "junctions": 9,
+        "endpoints": 4,
+        "length": 242
+      },
+      {
+        "junctions": 2,
+        "endpoints": 3,
+        "length": 158
+      },
+      {
+        "junctions": 11,
+        "endpoints": 11,
+        "length": 233
+      },
+      {
+        "junctions": 7,
+        "endpoints": 7,
+        "length": 177
+      },
+      {
+        "junctions": 1,
+        "endpoints": 2,
+        "length": 41
+      },
+      {
+        "junctions": 0,
+        "endpoints": 0,
+        "length": 0
+      },
+      {
+        "junctions": 0,
+        "endpoints": 0,
+        "length": 8
+      },
+      {
+        "junctions": 10,
+        "endpoints": 1,
+        "length": 125
+      },
+      {
+        "junctions": 6,
+        "endpoints": 4,
+        "length": 225
+      },
+      {
+        "junctions": 11,
+        "endpoints": 5,
+        "length": 452
+      },
+      {
+        "junctions": 8,
+        "endpoints": 7,
+        "length": 435
+      },
+      {
+        "junctions": 16,
+        "endpoints": 10,
+        "length": 558
+      },
+      {
+        "junctions": 18,
+        "endpoints": 3,
+        "length": 197
+      },
+      {
+        "junctions": 6,
+        "endpoints": 2,
+        "length": 127
+      },
+      {
+        "junctions": 0,
+        "endpoints": 0,
+        "length": 0
+      },
+      {
+        "junctions": 0,
+        "endpoints": 0,
+        "length": 16
+      },
+      {
+        "junctions": 5,
+        "endpoints": 4,
+        "length": 109
+      }
+    ]
+  },
+  "Pix2pix": {
+    "single": [],
+    "multi": [
+      {
+        "junctions": 12,
+        "endpoints": 13,
+        "length": 542
+      },
+      {
+        "junctions": 19,
+        "endpoints": 21,
+        "length": 1021
+      },
+      {
+        "junctions": 46,
+        "endpoints": 18,
+        "length": 1246
+      },
+      {
+        "junctions": 78,
+        "endpoints": 34,
+        "length": 1669
+      },
+      {
+        "junctions": 128,
+        "endpoints": 23,
+        "length": 1971
+      },
+      {
+        "junctions": 32,
+        "endpoints": 21,
+        "length": 1109
+      },
+      {
+        "junctions": 61,
+        "endpoints": 19,
+        "length": 1927
+      },
+      {
+        "junctions": 76,
+        "endpoints": 19,
+        "length": 2058
+      },
+      {
+        "junctions": 42,
+        "endpoints": 23,
+        "length": 1419
+      },
+      {
+        "junctions": 80,
+        "endpoints": 13,
+        "length": 1890
+      },
+      {
+        "junctions": 54,
+        "endpoints": 19,
+        "length": 1434
+      },
+      {
+        "junctions": 43,
+        "endpoints": 12,
+        "length": 1025
+      },
+      {
+        "junctions": 56,
+        "endpoints": 20,
+        "length": 1440
+      },
+      {
+        "junctions": 25,
+        "endpoints": 8,
+        "length": 762
+      },
+      {
+        "junctions": 5,
+        "endpoints": 9,
+        "length": 485
+      },
+      {
+        "junctions": 21,
+        "endpoints": 9,
+        "length": 851
+      },
+      {
+        "junctions": 44,
+        "endpoints": 13,
+        "length": 991
+      },
+      {
+        "junctions": 34,
+        "endpoints": 12,
+        "length": 1080
+      },
+      {
+        "junctions": 26,
+        "endpoints": 13,
+        "length": 790
+      },
+      {
+        "junctions": 69,
+        "endpoints": 17,
+        "length": 1022
+      },
+      {
+        "junctions": 126,
+        "endpoints": 34,
+        "length": 2231
+      },
+      {
+        "junctions": 52,
+        "endpoints": 25,
+        "length": 1440
+      },
+      {
+        "junctions": 82,
+        "endpoints": 10,
+        "length": 1584
+      },
+      {
+        "junctions": 74,
+        "endpoints": 23,
+        "length": 1761
+      },
+      {
+        "junctions": 146,
+        "endpoints": 36,
+        "length": 2596
+      },
+      {
+        "junctions": 123,
+        "endpoints": 34,
+        "length": 2369
+      },
+      {
+        "junctions": 80,
+        "endpoints": 37,
+        "length": 2174
+      },
+      {
+        "junctions": 14,
+        "endpoints": 10,
+        "length": 717
+      },
+      {
+        "junctions": 13,
+        "endpoints": 10,
+        "length": 706
+      },
+      {
+        "junctions": 40,
+        "endpoints": 9,
+        "length": 1296
+      },
+      {
+        "junctions": 72,
+        "endpoints": 18,
+        "length": 1460
+      },
+      {
+        "junctions": 17,
+        "endpoints": 13,
+        "length": 1002
+      },
+      {
+        "junctions": 56,
+        "endpoints": 22,
+        "length": 1611
+      },
+      {
+        "junctions": 51,
+        "endpoints": 22,
+        "length": 1400
+      },
+      {
+        "junctions": 30,
+        "endpoints": 10,
+        "length": 1098
+      },
+      {
+        "junctions": 12,
+        "endpoints": 4,
+        "length": 674
+      },
+      {
+        "junctions": 67,
+        "endpoints": 20,
+        "length": 1275
+      },
+      {
+        "junctions": 63,
+        "endpoints": 13,
+        "length": 1436
+      },
+      {
+        "junctions": 32,
+        "endpoints": 7,
+        "length": 586
+      },
+      {
+        "junctions": 35,
+        "endpoints": 15,
+        "length": 915
+      },
+      {
+        "junctions": 65,
+        "endpoints": 20,
+        "length": 1441
+      },
+      {
+        "junctions": 67,
+        "endpoints": 20,
+        "length": 1796
+      },
+      {
+        "junctions": 62,
+        "endpoints": 27,
+        "length": 1472
+      },
+      {
+        "junctions": 68,
+        "endpoints": 20,
+        "length": 1610
+      },
+      {
+        "junctions": 70,
+        "endpoints": 20,
+        "length": 1804
+      },
+      {
+        "junctions": 79,
+        "endpoints": 19,
+        "length": 1639
+      },
+      {
+        "junctions": 23,
+        "endpoints": 14,
+        "length": 898
+      },
+      {
+        "junctions": 39,
+        "endpoints": 10,
+        "length": 1192
+      },
+      {
+        "junctions": 48,
+        "endpoints": 13,
+        "length": 977
+      },
+      {
+        "junctions": 36,
+        "endpoints": 12,
+        "length": 692
+      },
+      {
+        "junctions": 28,
+        "endpoints": 6,
+        "length": 694
+      },
+      {
+        "junctions": 12,
+        "endpoints": 11,
+        "length": 632
+      },
+      {
+        "junctions": 39,
+        "endpoints": 18,
+        "length": 940
+      },
+      {
+        "junctions": 27,
+        "endpoints": 12,
+        "length": 814
+      },
+      {
+        "junctions": 7,
+        "endpoints": 10,
+        "length": 424
+      },
+      {
+        "junctions": 9,
+        "endpoints": 6,
+        "length": 403
+      },
+      {
+        "junctions": 28,
+        "endpoints": 5,
+        "length": 766
+      },
+      {
+        "junctions": 41,
+        "endpoints": 11,
+        "length": 1014
+      },
+      {
+        "junctions": 34,
+        "endpoints": 10,
+        "length": 814
+      },
+      {
+        "junctions": 31,
+        "endpoints": 13,
+        "length": 780
+      },
+      {
+        "junctions": 49,
+        "endpoints": 15,
+        "length": 847
+      },
+      {
+        "junctions": 31,
+        "endpoints": 13,
+        "length": 602
+      },
+      {
+        "junctions": 10,
+        "endpoints": 9,
+        "length": 483
+      },
+      {
+        "junctions": 20,
+        "endpoints": 7,
+        "length": 590
+      },
+      {
+        "junctions": 10,
+        "endpoints": 12,
+        "length": 574
+      },
+      {
+        "junctions": 0,
+        "endpoints": 3,
+        "length": 62
+      },
+      {
+        "junctions": 0,
+        "endpoints": 0,
+        "length": 5
+      },
+      {
+        "junctions": 0,
+        "endpoints": 2,
+        "length": 32
+      },
+      {
+        "junctions": 0,
+        "endpoints": 1,
+        "length": 59
+      },
+      {
+        "junctions": 2,
+        "endpoints": 3,
+        "length": 127
+      },
+      {
+        "junctions": 9,
+        "endpoints": 9,
+        "length": 617
+      },
+      {
+        "junctions": 9,
+        "endpoints": 5,
+        "length": 329
+      },
+      {
+        "junctions": 17,
+        "endpoints": 3,
+        "length": 336
+      },
+      {
+        "junctions": 29,
+        "endpoints": 5,
+        "length": 576
+      },
+      {
+        "junctions": 25,
+        "endpoints": 15,
+        "length": 722
+      },
+      {
+        "junctions": 24,
+        "endpoints": 10,
+        "length": 592
+      },
+      {
+        "junctions": 9,
+        "endpoints": 5,
+        "length": 244
+      },
+      {
+        "junctions": 1,
+        "endpoints": 4,
+        "length": 193
+      },
+      {
+        "junctions": 1,
+        "endpoints": 1,
+        "length": 75
+      },
+      {
+        "junctions": 0,
+        "endpoints": 2,
+        "length": 81
+      },
+      {
+        "junctions": 0,
+        "endpoints": 2,
+        "length": 119
+      },
+      {
+        "junctions": 0,
+        "endpoints": 3,
+        "length": 94
+      },
+      {
+        "junctions": 0,
+        "endpoints": 1,
+        "length": 69
+      },
+      {
+        "junctions": 21,
+        "endpoints": 4,
+        "length": 459
+      },
+      {
+        "junctions": 13,
+        "endpoints": 3,
+        "length": 357
+      },
+      {
+        "junctions": 9,
+        "endpoints": 3,
+        "length": 182
+      },
+      {
+        "junctions": 16,
+        "endpoints": 3,
+        "length": 324
+      },
+      {
+        "junctions": 9,
+        "endpoints": 2,
+        "length": 96
+      },
+      {
+        "junctions": 15,
+        "endpoints": 13,
+        "length": 601
+      },
+      {
+        "junctions": 25,
+        "endpoints": 11,
+        "length": 997
+      },
+      {
+        "junctions": 29,
+        "endpoints": 10,
+        "length": 741
+      },
+      {
+        "junctions": 5,
+        "endpoints": 5,
+        "length": 301
+      },
+      {
+        "junctions": 27,
+        "endpoints": 8,
+        "length": 557
+      },
+      {
+        "junctions": 32,
+        "endpoints": 14,
+        "length": 715
+      },
+      {
+        "junctions": 8,
+        "endpoints": 5,
+        "length": 312
+      },
+      {
+        "junctions": 12,
+        "endpoints": 4,
+        "length": 367
+      },
+      {
+        "junctions": 26,
+        "endpoints": 2,
+        "length": 512
+      },
+      {
+        "junctions": 2,
+        "endpoints": 6,
+        "length": 213
+      },
+      {
+        "junctions": 3,
+        "endpoints": 3,
+        "length": 87
+      },
+      {
+        "junctions": 9,
+        "endpoints": 11,
+        "length": 163
+      },
+      {
+        "junctions": 3,
+        "endpoints": 6,
+        "length": 188
+      },
+      {
+        "junctions": 12,
+        "endpoints": 0,
+        "length": 62
+      },
+      {
+        "junctions": 0,
+        "endpoints": 5,
+        "length": 57
+      },
+      {
+        "junctions": 0,
+        "endpoints": 1,
+        "length": 8
+      },
+      {
+        "junctions": 5,
+        "endpoints": 3,
+        "length": 77
+      },
+      {
+        "junctions": 1,
+        "endpoints": 7,
+        "length": 201
+      },
+      {
+        "junctions": 17,
+        "endpoints": 6,
+        "length": 491
+      },
+      {
+        "junctions": 31,
+        "endpoints": 13,
+        "length": 507
+      },
+      {
+        "junctions": 8,
+        "endpoints": 7,
+        "length": 425
+      },
+      {
+        "junctions": 10,
+        "endpoints": 1,
+        "length": 148
+      },
+      {
+        "junctions": 9,
+        "endpoints": 1,
+        "length": 132
+      },
+      {
+        "junctions": 0,
+        "endpoints": 0,
+        "length": 0
+      },
+      {
+        "junctions": 0,
+        "endpoints": 0,
+        "length": 0
+      },
+      {
+        "junctions": 4,
+        "endpoints": 1,
+        "length": 100
+      }
+    ]
+  },
+  "WGANGP": {
+    "single": [],
+    "multi": [
+      {
+        "junctions": 16,
+        "endpoints": 10,
+        "length": 542
+      },
+      {
+        "junctions": 29,
+        "endpoints": 19,
+        "length": 984
+      },
+      {
+        "junctions": 31,
+        "endpoints": 10,
+        "length": 835
+      },
+      {
+        "junctions": 76,
+        "endpoints": 27,
+        "length": 1329
+      },
+      {
+        "junctions": 58,
+        "endpoints": 21,
+        "length": 1174
+      },
+      {
+        "junctions": 42,
+        "endpoints": 9,
+        "length": 1027
+      },
+      {
+        "junctions": 82,
+        "endpoints": 25,
+        "length": 1800
+      },
+      {
+        "junctions": 105,
+        "endpoints": 28,
+        "length": 1738
+      },
+      {
+        "junctions": 61,
+        "endpoints": 12,
+        "length": 1133
+      },
+      {
+        "junctions": 90,
+        "endpoints": 20,
+        "length": 1403
+      },
+      {
+        "junctions": 70,
+        "endpoints": 21,
+        "length": 1350
+      },
+      {
+        "junctions": 59,
+        "endpoints": 9,
+        "length": 1000
+      },
+      {
+        "junctions": 25,
+        "endpoints": 15,
+        "length": 794
+      },
+      {
+        "junctions": 23,
+        "endpoints": 8,
+        "length": 597
+      },
+      {
+        "junctions": 17,
+        "endpoints": 12,
+        "length": 673
+      },
+      {
+        "junctions": 5,
+        "endpoints": 12,
+        "length": 607
+      },
+      {
+        "junctions": 52,
+        "endpoints": 11,
+        "length": 964
+      },
+      {
+        "junctions": 56,
+        "endpoints": 9,
+        "length": 976
+      },
+      {
+        "junctions": 69,
+        "endpoints": 9,
+        "length": 799
+      },
+      {
+        "junctions": 11,
+        "endpoints": 12,
+        "length": 525
+      },
+      {
+        "junctions": 75,
+        "endpoints": 21,
+        "length": 1753
+      },
+      {
+        "junctions": 44,
+        "endpoints": 12,
+        "length": 1080
+      },
+      {
+        "junctions": 51,
+        "endpoints": 11,
+        "length": 1079
+      },
+      {
+        "junctions": 88,
+        "endpoints": 28,
+        "length": 1797
+      },
+      {
+        "junctions": 134,
+        "endpoints": 25,
+        "length": 2244
+      },
+      {
+        "junctions": 78,
+        "endpoints": 31,
+        "length": 1793
+      },
+      {
+        "junctions": 88,
+        "endpoints": 18,
+        "length": 1705
+      },
+      {
+        "junctions": 15,
+        "endpoints": 7,
+        "length": 451
+      },
+      {
+        "junctions": 16,
+        "endpoints": 8,
+        "length": 445
+      },
+      {
+        "junctions": 27,
+        "endpoints": 18,
+        "length": 721
+      },
+      {
+        "junctions": 72,
+        "endpoints": 15,
+        "length": 1250
+      },
+      {
+        "junctions": 37,
+        "endpoints": 5,
+        "length": 1024
+      },
+      {
+        "junctions": 40,
+        "endpoints": 7,
+        "length": 940
+      },
+      {
+        "junctions": 40,
+        "endpoints": 20,
+        "length": 713
+      },
+      {
+        "junctions": 27,
+        "endpoints": 12,
+        "length": 806
+      },
+      {
+        "junctions": 24,
+        "endpoints": 7,
+        "length": 809
+      },
+      {
+        "junctions": 60,
+        "endpoints": 11,
+        "length": 1043
+      },
+      {
+        "junctions": 92,
+        "endpoints": 16,
+        "length": 1446
+      },
+      {
+        "junctions": 59,
+        "endpoints": 10,
+        "length": 730
+      },
+      {
+        "junctions": 41,
+        "endpoints": 12,
+        "length": 900
+      },
+      {
+        "junctions": 68,
+        "endpoints": 19,
+        "length": 1353
+      },
+      {
+        "junctions": 105,
+        "endpoints": 27,
+        "length": 2037
+      },
+      {
+        "junctions": 73,
+        "endpoints": 21,
+        "length": 1404
+      },
+      {
+        "junctions": 41,
+        "endpoints": 12,
+        "length": 956
+      },
+      {
+        "junctions": 51,
+        "endpoints": 18,
+        "length": 1357
+      },
+      {
+        "junctions": 35,
+        "endpoints": 18,
+        "length": 989
+      },
+      {
+        "junctions": 21,
+        "endpoints": 9,
+        "length": 681
+      },
+      {
+        "junctions": 13,
+        "endpoints": 18,
+        "length": 847
+      },
+      {
+        "junctions": 42,
+        "endpoints": 16,
+        "length": 915
+      },
+      {
+        "junctions": 21,
+        "endpoints": 17,
+        "length": 646
+      },
+      {
+        "junctions": 18,
+        "endpoints": 14,
+        "length": 602
+      },
+      {
+        "junctions": 49,
+        "endpoints": 11,
+        "length": 914
+      },
+      {
+        "junctions": 40,
+        "endpoints": 9,
+        "length": 890
+      },
+      {
+        "junctions": 42,
+        "endpoints": 12,
+        "length": 836
+      },
+      {
+        "junctions": 16,
+        "endpoints": 9,
+        "length": 376
+      },
+      {
+        "junctions": 21,
+        "endpoints": 7,
+        "length": 513
+      },
+      {
+        "junctions": 80,
+        "endpoints": 18,
+        "length": 1397
+      },
+      {
+        "junctions": 70,
+        "endpoints": 17,
+        "length": 1321
+      },
+      {
+        "junctions": 41,
+        "endpoints": 11,
+        "length": 830
+      },
+      {
+        "junctions": 82,
+        "endpoints": 17,
+        "length": 1568
+      },
+      {
+        "junctions": 88,
+        "endpoints": 9,
+        "length": 1288
+      },
+      {
+        "junctions": 30,
+        "endpoints": 13,
+        "length": 721
+      },
+      {
+        "junctions": 40,
+        "endpoints": 11,
+        "length": 892
+      },
+      {
+        "junctions": 22,
+        "endpoints": 10,
+        "length": 714
+      },
+      {
+        "junctions": 36,
+        "endpoints": 13,
+        "length": 777
+      },
+      {
+        "junctions": 30,
+        "endpoints": 11,
+        "length": 627
+      },
+      {
+        "junctions": 10,
+        "endpoints": 6,
+        "length": 201
+      },
+      {
+        "junctions": 18,
+        "endpoints": 14,
+        "length": 670
+      },
+      {
+        "junctions": 47,
+        "endpoints": 8,
+        "length": 814
+      },
+      {
+        "junctions": 33,
+        "endpoints": 13,
+        "length": 659
+      },
+      {
+        "junctions": 26,
+        "endpoints": 8,
+        "length": 852
+      },
+      {
+        "junctions": 8,
+        "endpoints": 5,
+        "length": 400
+      },
+      {
+        "junctions": 12,
+        "endpoints": 7,
+        "length": 322
+      },
+      {
+        "junctions": 29,
+        "endpoints": 7,
+        "length": 356
+      },
+      {
+        "junctions": 24,
+        "endpoints": 15,
+        "length": 757
+      },
+      {
+        "junctions": 15,
+        "endpoints": 5,
+        "length": 708
+      },
+      {
+        "junctions": 5,
+        "endpoints": 7,
+        "length": 321
+      },
+      {
+        "junctions": 7,
+        "endpoints": 11,
+        "length": 401
+      },
+      {
+        "junctions": 2,
+        "endpoints": 0,
+        "length": 156
+      },
+      {
+        "junctions": 14,
+        "endpoints": 5,
+        "length": 250
+      },
+      {
+        "junctions": 21,
+        "endpoints": 10,
+        "length": 591
+      },
+      {
+        "junctions": 8,
+        "endpoints": 7,
+        "length": 340
+      },
+      {
+        "junctions": 26,
+        "endpoints": 5,
+        "length": 323
+      },
+      {
+        "junctions": 20,
+        "endpoints": 9,
+        "length": 562
+      },
+      {
+        "junctions": 5,
+        "endpoints": 7,
+        "length": 233
+      },
+      {
+        "junctions": 14,
+        "endpoints": 6,
+        "length": 375
+      },
+      {
+        "junctions": 6,
+        "endpoints": 7,
+        "length": 358
+      },
+      {
+        "junctions": 6,
+        "endpoints": 4,
+        "length": 204
+      },
+      {
+        "junctions": 4,
+        "endpoints": 6,
+        "length": 397
+      },
+      {
+        "junctions": 49,
+        "endpoints": 23,
+        "length": 1122
+      },
+      {
+        "junctions": 17,
+        "endpoints": 10,
+        "length": 593
+      },
+      {
+        "junctions": 12,
+        "endpoints": 15,
+        "length": 482
+      },
+      {
+        "junctions": 18,
+        "endpoints": 9,
+        "length": 504
+      },
+      {
+        "junctions": 21,
+        "endpoints": 9,
+        "length": 602
+      },
+      {
+        "junctions": 5,
+        "endpoints": 10,
+        "length": 354
+      },
+      {
+        "junctions": 12,
+        "endpoints": 8,
+        "length": 300
+      },
+      {
+        "junctions": 27,
+        "endpoints": 8,
+        "length": 474
+      },
+      {
+        "junctions": 12,
+        "endpoints": 6,
+        "length": 346
+      },
+      {
+        "junctions": 14,
+        "endpoints": 18,
+        "length": 391
+      },
+      {
+        "junctions": 26,
+        "endpoints": 8,
+        "length": 573
+      },
+      {
+        "junctions": 20,
+        "endpoints": 5,
+        "length": 417
+      },
+      {
+        "junctions": 20,
+        "endpoints": 5,
+        "length": 243
+      },
+      {
+        "junctions": 17,
+        "endpoints": 4,
+        "length": 338
+      },
+      {
+        "junctions": 22,
+        "endpoints": 10,
+        "length": 473
+      },
+      {
+        "junctions": 14,
+        "endpoints": 5,
+        "length": 377
+      },
+      {
+        "junctions": 19,
+        "endpoints": 4,
+        "length": 414
+      },
+      {
+        "junctions": 11,
+        "endpoints": 2,
+        "length": 341
+      },
+      {
+        "junctions": 6,
+        "endpoints": 4,
+        "length": 262
+      },
+      {
+        "junctions": 17,
+        "endpoints": 7,
+        "length": 356
+      },
+      {
+        "junctions": 15,
+        "endpoints": 4,
+        "length": 225
+      },
+      {
+        "junctions": 10,
+        "endpoints": 4,
+        "length": 236
+      },
+      {
+        "junctions": 27,
+        "endpoints": 15,
+        "length": 471
+      },
+      {
+        "junctions": 54,
+        "endpoints": 9,
+        "length": 560
+      },
+      {
+        "junctions": 13,
+        "endpoints": 8,
+        "length": 228
+      }
+    ]
+  }
+}

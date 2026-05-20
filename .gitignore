@@ -25,91 +25,41 @@ desktop.ini
 # === Local Claude Code config ===
 .claude/
 
-# === Intermediate debug output ===
-analysis_output/debug_pipeline/
+# === Debug-pipeline intermediate outputs (large, regeneratable) ===
+panels/misc/_debug_pipeline/
 
-# === Root-level schematic PPTX — keep only v9 (latest) ===
-depth_schematic_v1.pptx
-depth_schematic_v2.pptx
-depth_schematic_v3.pptx
-depth_schematic_v4.pptx
-depth_schematic_v5.pptx
-depth_schematic_v6.pptx
-depth_schematic_v7.pptx
-depth_schematic_v8.pptx
-depth_aware_schematic.pptx
+# === Intermediate debug PNGs (now organized under panels/misc/) ===
+# These were intermediate scratch outputs during analysis development.
+# Kept on disk locally but not in repo.
+panels/misc/rgb_*.png
+panels/misc/skel_*.png
+panels/misc/smart_*.png
+panels/misc/heatmap_*.png
+panels/misc/hybrid_*.png
+panels/misc/network_*.png
+panels/misc/gradient_*.png
+panels/misc/contour_curvature_*.png
+panels/misc/baseline_*.png
+panels/misc/endpoint_*.png
+panels/misc/depth_layer_*.png
+panels/misc/dataset_depth_overlap.png
+panels/misc/dataset_hue_histogram.png
+panels/misc/dataset_layer_intensity.png
+panels/misc/plan_b_*.png
+panels/misc/holefill_comparison.png
+panels/misc/hue_distribution.png
+panels/misc/junction_debug_v2.png
+panels/misc/single_vs_multi_comparison.png
 
-# === Old figure versions in analysis_output — keep only final/latest ===
-# Fig 1E Pipeline: keep v3b
-analysis_output/Figure_1E_Pipeline.pptx
-analysis_output/Figure_1E_Pipeline_v2.pptx
-analysis_output/Figure_1E_Pipeline_v3.pptx
+# Intermediate stats variants
+panels/stats/final_bars_no_crop.png
+panels/stats/final_scatter_no_crop.png
+panels/selected/selected_v2_bf.png
+panels/selected/selected_v2_junctions.png
 
-# Depth Pipeline: keep v5
-analysis_output/Figure_Depth_Pipeline.pptx
-analysis_output/Figure_Depth_Pipeline_v2.pptx
-analysis_output/Figure_Depth_Pipeline_v3.pptx
-analysis_output/Figure_Depth_Pipeline_v4.pptx
-analysis_output/Figure_Depth_Pipeline_v4.1.pptx
-
-# DepthAware: keep v2
-analysis_output/Figure_DepthAware_Analysis.pptx
-
-# Dataset DepthEncoding: keep v2
-analysis_output/Figure_Dataset_DepthEncoding.pptx
-
-# A4: keep final
-analysis_output/Figure_A4_portrait.pptx
-
-# Complete: keep v3
-analysis_output/Figure_Complete.pptx
-
-# Perlayer Concordance: keep v12 + RGB variant
-analysis_output/Figure_Perlayer_Concordance.pptx
-analysis_output/Figure_Perlayer_Concordance_v2.pptx
-analysis_output/Figure_Perlayer_Concordance_v3.pptx
-analysis_output/Figure_Perlayer_Concordance_v4.pptx
-analysis_output/Figure_Perlayer_Concordance_v5.pptx
-analysis_output/Figure_Perlayer_Concordance_v6.pptx
-analysis_output/Figure_Perlayer_Concordance_v7.pptx
-analysis_output/Figure_Perlayer_Concordance_v8.pptx
-analysis_output/Figure_Perlayer_Concordance_v9.pptx
-analysis_output/Figure_Perlayer_Concordance_v10.pptx
-analysis_output/Figure_Perlayer_Concordance_v11.pptx
-
-# Per-sample: keep final
-analysis_output/Figure_PerSample_Comparison.pptx
-
-# S2 Bridging: keep v2
-analysis_output/Figure_S2_Bridging.pptx
-
-# === Intermediate debug PNGs in analysis_output (keep only final figures) ===
-analysis_output/rgb_*.png
-analysis_output/skel_*.png
-analysis_output/smart_*.png
-analysis_output/heatmap_*.png
-analysis_output/hybrid_*.png
-analysis_output/network_*.png
-analysis_output/gradient_*.png
-analysis_output/contour_curvature_*.png
-analysis_output/baseline_*.png
-analysis_output/endpoint_*.png
-analysis_output/debug_*.png
-analysis_output/plan_b_*.png
-analysis_output/regenerate_*.png
-analysis_output/gen_*.png
-analysis_output/find_*.png
-analysis_output/depth_layer_*.png
-analysis_output/dataset_depth_overlap.png
-analysis_output/dataset_hue_histogram.png
-analysis_output/dataset_layer_intensity.png
-analysis_output/selected_v2_*.png
-analysis_output/single_vs_multi_comparison.png
-analysis_output/final_bars_no_crop.png
-
-# Intermediate JSON results (keep only final_results.json + holefilled)
-analysis_output/final_results_clean_crop10.json
-analysis_output/final_results_crop10.json
+# Intermediate result JSONs (keep only final_results.json + holefilled)
+results/final_results_clean_crop10.json
+results/final_results_crop10.json
 
 # === Git ===
 *.orig

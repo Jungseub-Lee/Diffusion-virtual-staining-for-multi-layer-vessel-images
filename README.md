@@ -4,7 +4,7 @@ Analysis code and final figures for:
 
 > **Latent Brownian Bridge Diffusion for Depth-Aware Virtual Staining of Angiogenic Microvasculature in Microphysiological Systems**
 > Jungseub Lee†, Minh Huyen Le†, Huy Hieu Pham, Noo Li Jeon
-> †Equal contribution. Submitted to *Medical Image Analysis (MedIA)*.
+> †Equal contribution. In preparation for submission to *Medical Image Analysis (MedIA)*.
 
 This repository contains the **downstream analysis pipeline, figure-generation scripts, and final manuscript figures** for the paper. The companion repository [`minhhuyenle/AngioLBBDM`](https://github.com/minhhuyenle/AngioLBBDM) hosts the LBBDM model training and inference code.
 
@@ -166,7 +166,7 @@ For model training/inference, see the companion repository: [`minhhuyenle/AngioL
   author  = {Lee, Jungseub and Le, Minh Huyen and Pham, Huy Hieu and Jeon, Noo Li},
   journal = {Medical Image Analysis},
   year    = {2026},
-  note    = {Under review}
+  note    = {Manuscript in preparation}
 }
 ```
 
